@@ -1,0 +1,3192 @@
+{
+  "Aberdeen, United Kingdom": [
+    {
+      "iata": "ABZ",
+      "cityCode": "ABZ",
+      "terminal": " Aberdeen Dyce Airport",
+      "id": "UK-ABZ-ABZ"
+    }
+  ],
+  "Abu Dhabi, Arab Emirates": [
+    {
+      "iata": "AUH",
+      "cityCode": "AUH",
+      "terminal": " Abu Dhabi International",
+      "id": "AE-AUH-AUH"
+    }
+  ],
+  "Acapulco, Mexico": [
+    {
+      "iata": "ACA",
+      "cityCode": "ACA",
+      "terminal": "General Juan N. Alvarez Airport",
+      "id": "MX-ACA-ACA"
+    }
+  ],
+  "Aguas Calientes, Mexico": [
+    {
+      "iata": "AGU",
+      "cityCode": "AGU",
+      "terminal": "Lic. Jesús Terán Peredo International Airport",
+      "id": "MX-AGU-AGU"
+    }
+  ],
+  "Albany, United States of America": [
+    {
+      "iata": "ALB",
+      "cityCode": "ALB",
+      "terminal": "Albany International Airport",
+      "id": "US-ALB-ALB"
+    }
+  ],
+  "Albuquerque, United States of America": [
+    {
+      "iata": "ABQ",
+      "cityCode": "ABQ",
+      "terminal": "Sunport International Airport",
+      "id": "US-ABQ-ABQ"
+    }
+  ],
+  "Alicante, Spain": [
+    {
+      "iata": "ALC",
+      "cityCode": "ALC",
+      "terminal": "Alicante Airport",
+      "id": "ES-ALC-ALC"
+    },
+    {
+      "iata": "YJE",
+      "cityCode": "ALC",
+      "terminal": "Alicante Railway Station",
+      "id": "ES-ALC-YJE"
+    }
+  ],
+  "Almeria, Spain": [
+    {
+      "iata": "LEI",
+      "cityCode": "LEI",
+      "terminal": "Almeria Airport",
+      "id": "ES-LEI-LEI"
+    }
+  ],
+  "Amsterdam, Holland": [
+    {
+      "iata": "AMS",
+      "cityCode": "AMS",
+      "terminal": "Schiphol Airport",
+      "id": "NL-AMS-AMS"
+    }
+  ],
+  "Aracaju, Brazil": [
+    {
+      "iata": "AJU",
+      "cityCode": "AJU",
+      "terminal": "Aracaju Airport",
+      "id": "BR-AJU-AJU"
+    }
+  ],
+  "Arauca, Colombia": [
+    {
+      "iata": "AUC",
+      "cityCode": "AUC",
+      "terminal": "Santiago Pérez Airport",
+      "id": "CO-AUC-AUC"
+    }
+  ],
+  "Arcata, United States of America": [
+    {
+      "iata": "ACV",
+      "cityCode": "ACV",
+      "terminal": "Arcata Airport",
+      "id": "US-ACV-ACV"
+    }
+  ],
+  "Arequipa, Peru": [
+    {
+      "iata": "AQP",
+      "cityCode": "AQP",
+      "terminal": "Alfredo Rodriguez Ballon International Airport",
+      "id": "PE-AQP-AQP"
+    }
+  ],
+  "Arlington, United States of America": [
+    {
+      "iata": "DCA",
+      "cityCode": "DCA",
+      "terminal": "Ronald Reagan Airport",
+      "id": "US-DCA-DCA"
+    }
+  ],
+  "Armenia, Colombia": [
+    {
+      "iata": "AXM",
+      "cityCode": "AXM",
+      "terminal": "El Eden Airport",
+      "id": "CO-AXM-AXM"
+    }
+  ],
+  "Aruba, Aruba": [
+    {
+      "iata": "AUA",
+      "cityCode": "AUA",
+      "terminal": "Queen Beatrix Airport",
+      "id": "AW-AUA-AUA"
+    }
+  ],
+  "Aspen, United States of America": [
+    {
+      "iata": "ASE",
+      "cityCode": "ASE",
+      "terminal": "Aspen/Pitkin County Airport",
+      "id": "US-ASE-ASE"
+    }
+  ],
+  "Asuncion, Paraguay": [
+    {
+      "iata": "ASU",
+      "cityCode": "ASU",
+      "terminal": "Silvio Pettirossi Airport",
+      "id": "PY-ASU-ASU"
+    }
+  ],
+  "Athens, Greece": [
+    {
+      "iata": "ATH",
+      "cityCode": "ATH",
+      "terminal": "Eleftherios Venizelos Airport",
+      "id": "GR-ATH-ATH"
+    }
+  ],
+  "Atlanta, United States of America": [
+    {
+      "iata": "ATL",
+      "cityCode": "ATL",
+      "terminal": "Hartsfield-Jackson International",
+      "id": "US-ATL-ATL"
+    }
+  ],
+  "Austin, United States of America": [
+    {
+      "iata": "AUS",
+      "cityCode": "AUS",
+      "terminal": "Austin Straubel International Airport",
+      "id": "US-AUS-AUS"
+    }
+  ],
+  "Badajoz, Spain": [
+    {
+      "iata": "BJZ",
+      "cityCode": "BJZ",
+      "terminal": "Badajoz Airport",
+      "id": "ES-BJZ-BJZ"
+    }
+  ],
+  "Baltra, Galapagos  Islands, Ecuador": [
+    {
+      "iata": "GPS",
+      "cityCode": "GPS",
+      "terminal": "Seymour Airport",
+      "id": "EC-GPS-GPS"
+    }
+  ],
+  "Bangkok, Thailand": [
+    {
+      "iata": "BKK",
+      "cityCode": "BKK",
+      "terminal": "Suvarnabhumi International Airport",
+      "id": "TH-BKK-BKK"
+    }
+  ],
+  "Barcelona, Spain": [
+    {
+      "iata": "BCN",
+      "cityCode": "BCN",
+      "terminal": "Barcelona Intl Airport ",
+      "id": "ES-BCN-BCN"
+    },
+    {
+      "iata": "YJB",
+      "cityCode": "BCN",
+      "terminal": "Barcelona sants railway stn",
+      "id": "ES-BCN-YJB"
+    }
+  ],
+  "Barrancabermeja, Colombia": [
+    {
+      "iata": "EJA",
+      "cityCode": "EJA",
+      "terminal": "Yariguies Airport",
+      "id": "CO-EJA-EJA"
+    }
+  ],
+  "Barranquilla, Colombia": [
+    {
+      "iata": "BAQ",
+      "cityCode": "BAQ",
+      "terminal": "Ernesto Cortissoz Airport",
+      "id": "CO-BAQ-BAQ"
+    }
+  ],
+  "Bath Spa, United Kingdom": [
+    {
+      "iata": "QQX",
+      "cityCode": "QQX",
+      "terminal": "Bath Spa Railway STN",
+      "id": "UK-QQX-QQX"
+    }
+  ],
+  "Baton Rouge, United States of America": [
+    {
+      "iata": "BTR",
+      "cityCode": "BTR",
+      "terminal": "Baton Rouge Metropolitan Airport",
+      "id": "US-BTR-BTR"
+    }
+  ],
+  "Beijing, China": [
+    {
+      "iata": "PEK",
+      "cityCode": "PEK",
+      "terminal": "Beijing Airport",
+      "id": "CN-PEK-PEK"
+    }
+  ],
+  "Belem, Brazil": [
+    {
+      "iata": "BEL",
+      "cityCode": "BEL",
+      "terminal": "Val De Cans Airport",
+      "id": "BR-BEL-BEL"
+    }
+  ],
+  "Belfast, United Kingdom": [
+    {
+      "iata": "BHD",
+      "cityCode": "BHD",
+      "terminal": "George Best Belfast City Airport",
+      "id": "UK-BHD-BHD"
+    }
+  ],
+  "Belize, Belize": [
+    {
+      "iata": "BZE",
+      "cityCode": "BZE",
+      "terminal": "Philip S. W. Goldson Airport",
+      "id": "BZ-BZE-BZE"
+    }
+  ],
+  "Belo Horizonte, Brazil": [
+    {
+      "iata": "CNF",
+      "cityCode": "BHZ",
+      "terminal": "Tancredo Neves Airport",
+      "id": "BR-BHZ-CNF"
+    }
+  ],
+  "Berlin, Germany": [
+    {
+      "iata": "BER",
+      "cityCode": "BER",
+      "terminal": "Berlin Brandenburg Airport",
+      "id": "DE-BER-BER"
+    }
+  ],
+  "Bilbao, Spain": [
+    {
+      "iata": "BIO",
+      "cityCode": "BIO",
+      "terminal": "Bilbao Airport",
+      "id": "ES-BIO-BIO"
+    },
+    {
+      "iata": "YJI",
+      "cityCode": "BIO",
+      "terminal": "Abando Indalecio Prieto Train Station",
+      "id": "ES-BIO-YJI"
+    }
+  ],
+  "Birmingham, United Kingdom": [
+    {
+      "iata": "BHX",
+      "cityCode": "BHX",
+      "terminal": "Birmingham Coach Stn ",
+      "id": "UK-BHX-BHX"
+    }
+  ],
+  "Bogota, Colombia": [
+    {
+      "iata": "BOG",
+      "cityCode": "BOG",
+      "terminal": "El Dorado Airport",
+      "id": "CO-BOG-BOG"
+    }
+  ],
+  "Bologna, Italy": [
+    {
+      "iata": "BLQ",
+      "cityCode": "BLQ",
+      "terminal": "Guglielmo Marconi Aiport",
+      "id": "IT-BLQ-BLQ"
+    }
+  ],
+  "Bordeaux, France": [
+    {
+      "iata": "BOD",
+      "cityCode": "BOD",
+      "terminal": "Bordeaux-Mérignac Airport",
+      "id": "FR-BOD-BOD"
+    }
+  ],
+  "Boston, United States of America": [
+    {
+      "iata": "BOS",
+      "cityCode": "BOS",
+      "terminal": "Logan Airport",
+      "id": "US-BOS-BOS"
+    }
+  ],
+  "Bournemouth, United Kingdom": [
+    {
+      "iata": "BOH",
+      "cityCode": "BOH",
+      "terminal": "Bournemouth Coach Station",
+      "id": "UK-BOH-BOH"
+    }
+  ],
+  "Brasilia, Brazil": [
+    {
+      "iata": "BSB",
+      "cityCode": "BSB",
+      "terminal": "President Juscelino Kubitschek Airport",
+      "id": "BR-BSB-BSB"
+    }
+  ],
+  "Bremen, Germany": [
+    {
+      "iata": "BRE",
+      "cityCode": "BRE",
+      "terminal": "Bremen Hans Koschnick Airport",
+      "id": "DE-BRE-BRE"
+    }
+  ],
+  "Brighton, United Kingdom": [
+    {
+      "iata": "BSH",
+      "cityCode": "BSH",
+      "terminal": "Brighton Coach Station",
+      "id": "UK-BSH-BSH"
+    }
+  ],
+  "Bristol, United Kingdom": [
+    {
+      "iata": "BRS",
+      "cityCode": "BRS",
+      "terminal": "Bristol (Coach Station)",
+      "id": "UK-BRS-BRS"
+    }
+  ],
+  "Brussels, Belgium": [
+    {
+      "iata": "BRU",
+      "cityCode": "BRU",
+      "terminal": "Brussels Aiport",
+      "id": "BE-BRU-BRU"
+    }
+  ],
+  "Bucaramanga, Colombia": [
+    {
+      "iata": "BGA",
+      "cityCode": "BGA",
+      "terminal": "Palonegro Airport",
+      "id": "CO-BGA-BGA"
+    }
+  ],
+  "Bucharest, Romania": [
+    {
+      "iata": "OTP",
+      "cityCode": "BUH",
+      "terminal": "Henri Coanda",
+      "id": "RO-BUH-OTP"
+    }
+  ],
+  "Budapest, Hungary": [
+    {
+      "iata": "BUD",
+      "cityCode": "BUD",
+      "terminal": "Liszt Ferenc",
+      "id": "HU-BUD-BUD"
+    }
+  ],
+  "Buenos Aires, Argentina": [
+    {
+      "iata": "EZE",
+      "cityCode": "BUE",
+      "terminal": "Ezeiza Ministro Pistarini Airport",
+      "id": "AR-BUE-EZE"
+    },
+    {
+      "iata": "AEP",
+      "cityCode": "BUE",
+      "terminal": "Jorge Newbery Airfield",
+      "id": "AR-BUE-AEP"
+    }
+  ],
+  "Buffalo, United States of America": [
+    {
+      "iata": "BUF",
+      "cityCode": "BUF",
+      "terminal": "Buffalo Niagara International Airport",
+      "id": "US-BUF-BUF"
+    }
+  ],
+  "Burbank, United States of America": [
+    {
+      "iata": "BUR",
+      "cityCode": "BUR",
+      "terminal": "Bob Hope Airport",
+      "id": "US-BUR-BUR"
+    }
+  ],
+  "Burlington, United States of America": [
+    {
+      "iata": "BTV",
+      "cityCode": "BTV",
+      "terminal": "Burlington International Airport",
+      "id": "US-BTV-BTV"
+    }
+  ],
+  "Cairo, Egypt": [
+    {
+      "iata": "CAI",
+      "cityCode": "CAI",
+      "terminal": " Cairo Intl",
+      "id": "EG-CAI-CAI"
+    }
+  ],
+  "Calgary, Canada": [
+    {
+      "iata": "YYC",
+      "cityCode": "YYC",
+      "terminal": "Calgary Airport",
+      "id": "CA-YYC-YYC"
+    }
+  ],
+  "Cali, Colombia": [
+    {
+      "iata": "CLO",
+      "cityCode": "CLO",
+      "terminal": "Alfonso Bonilla Aragón Airport",
+      "id": "CO-CLO-CLO"
+    }
+  ],
+  "Campo Grande, Brazil": [
+    {
+      "iata": "CGR",
+      "cityCode": "CGR",
+      "terminal": "Campo Grande Airport",
+      "id": "BR-CGR-CGR"
+    }
+  ],
+  "Cancun, Mexico": [
+    {
+      "iata": "CUN",
+      "cityCode": "CUN",
+      "terminal": "Cancun Airport",
+      "id": "MX-CUN-CUN"
+    }
+  ],
+  "Caracas, Venezuela": [
+    {
+      "iata": "CCS",
+      "cityCode": "CCS",
+      "terminal": "Maiquetía Simón Bolívar Airport",
+      "id": "VE-CCS-CCS"
+    }
+  ],
+  "Cardiff, United Kingdom": [
+    {
+      "iata": "CWL",
+      "cityCode": "CWL",
+      "terminal": "Cardiff Coach Station (Sophia Gardens)",
+      "id": "UK-CWL-CWL"
+    }
+  ],
+  "Cartagena, Colombia": [
+    {
+      "iata": "CTG",
+      "cityCode": "CTG",
+      "terminal": "Rafael Nuñez Airport",
+      "id": "CO-CTG-CTG"
+    }
+  ],
+  "Castellon, Spain": [
+    {
+      "iata": "CPJ",
+      "cityCode": "CDT",
+      "terminal": "Castellón Train Station",
+      "id": "ES-CDT-CPJ"
+    }
+  ],
+  "Charleston, United States of America": [
+    {
+      "iata": "CHS",
+      "cityCode": "CHS",
+      "terminal": "Charleston International Airport",
+      "id": "US-CHS-CHS"
+    }
+  ],
+  "Charlotte, United States of America": [
+    {
+      "iata": "CLT",
+      "cityCode": "CLT",
+      "terminal": "Charlotte Douglas Airport",
+      "id": "US-CLT-CLT"
+    }
+  ],
+  "Chicago, United States of America": [
+    {
+      "iata": "ORD",
+      "cityCode": "CHI",
+      "terminal": "O'Hare Airport",
+      "id": "US-CHI-ORD"
+    }
+  ],
+  "Chihuahua, Mexico": [
+    {
+      "iata": "CUU",
+      "cityCode": "CUU",
+      "terminal": "General Roberto Fierro Villalobos Airport",
+      "id": "MX-CUU-CUU"
+    }
+  ],
+  "Cincinnati, United States of America": [
+    {
+      "iata": "CVG",
+      "cityCode": "CVG",
+      "terminal": "Cincinnati/Northern Kentucky Airport",
+      "id": "US-CVG-CVG"
+    }
+  ],
+  "Ciudad Juarez, Mexico": [
+    {
+      "iata": "CJS",
+      "cityCode": "CJS",
+      "terminal": "Abraham González International Airport",
+      "id": "MX-CJS-CJS"
+    }
+  ],
+  "Ciudad Obregon, Mexico": [
+    {
+      "iata": "CEN",
+      "cityCode": "CEN",
+      "terminal": "Ciudad Obregon International Airport",
+      "id": "MX-CEN-CEN"
+    }
+  ],
+  "Ciudad del Carmen, Mexico": [
+    {
+      "iata": "CME",
+      "cityCode": "CME",
+      "terminal": "Ciudad del Carmen International Airport",
+      "id": "MX-CME-CME"
+    }
+  ],
+  "Cleveland, United States of America": [
+    {
+      "iata": "CLE",
+      "cityCode": "CLE",
+      "terminal": "Cleveland-Hopkins Airport",
+      "id": "US-CLE-CLE"
+    }
+  ],
+  "Cobija, Bolivia": [
+    {
+      "iata": "CIJ",
+      "cityCode": "CIJ",
+      "terminal": "Captain Aníbal Arab Airport",
+      "id": "BO-CIJ-CIJ"
+    }
+  ],
+  "Cochabamba, Bolivia": [
+    {
+      "iata": "CBB",
+      "cityCode": "CBB",
+      "terminal": "Jorge Wilstermann Airport",
+      "id": "BO-CBB-CBB"
+    }
+  ],
+  "Colognebonn, Germany": [
+    {
+      "iata": "CGN",
+      "cityCode": "CGN",
+      "terminal": "Colonia/Bonn Konrad Adenauer International Airport",
+      "id": "DE-CGN-CGN"
+    }
+  ],
+  "Colorado Springs, United States of America": [
+    {
+      "iata": "COS",
+      "cityCode": "COS",
+      "terminal": "Colorado Springs Airport",
+      "id": "US-COS-COS"
+    }
+  ],
+  "Columbus, United States of America": [
+    {
+      "iata": "CMH",
+      "cityCode": "CMH",
+      "terminal": "Colombus Metropolitan Airport",
+      "id": "US-CMH-CMH"
+    }
+  ],
+  "Copenhagen, Denmark": [
+    {
+      "iata": "CPH",
+      "cityCode": "CPH",
+      "terminal": " Kastrup",
+      "id": "DK-CPH-CPH"
+    }
+  ],
+  "Cordoba, Argentina, Argentina": [
+    {
+      "iata": "COR",
+      "cityCode": "COR",
+      "terminal": "Ingeniero Ambrosio Taravella Airport",
+      "id": "AR-COR-COR"
+    }
+  ],
+  "Cordoba, Spain, Spain": [
+    {
+      "iata": "XOJ",
+      "cityCode": "ODB",
+      "terminal": "Cordoba Central train Station",
+      "id": "ES-ODB-XOJ"
+    }
+  ],
+  "Corozal, Colombia": [
+    {
+      "iata": "CZU",
+      "cityCode": "CZU",
+      "terminal": "Airport Las Brujas",
+      "id": "CO-CZU-CZU"
+    }
+  ],
+  "Coventry, United Kingdom": [
+    {
+      "iata": "CVT",
+      "cityCode": "CVT",
+      "terminal": "Coventry Coach Station",
+      "id": "UK-CVT-CVT"
+    }
+  ],
+  "Cruz, Brazil": [
+    {
+      "iata": "JJD",
+      "cityCode": "JJD",
+      "terminal": "Jericoacoara Airport",
+      "id": "BR-JJD-JJD"
+    }
+  ],
+  "Cucuta, Colombia": [
+    {
+      "iata": "CUC",
+      "cityCode": "CUC",
+      "terminal": "Camilo Daza Airport",
+      "id": "CO-CUC-CUC"
+    }
+  ],
+  "Cuenca, Ecuador": [
+    {
+      "iata": "CUE",
+      "cityCode": "CUE",
+      "terminal": "Mariscal Lamar Internacional Airport",
+      "id": "EC-CUE-CUE"
+    }
+  ],
+  "Cuiaba, Brazil": [
+    {
+      "iata": "CGB",
+      "cityCode": "CGB",
+      "terminal": "Marechal Rondon Airport",
+      "id": "BR-CGB-CGB"
+    }
+  ],
+  "Culiacan, Mexico": [
+    {
+      "iata": "CUL",
+      "cityCode": "CUL",
+      "terminal": "Bachiagualato International Airport",
+      "id": "MX-CUL-CUL"
+    }
+  ],
+  "Curacao, Curacao": [
+    {
+      "iata": "CUR",
+      "cityCode": "CUR",
+      "terminal": "Hato Airport",
+      "id": "AN-CUR-CUR"
+    }
+  ],
+  "Curitiba, Brazil": [
+    {
+      "iata": "CWB",
+      "cityCode": "CWB",
+      "terminal": "Afonso Pena Airport",
+      "id": "BR-CWB-CWB"
+    }
+  ],
+  "Cusco, Peru": [
+    {
+      "iata": "CUZ",
+      "cityCode": "CUZ",
+      "terminal": "Alejandro Velasco Astete Airport",
+      "id": "PE-CUZ-CUZ"
+    }
+  ],
+  "Dallas, United States of America": [
+    {
+      "iata": "DFW",
+      "cityCode": "DFW",
+      "terminal": "Dallas/Fort Worth Airport",
+      "id": "US-DFW-DFW"
+    },
+    {
+      "iata": "DAL",
+      "cityCode": "DFW",
+      "terminal": "Dallas Love Field Airport",
+      "id": "US-DFW-DAL"
+    }
+  ],
+  "Dayton, United States of America": [
+    {
+      "iata": "DAY",
+      "cityCode": "DAY",
+      "terminal": "James Cox Dayton Airport",
+      "id": "US-DAY-DAY"
+    }
+  ],
+  "Denver, United States of America": [
+    {
+      "iata": "DEN",
+      "cityCode": "DEN",
+      "terminal": "Arapahoe Co Airport",
+      "id": "US-DEN-DEN"
+    }
+  ],
+  "Detroit, United States of America": [
+    {
+      "iata": "DTW",
+      "cityCode": "DTT",
+      "terminal": "Detroit Metropolitan Wayne County Airport",
+      "id": "US-DTT-DTW"
+    }
+  ],
+  "Doha, Qatar": [
+    {
+      "iata": "DOH",
+      "cityCode": "DOH",
+      "terminal": "Doha Intl ",
+      "id": "QA-DOH-DOH"
+    }
+  ],
+  "Dubai, Arab Emirates": [
+    {
+      "iata": "DXB",
+      "cityCode": "DXB",
+      "terminal": " Dubai Intl",
+      "id": "AE-DXB-DXB"
+    }
+  ],
+  "Dublin, Ireland": [
+    {
+      "iata": "DUB",
+      "cityCode": "DUB",
+      "terminal": "Dublin International    ",
+      "id": "IE-DUB-DUB"
+    }
+  ],
+  "Durango, Mexico": [
+    {
+      "iata": "DGO",
+      "cityCode": "DGO",
+      "terminal": "Guadalupe Victoria International Airport",
+      "id": "MX-DGO-DGO"
+    }
+  ],
+  "Dusseldorf, Germany": [
+    {
+      "iata": "DUS",
+      "cityCode": "DUS",
+      "terminal": "Düsseldorf Airport",
+      "id": "DE-DUS-DUS"
+    }
+  ],
+  "Edinburgh, United Kingdom": [
+    {
+      "iata": "EDI",
+      "cityCode": "EDI",
+      "terminal": " Edinburgh Airport",
+      "id": "UK-EDI-EDI"
+    }
+  ],
+  "Edmonton, Canada": [
+    {
+      "iata": "YEG",
+      "cityCode": "YEA",
+      "terminal": "Edmonton International Airport",
+      "id": "CA-YEA-YEG"
+    }
+  ],
+  "El Paso, United States of America": [
+    {
+      "iata": "ELP",
+      "cityCode": "ELP",
+      "terminal": "El Paso International Airport",
+      "id": "US-ELP-ELP"
+    }
+  ],
+  "Eugene, United States of America": [
+    {
+      "iata": "EUG",
+      "cityCode": "EUG",
+      "terminal": "Mahlon Sweet Field",
+      "id": "US-EUG-EUG"
+    }
+  ],
+  "Exeter, United Kingdom": [
+    {
+      "iata": "EXT",
+      "cityCode": "EXT",
+      "terminal": "Exeter (Coach and Coach Station)",
+      "id": "UK-EXT-EXT"
+    }
+  ],
+  "Fayetteville, United States of America": [
+    {
+      "iata": "XNA",
+      "cityCode": "FYV",
+      "terminal": "Northwest Arkansas Regional Airport",
+      "id": "US-FYV-XNA"
+    }
+  ],
+  "Florencia, Colombia": [
+    {
+      "iata": "FLA",
+      "cityCode": "FLA",
+      "terminal": "Gustavo Artunduaga Paredes Airport",
+      "id": "CO-FLA-FLA"
+    }
+  ],
+  "Flores, Tikal, Guatemala": [
+    {
+      "iata": "FRS",
+      "cityCode": "FRS",
+      "terminal": "Mundo Maya Airport",
+      "id": "GT-FRS-FRS"
+    }
+  ],
+  "Florianopolis, Brazil": [
+    {
+      "iata": "FLN",
+      "cityCode": "FLN",
+      "terminal": "Hercilio Luz Airport",
+      "id": "BR-FLN-FLN"
+    }
+  ],
+  "Fort Lauderdale, United States of America": [
+    {
+      "iata": "FLL",
+      "cityCode": "FLL",
+      "terminal": "Fort Lauderdale/Hollywood Airport",
+      "id": "US-FLL-FLL"
+    }
+  ],
+  "Fortaleza, Brazil": [
+    {
+      "iata": "FOR",
+      "cityCode": "FOR",
+      "terminal": "Pinto Martins Airport",
+      "id": "BR-FOR-FOR"
+    }
+  ],
+  "Frankfurt, Germany": [
+    {
+      "iata": "FRA",
+      "cityCode": "FRA",
+      "terminal": "Frankfurt Airport",
+      "id": "DE-FRA-FRA"
+    }
+  ],
+  "Fredericton, Canada": [
+    {
+      "iata": "YFC",
+      "cityCode": "YFC",
+      "terminal": "Gran Fredericton Airport",
+      "id": "CA-YFC-YFC"
+    }
+  ],
+  "Fresno, United States of America": [
+    {
+      "iata": "FAT",
+      "cityCode": "FAT",
+      "terminal": "Fresno-Yosemite International Airport",
+      "id": "US-FAT-FAT"
+    }
+  ],
+  "Fuerteventura, Spain": [
+    {
+      "iata": "FUE",
+      "cityCode": "FUE",
+      "terminal": "Fuerteventura Airport",
+      "id": "ES-FUE-FUE"
+    }
+  ],
+  "Geneva, Switzerland": [
+    {
+      "iata": "GVA",
+      "cityCode": "GVA",
+      "terminal": "Geneva Airport",
+      "id": "CH-GVA-GVA"
+    }
+  ],
+  "Glasgow, United Kingdom": [
+    {
+      "iata": "GLA",
+      "cityCode": "GLA",
+      "terminal": "Glasgow Intl ",
+      "id": "UK-GLA-GLA"
+    }
+  ],
+  "Goiania, Brazil": [
+    {
+      "iata": "GYN",
+      "cityCode": "GYN",
+      "terminal": "Santa Genoveva Airport",
+      "id": "BR-GYN-GYN"
+    }
+  ],
+  "Granada, Spain": [
+    {
+      "iata": "GRX",
+      "cityCode": "GRX",
+      "terminal": "Federico Garcia Lorca Granada-Jaen Airport",
+      "id": "ES-GRX-GRX"
+    }
+  ],
+  "Grand Rapids, United States of America": [
+    {
+      "iata": "GRR",
+      "cityCode": "GRR",
+      "terminal": "Gerald R. Ford International Airport",
+      "id": "US-GRR-GRR"
+    }
+  ],
+  "Greensboro, United States of America": [
+    {
+      "iata": "GSO",
+      "cityCode": "GSO",
+      "terminal": "Piedmont Triad Airport",
+      "id": "US-GSO-GSO"
+    }
+  ],
+  "Guadalajara, Mexico": [
+    {
+      "iata": "GDL",
+      "cityCode": "GDL",
+      "terminal": "Don Miguel Hidalgo y Costilla Airport",
+      "id": "MX-GDL-GDL"
+    }
+  ],
+  "Guapi, Colombia": [
+    {
+      "iata": "GPI",
+      "cityCode": "GPI",
+      "terminal": "Juan Casiano Solis Airport",
+      "id": "CO-GPI-GPI"
+    }
+  ],
+  "Guatemala City, Guatemala": [
+    {
+      "iata": "GUA",
+      "cityCode": "GUA",
+      "terminal": "La Aurora Airport",
+      "id": "GT-GUA-GUA"
+    }
+  ],
+  "Guayaquil, Ecuador": [
+    {
+      "iata": "GYE",
+      "cityCode": "GYE",
+      "terminal": "José Joaquín de Olmedo Airport",
+      "id": "EC-GYE-GYE"
+    }
+  ],
+  "Halifax, Canada": [
+    {
+      "iata": "YHZ",
+      "cityCode": "YHZ",
+      "terminal": "Halifax-Stanfield International Airport",
+      "id": "CA-YHZ-YHZ"
+    }
+  ],
+  "Hamburg, Germany": [
+    {
+      "iata": "HAM",
+      "cityCode": "HAM",
+      "terminal": "Hamburg Aiport",
+      "id": "DE-HAM-HAM"
+    }
+  ],
+  "Hannover, Germany": [
+    {
+      "iata": "HAJ",
+      "cityCode": "HAJ",
+      "terminal": " Hannover",
+      "id": "DE-HAJ-HAJ"
+    }
+  ],
+  "Harrisburg, United States of America": [
+    {
+      "iata": "MDT",
+      "cityCode": "MDT",
+      "terminal": "Harrisburg Airport",
+      "id": "US-MDT-MDT"
+    }
+  ],
+  "Hartford, United States of America": [
+    {
+      "iata": "BDL",
+      "cityCode": "HFD",
+      "terminal": "Bradley Airport",
+      "id": "US-HFD-BDL"
+    }
+  ],
+  "Hermosillo, Mexico": [
+    {
+      "iata": "HMO",
+      "cityCode": "HMO",
+      "terminal": "General Ignacio L. Pesqueira Garcia Airport",
+      "id": "MX-HMO-HMO"
+    }
+  ],
+  "Hong Kong, Hong Kong": [
+    {
+      "iata": "HKG",
+      "cityCode": "HKG",
+      "terminal": "Hong Kong International Airport",
+      "id": "HK-HKG-HKG"
+    }
+  ],
+  "Honolulu, United States of America": [
+    {
+      "iata": "HNL",
+      "cityCode": "HNL",
+      "terminal": "Honolulu Airport",
+      "id": "US-HNL-HNL"
+    }
+  ],
+  "Houston, United States of America": [
+    {
+      "iata": "IAH",
+      "cityCode": "IAH",
+      "terminal": "George Bush Intercontinental Airport",
+      "id": "US-IAH-IAH"
+    }
+  ],
+  "Huatulco, Mexico": [
+    {
+      "iata": "HUX",
+      "cityCode": "HUX",
+      "terminal": "Huatulco International Airport",
+      "id": "MX-HUX-HUX"
+    }
+  ],
+  "Ibague, Colombia": [
+    {
+      "iata": "IBE",
+      "cityCode": "IBE",
+      "terminal": "Perales Airport",
+      "id": "CO-IBE-IBE"
+    }
+  ],
+  "Ibiza, Spain": [
+    {
+      "iata": "IBZ",
+      "cityCode": "IBZ",
+      "terminal": "Ibiza Airport",
+      "id": "ES-IBZ-IBZ"
+    }
+  ],
+  "Iguazu, Argentina": [
+    {
+      "iata": "IGU",
+      "cityCode": "IGU",
+      "terminal": "Cataratas Airport",
+      "id": "AR-IGU-IGU"
+    }
+  ],
+  "Indianapolis, United States of America": [
+    {
+      "iata": "IND",
+      "cityCode": "IND",
+      "terminal": "Indianapolis Airport",
+      "id": "US-IND-IND"
+    }
+  ],
+  "Ipiales, Colombia": [
+    {
+      "iata": "IPI",
+      "cityCode": "IPI",
+      "terminal": "San Luis Airport",
+      "id": "CO-IPI-IPI"
+    }
+  ],
+  "Istanbul, Turkey": [
+    {
+      "iata": "IST",
+      "cityCode": "IST",
+      "terminal": "Istambul Ataturk Airport",
+      "id": "TR-IST-IST"
+    }
+  ],
+  "Jackson, United States of America": [
+    {
+      "iata": "JAN",
+      "cityCode": "JAN",
+      "terminal": "Jackson-Medgar Wiley Evers International Airport",
+      "id": "US-JAN-JAN"
+    }
+  ],
+  "Jacksonville, United States of America": [
+    {
+      "iata": "JAX",
+      "cityCode": "JAX",
+      "terminal": "Jacksonville International Airport",
+      "id": "US-JAX-JAX"
+    }
+  ],
+  "Jerez, Spain": [
+    {
+      "iata": "XRY",
+      "cityCode": "XRY",
+      "terminal": "Jerez Airport",
+      "id": "ES-XRY-XRY"
+    }
+  ],
+  "Joao Pessoa, Brazil": [
+    {
+      "iata": "JPA",
+      "cityCode": "JPA",
+      "terminal": "Presidente Castro Pinto Airport",
+      "id": "BR-JPA-JPA"
+    }
+  ],
+  "Johannesburg, South Africa": [
+    {
+      "iata": "JNB",
+      "cityCode": "JNB",
+      "terminal": " O.R. Tambo Intl",
+      "id": "ZA-JNB-JNB"
+    }
+  ],
+  "Juazeiro do Norte, Brazil": [
+    {
+      "iata": "JDO",
+      "cityCode": "JDO",
+      "terminal": "Regional Do Cariri Airport",
+      "id": "BR-JDO-JDO"
+    }
+  ],
+  "Juliaca, Peru": [
+    {
+      "iata": "JUL",
+      "cityCode": "JUL",
+      "terminal": "Internacional Inca Manco Cápac Airport",
+      "id": "PE-JUL-JUL"
+    }
+  ],
+  "Kansas City, United States of America": [
+    {
+      "iata": "MCI",
+      "cityCode": "MKC",
+      "terminal": "Kansas City Downtown Airport",
+      "id": "US-MKC-MCI"
+    }
+  ],
+  "Kauai Island, United States of America": [
+    {
+      "iata": "LIH",
+      "cityCode": "LIH",
+      "terminal": "Kauai Island Lihue Airport",
+      "id": "US-LIH-LIH"
+    }
+  ],
+  "Kelowna, Canada": [
+    {
+      "iata": "YLW",
+      "cityCode": "YLW",
+      "terminal": "Kelowna intl Airport",
+      "id": "CA-YLW-YLW"
+    }
+  ],
+  "Key West, United States of America": [
+    {
+      "iata": "EYW",
+      "cityCode": "EYW",
+      "terminal": "Key West International Airport",
+      "id": "US-EYW-EYW"
+    }
+  ],
+  "Kingston, Jamaica": [
+    {
+      "iata": "KIN",
+      "cityCode": "KIN",
+      "terminal": "Norman Manley International Airport",
+      "id": "JM-KIN-KIN"
+    }
+  ],
+  "Knoxville, United States of America": [
+    {
+      "iata": "TYS",
+      "cityCode": "TYS",
+      "terminal": "McGhee Tyson Airport",
+      "id": "US-TYS-TYS"
+    }
+  ],
+  "Kona, United States of America": [
+    {
+      "iata": "KOA",
+      "cityCode": "KOA",
+      "terminal": "Kona-Keahole Airport",
+      "id": "US-KOA-KOA"
+    }
+  ],
+  "La Coruna, Spain": [
+    {
+      "iata": "LCG",
+      "cityCode": "LCG",
+      "terminal": "La Coruña Airport",
+      "id": "ES-LCG-LCG"
+    }
+  ],
+  "La Habana, Cuba": [
+    {
+      "iata": "HAV",
+      "cityCode": "HAV",
+      "terminal": "Internacional José Martí Airport",
+      "id": "CU-HAV-HAV"
+    }
+  ],
+  "La Paz, Bolivia": [
+    {
+      "iata": "LPB",
+      "cityCode": "LPB",
+      "terminal": "El Alto Airport",
+      "id": "BO-LPB-LPB"
+    }
+  ],
+  "La Paz, Mexico, Mexico": [
+    {
+      "iata": "LAP",
+      "cityCode": "LAP",
+      "terminal": "Manuel Márquez de León International Airport",
+      "id": "MX-LAP-LAP"
+    }
+  ],
+  "Lafayette, United States of America": [
+    {
+      "iata": "LFT",
+      "cityCode": "LFT",
+      "terminal": "Lafayette Regional Airport",
+      "id": "US-LFT-LFT"
+    }
+  ],
+  "Lago Agrio, Ecuador": [
+    {
+      "iata": "LGQ",
+      "cityCode": "LGQ",
+      "terminal": "Lago Agrio",
+      "id": "EC-LGQ-LGQ"
+    }
+  ],
+  "Lanzarote, Spain": [
+    {
+      "iata": "ACE",
+      "cityCode": "ACE",
+      "terminal": "Lanzarote Airport",
+      "id": "ES-ACE-ACE"
+    }
+  ],
+  "Las Palmas, Spain": [
+    {
+      "iata": "LPA",
+      "cityCode": "LPA",
+      "terminal": "Gran Canaria Airport",
+      "id": "ES-LPA-LPA"
+    }
+  ],
+  "Las Vegas, United States of America": [
+    {
+      "iata": "LAS",
+      "cityCode": "LAS",
+      "terminal": "North Air Airport",
+      "id": "US-LAS-LAS"
+    }
+  ],
+  "Leipzig/Halle, Germany": [
+    {
+      "iata": "LEJ",
+      "cityCode": "LEJ",
+      "terminal": "Leipzig/Halle Airport",
+      "id": "DE-LEJ-LEJ"
+    }
+  ],
+  "Leon El Bajio, Mexico": [
+    {
+      "iata": "BJX",
+      "cityCode": "BJX",
+      "terminal": "Del Bajio Airport",
+      "id": "MX-BJX-BJX"
+    }
+  ],
+  "Leticia, Colombia": [
+    {
+      "iata": "LET",
+      "cityCode": "LET",
+      "terminal": "Alfredo Vasquez Cobo Airport",
+      "id": "CO-LET-LET"
+    }
+  ],
+  "Lima, Peru": [
+    {
+      "iata": "LIM",
+      "cityCode": "LIM",
+      "terminal": "Jorge Chavez Airport",
+      "id": "PE-LIM-LIM"
+    }
+  ],
+  "Lisbon, Portugal": [
+    {
+      "iata": "LIS",
+      "cityCode": "LIS",
+      "terminal": "Lisbon Aiport",
+      "id": "PT-LIS-LIS"
+    }
+  ],
+  "Little Rock, United States of America": [
+    {
+      "iata": "LIT",
+      "cityCode": "LIT",
+      "terminal": "Little Rock National Airport",
+      "id": "US-LIT-LIT"
+    }
+  ],
+  "Logrono, Spain": [
+    {
+      "iata": "RJL",
+      "cityCode": "RJL",
+      "terminal": "Logroño-Agoncillo Airport",
+      "id": "ES-RJL-RJL"
+    }
+  ],
+  "Loja, United States of America": [
+    {
+      "iata": "LOH",
+      "cityCode": "LOH",
+      "terminal": "Catamayo",
+      "id": "US-LOH-LOH"
+    }
+  ],
+  "London, Canada": [
+    {
+      "iata": "YXU",
+      "cityCode": "YXU",
+      "terminal": "London International Airport",
+      "id": "CA-YXU-YXU"
+    }
+  ],
+  "London, United Kingdom": [
+    {
+      "iata": "LGW",
+      "cityCode": "LON",
+      "terminal": "Bus Station Gatwick Airport",
+      "id": "UK-LON-LGW"
+    },
+    {
+      "iata": "LHR",
+      "cityCode": "LON",
+      "terminal": "London Heathrow Airport",
+      "id": "UK-LON-LHR"
+    },
+    {
+      "iata": "LTN",
+      "cityCode": "LON",
+      "terminal": "Luton Airport",
+      "id": "UK-LON-LTN"
+    },
+    {
+      "iata": "STN",
+      "cityCode": "LON",
+      "terminal": "Stansted Coach Station",
+      "id": "UK-LON-STN"
+    }
+  ],
+  "Londrina, Brazil": [
+    {
+      "iata": "LDB",
+      "cityCode": "LDB",
+      "terminal": "Governador Jose Richa Airport",
+      "id": "BR-LDB-LDB"
+    }
+  ],
+  "Los Angeles, United States of America": [
+    {
+      "iata": "LAX",
+      "cityCode": "LAX",
+      "terminal": "Los Angeles Airport",
+      "id": "US-LAX-LAX"
+    }
+  ],
+  "Los Cabos, Mexico": [
+    {
+      "iata": "SJD",
+      "cityCode": "SJD",
+      "terminal": "Los Cabos International Airport",
+      "id": "MX-SJD-SJD"
+    }
+  ],
+  "Louisville, United States of America": [
+    {
+      "iata": "SDF",
+      "cityCode": "SDF",
+      "terminal": "Louisville International Airport",
+      "id": "US-SDF-SDF"
+    }
+  ],
+  "Luxembourg, Russia": [
+    {
+      "iata": "LUX",
+      "cityCode": "LUX",
+      "terminal": "Luxembourg Airport",
+      "id": "RU-LUX-LUX"
+    }
+  ],
+  "Lyon, France": [
+    {
+      "iata": "LYS",
+      "cityCode": "LYS",
+      "terminal": "Lyon-Saint-Exupéry Airport",
+      "id": "FR-LYS-LYS"
+    }
+  ],
+  "Macapa, Brazil": [
+    {
+      "iata": "MCP",
+      "cityCode": "MCP",
+      "terminal": "Macapa International Airport",
+      "id": "BR-MCP-MCP"
+    }
+  ],
+  "Maceio, Brazil": [
+    {
+      "iata": "MCZ",
+      "cityCode": "MCZ",
+      "terminal": "Zumbi dos Palmares Airport",
+      "id": "BR-MCZ-MCZ"
+    }
+  ],
+  "Madison, United States of America": [
+    {
+      "iata": "MSN",
+      "cityCode": "MSN",
+      "terminal": "Dane County Regional Airport",
+      "id": "US-MSN-MSN"
+    }
+  ],
+  "Madrid, Spain": [
+    {
+      "iata": "MAD",
+      "cityCode": "MAD",
+      "terminal": " Adolfo Suárez Barajas",
+      "id": "ES-MAD-MAD"
+    }
+  ],
+  "Malaga, Spain": [
+    {
+      "iata": "AGP",
+      "cityCode": "AGP",
+      "terminal": "Malaga-Costa del Sol Airport",
+      "id": "ES-AGP-AGP"
+    },
+    {
+      "iata": "YJM",
+      "cityCode": "AGP",
+      "terminal": "Malaga Railway Station",
+      "id": "ES-AGP-YJM"
+    }
+  ],
+  "Managua, Nicaragua": [
+    {
+      "iata": "MGA",
+      "cityCode": "MGA",
+      "terminal": "Augusto C. Sandino Airport",
+      "id": "NI-MGA-MGA"
+    }
+  ],
+  "Manaus, Brazil": [
+    {
+      "iata": "MAO",
+      "cityCode": "MAO",
+      "terminal": "Eduardo Gomes Airport",
+      "id": "BR-MAO-MAO"
+    }
+  ],
+  "Manchester, United Kingdom, United Kingdom": [
+    {
+      "iata": "MAN",
+      "cityCode": "MAN",
+      "terminal": " Manchester International Airport",
+      "id": "UK-MAN-MAN"
+    }
+  ],
+  "Manizales, Colombia": [
+    {
+      "iata": "MZL",
+      "cityCode": "MZL",
+      "terminal": "La Nubia Airport",
+      "id": "CO-MZL-MZL"
+    }
+  ],
+  "Manta, Ecuador": [
+    {
+      "iata": "MEC",
+      "cityCode": "MEC",
+      "terminal": "Eloy Alfaro Airport",
+      "id": "EC-MEC-MEC"
+    }
+  ],
+  "Manzanillo, Mexico": [
+    {
+      "iata": "ZLO",
+      "cityCode": "ZLO",
+      "terminal": "Playa de Oro International Airport",
+      "id": "MX-ZLO-ZLO"
+    }
+  ],
+  "Maringa, Brazil": [
+    {
+      "iata": "MGF",
+      "cityCode": "MGF",
+      "terminal": "Maringa Regional Airpot",
+      "id": "BR-MGF-MGF"
+    }
+  ],
+  "Marseilles, France": [
+    {
+      "iata": "MRS",
+      "cityCode": "MRS",
+      "terminal": "Marseille Provence Airport",
+      "id": "FR-MRS-MRS"
+    }
+  ],
+  "Mazatlan, Mexico": [
+    {
+      "iata": "MZT",
+      "cityCode": "MZT",
+      "terminal": "General Rafael Buelna International Airport",
+      "id": "MX-MZT-MZT"
+    }
+  ],
+  "Medellin, Colombia": [
+    {
+      "iata": "MDE",
+      "cityCode": "MDE",
+      "terminal": "Jose Maria Cordoba Airport",
+      "id": "CO-MDE-MDE"
+    },
+    {
+      "iata": "EOH",
+      "cityCode": "MDE",
+      "terminal": "Olaya Herrera Airport",
+      "id": "CO-MDE-EOH"
+    }
+  ],
+  "Medford, United States of America": [
+    {
+      "iata": "MFR",
+      "cityCode": "MFR",
+      "terminal": "Rogue Valley International-Medford Airport",
+      "id": "US-MFR-MFR"
+    }
+  ],
+  "Melilla, Spain": [
+    {
+      "iata": "MLN",
+      "cityCode": "MLN",
+      "terminal": "Melilla Airport",
+      "id": "ES-MLN-MLN"
+    }
+  ],
+  "Memphis, United States of America": [
+    {
+      "iata": "MEM",
+      "cityCode": "MEM",
+      "terminal": "Memphis International Airport",
+      "id": "US-MEM-MEM"
+    }
+  ],
+  "Mendoza, Argentina": [
+    {
+      "iata": "MDZ",
+      "cityCode": "MDZ",
+      "terminal": "Mendoza El Plumerillo International Airport",
+      "id": "AR-MDZ-MDZ"
+    }
+  ],
+  "Merida, Mexico": [
+    {
+      "iata": "MID",
+      "cityCode": "MID",
+      "terminal": "Manuel Crescencio Rejon Airport",
+      "id": "MX-MID-MID"
+    }
+  ],
+  "Mexicali, Mexico": [
+    {
+      "iata": "MXL",
+      "cityCode": "MXL",
+      "terminal": "General Rodolfo Sánchez Taboada International Airport",
+      "id": "MX-MXL-MXL"
+    }
+  ],
+  "Mexico City, Mexico": [
+    {
+      "iata": "MEX",
+      "cityCode": "MEX",
+      "terminal": "Benito Juarez Airport",
+      "id": "MX-MEX-MEX"
+    }
+  ],
+  "Miami, United States of America": [
+    {
+      "iata": "MIA",
+      "cityCode": "MIA",
+      "terminal": "Miami Airport",
+      "id": "US-MIA-MIA"
+    }
+  ],
+  "Milan, Italy": [
+    {
+      "iata": "MXP",
+      "cityCode": "MIL",
+      "terminal": "Malpensa Airport",
+      "id": "IT-MIL-MXP"
+    },
+    {
+      "iata": "LIN",
+      "cityCode": "MIL",
+      "terminal": "Milano-Linate Airport",
+      "id": "IT-MIL-LIN"
+    }
+  ],
+  "Milwaukee, United States of America": [
+    {
+      "iata": "MKE",
+      "cityCode": "MKE",
+      "terminal": "General Mitchell International Airport",
+      "id": "US-MKE-MKE"
+    }
+  ],
+  "Minatitlan, Mexico": [
+    {
+      "iata": "MTT",
+      "cityCode": "MTT",
+      "terminal": "Minatitlán/Coatzacoalcos International Airport",
+      "id": "MX-MTT-MTT"
+    }
+  ],
+  "Minneapolis, United States of America": [
+    {
+      "iata": "MSP",
+      "cityCode": "MSP",
+      "terminal": "Minneapolis - St. Paul Airport",
+      "id": "US-MSP-MSP"
+    }
+  ],
+  "Minorca, Spain": [
+    {
+      "iata": "MAH",
+      "cityCode": "MAH",
+      "terminal": "Menorca Airport",
+      "id": "ES-MAH-MAH"
+    }
+  ],
+  "Moncton, Canada": [
+    {
+      "iata": "YQM",
+      "cityCode": "YQM",
+      "terminal": "Gran Moncton International Airport",
+      "id": "CA-YQM-YQM"
+    }
+  ],
+  "Montego Bay, Jamaica": [
+    {
+      "iata": "MBJ",
+      "cityCode": "MBJ",
+      "terminal": "Sir Donald Sangster International Airport",
+      "id": "JM-MBJ-MBJ"
+    }
+  ],
+  "Monterey, California, United States of America": [
+    {
+      "iata": "MRY",
+      "cityCode": "MRY",
+      "terminal": "Monterey Peninsula Airport",
+      "id": "US-MRY-MRY"
+    }
+  ],
+  "Monteria, Colombia": [
+    {
+      "iata": "MTR",
+      "cityCode": "MTR",
+      "terminal": "Los Garzones Airport",
+      "id": "CO-MTR-MTR"
+    }
+  ],
+  "Monterrey, Mexico": [
+    {
+      "iata": "MTY",
+      "cityCode": "MTY",
+      "terminal": "Gen Mariano Escobedo Airport",
+      "id": "MX-MTY-MTY"
+    }
+  ],
+  "Montes Claros, Brazil": [
+    {
+      "iata": "MOC",
+      "cityCode": "MOC",
+      "terminal": "Mario Ribeiro Airport",
+      "id": "BR-MOC-MOC"
+    }
+  ],
+  "Montevideo, Uruguay": [
+    {
+      "iata": "MVD",
+      "cityCode": "MVD",
+      "terminal": "Carrasco Airport",
+      "id": "UY-MVD-MVD"
+    }
+  ],
+  "Montreal, Canada": [
+    {
+      "iata": "YUL",
+      "cityCode": "YUL",
+      "terminal": "Montreal-Pierre Elliott Trudeau Airport",
+      "id": "CA-YUL-YUL"
+    }
+  ],
+  "Morelia, Mexico": [
+    {
+      "iata": "MLM",
+      "cityCode": "MLM",
+      "terminal": "General Francisco Mujica International Airport",
+      "id": "MX-MLM-MLM"
+    }
+  ],
+  "Moscow, Russia": [
+    {
+      "iata": "DME",
+      "cityCode": "MOW",
+      "terminal": "Domodedovo ",
+      "id": "RU-MOW-DME"
+    },
+    {
+      "iata": "SVO",
+      "cityCode": "MOW",
+      "terminal": "Sheremetyevo International Airport",
+      "id": "RU-MOW-SVO"
+    }
+  ],
+  "Mukilteo, United States of America": [
+    {
+      "iata": "PAE",
+      "cityCode": "PAE",
+      "terminal": "Paine Field Airport",
+      "id": "US-PAE-PAE"
+    }
+  ],
+  "Munich, Germany": [
+    {
+      "iata": "MUC",
+      "cityCode": "MUC",
+      "terminal": "Munich Airport",
+      "id": "DE-MUC-MUC"
+    }
+  ],
+  "Munster, Germany": [
+    {
+      "iata": "FMO",
+      "cityCode": "FMO",
+      "terminal": "Munster-Osnabruck Airport",
+      "id": "DE-FMO-FMO"
+    }
+  ],
+  "Murcia, Spain": [
+    {
+      "iata": "XUT",
+      "cityCode": "MJV",
+      "terminal": "Murcia Train Station",
+      "id": "ES-MJV-XUT"
+    }
+  ],
+  "Nantes, France": [
+    {
+      "iata": "NTE",
+      "cityCode": "NTE",
+      "terminal": "Nantes Atlantique Airport",
+      "id": "FR-NTE-NTE"
+    }
+  ],
+  "Nashville, United States of America": [
+    {
+      "iata": "BNA",
+      "cityCode": "BNA",
+      "terminal": "Nashville International Airport",
+      "id": "US-BNA-BNA"
+    }
+  ],
+  "Nassau, Bahamas": [
+    {
+      "iata": "NAS",
+      "cityCode": "NAS",
+      "terminal": "Lynden Pindling International Airport",
+      "id": "BS-NAS-NAS"
+    }
+  ],
+  "Natal, Brazil": [
+    {
+      "iata": "NAT",
+      "cityCode": "NAT",
+      "terminal": "Augusto Severo Airport",
+      "id": "BR-NAT-NAT"
+    }
+  ],
+  "Navegantes, Brazil": [
+    {
+      "iata": "NVT",
+      "cityCode": "NVT",
+      "terminal": "Navegantes - Ministro Victor Konder International Airport",
+      "id": "BR-NVT-NVT"
+    }
+  ],
+  "Neiva, Colombia": [
+    {
+      "iata": "NVA",
+      "cityCode": "NVA",
+      "terminal": "Benito Salas Airport",
+      "id": "CO-NVA-NVA"
+    }
+  ],
+  "New Delhi, India": [
+    {
+      "iata": "DEL",
+      "cityCode": "DEL",
+      "terminal": "Indira Gandhi Intl ",
+      "id": "IN-DEL-DEL"
+    }
+  ],
+  "New Orleans, United States of America": [
+    {
+      "iata": "MSY",
+      "cityCode": "MSY",
+      "terminal": "L Armstrong Airport",
+      "id": "US-MSY-MSY"
+    }
+  ],
+  "New York, United States of America": [
+    {
+      "iata": "LGA",
+      "cityCode": "NYC",
+      "terminal": "La Guardia Airport",
+      "id": "US-NYC-LGA"
+    },
+    {
+      "iata": "JFK",
+      "cityCode": "NYC",
+      "terminal": "John F Kennedy",
+      "id": "US-NYC-JFK"
+    }
+  ],
+  "Newark, United States of America": [
+    {
+      "iata": "EWR",
+      "cityCode": "EWR",
+      "terminal": "Newark Liberty Airport (New Jersey/New York)",
+      "id": "US-EWR-EWR"
+    }
+  ],
+  "Newcastle, United Kingdom": [
+    {
+      "iata": "NCL",
+      "cityCode": "NCL",
+      "terminal": " Newcastle International Airport",
+      "id": "UK-NCL-NCL"
+    }
+  ],
+  "Newport (South Wales), United Kingdom": [
+    {
+      "iata": "XNE",
+      "cityCode": "XNE",
+      "terminal": "Newport Railway Station",
+      "id": "UK-XNE-XNE"
+    }
+  ],
+  "Nice, France": [
+    {
+      "iata": "NCE",
+      "cityCode": "NCE",
+      "terminal": "Nice Côte d'Azur Airport",
+      "id": "FR-NCE-NCE"
+    }
+  ],
+  "Norfolk, United States of America": [
+    {
+      "iata": "ORF",
+      "cityCode": "ORF",
+      "terminal": "Norfolk Airport",
+      "id": "US-ORF-ORF"
+    }
+  ],
+  "Norwich, United Kingdom": [
+    {
+      "iata": "NWI",
+      "cityCode": "NWI",
+      "terminal": "Norwich Coach Station",
+      "id": "UK-NWI-NWI"
+    }
+  ],
+  "Nuremberg, Germany": [
+    {
+      "iata": "NUE",
+      "cityCode": "NUE",
+      "terminal": "Nuremberg Airport",
+      "id": "DE-NUE-NUE"
+    }
+  ],
+  "Oaxaca, Mexico": [
+    {
+      "iata": "OAX",
+      "cityCode": "OAX",
+      "terminal": "Xoxocotlán International Airport",
+      "id": "MX-OAX-OAX"
+    }
+  ],
+  "Oklahoma City, United States of America": [
+    {
+      "iata": "OKC",
+      "cityCode": "OKC",
+      "terminal": "Oklahoma City Will Rogers World Airport",
+      "id": "US-OKC-OKC"
+    }
+  ],
+  "Omaha, United States of America": [
+    {
+      "iata": "OMA",
+      "cityCode": "OMA",
+      "terminal": "Eppley Airfield Airport",
+      "id": "US-OMA-OMA"
+    }
+  ],
+  "Ontario, United States of America": [
+    {
+      "iata": "ONT",
+      "cityCode": "ONT",
+      "terminal": "LA/Ontario International Airport",
+      "id": "US-ONT-ONT"
+    }
+  ],
+  "Orlando, United States of America": [
+    {
+      "iata": "MCO",
+      "cityCode": "MCO",
+      "terminal": "Orlando Airport",
+      "id": "US-MCO-MCO"
+    }
+  ],
+  "Oruro, Bolivia": [
+    {
+      "iata": "ORU",
+      "cityCode": "ORU",
+      "terminal": "Juan Mendoza Airport",
+      "id": "BO-ORU-ORU"
+    }
+  ],
+  "Oslo, Norway": [
+    {
+      "iata": "OSL",
+      "cityCode": "OSL",
+      "terminal": "Gardermoen",
+      "id": "NO-OSL-OSL"
+    }
+  ],
+  "Ottawa, Canada": [
+    {
+      "iata": "YOW",
+      "cityCode": "YOW",
+      "terminal": "Ottawa/McDonald-Cartier International Airport",
+      "id": "CA-YOW-YOW"
+    }
+  ],
+  "Oviedo, Spain": [
+    {
+      "iata": "OVD",
+      "cityCode": "OVD",
+      "terminal": "Asturias Airport",
+      "id": "ES-OVD-OVD"
+    },
+    {
+      "iata": "OVI",
+      "cityCode": "OVD",
+      "terminal": "Oviedo Train Station",
+      "id": "ES-OVD-OVI"
+    }
+  ],
+  "Oxford, United Kingdom": [
+    {
+      "iata": "OXF",
+      "cityCode": "OXF",
+      "terminal": "Oxford Coach Station",
+      "id": "UK-OXF-OXF"
+    }
+  ],
+  "Palma de Majorca, Spain": [
+    {
+      "iata": "PMI",
+      "cityCode": "PMI",
+      "terminal": "Palma de Majorca Airport",
+      "id": "ES-PMI-PMI"
+    }
+  ],
+  "Pamplona, Spain": [
+    {
+      "iata": "PNA",
+      "cityCode": "PNA",
+      "terminal": "Pamplona Airport",
+      "id": "ES-PNA-PNA"
+    },
+    {
+      "iata": "EEP",
+      "cityCode": "PNA",
+      "terminal": "Pamplona-Iruña Railway Station",
+      "id": "ES-PNA-EEP"
+    }
+  ],
+  "Panama City, Panama": [
+    {
+      "iata": "PTY",
+      "cityCode": "PTY",
+      "terminal": "Tocumen Airport",
+      "id": "PA-PTY-PTY"
+    }
+  ],
+  "Paris, France": [
+    {
+      "iata": "ORY",
+      "cityCode": "PAR",
+      "terminal": "Orly Airport",
+      "id": "FR-PAR-ORY"
+    },
+    {
+      "iata": "CDG",
+      "cityCode": "PAR",
+      "terminal": "Paris Charles de Gaulle Airport",
+      "id": "FR-PAR-CDG"
+    }
+  ],
+  "Passo Fundo, Brazil": [
+    {
+      "iata": "PFB",
+      "cityCode": "PFB",
+      "terminal": "Passo Fundo Airport",
+      "id": "BR-PFB-PFB"
+    }
+  ],
+  "Pasto, Colombia": [
+    {
+      "iata": "PSO",
+      "cityCode": "PSO",
+      "terminal": "Antonio Nariño Airport",
+      "id": "CO-PSO-PSO"
+    }
+  ],
+  "Pensacola, United States of America": [
+    {
+      "iata": "PNS",
+      "cityCode": "PNS",
+      "terminal": "Pensacola International Airport",
+      "id": "US-PNS-PNS"
+    }
+  ],
+  "Pereira, Colombia": [
+    {
+      "iata": "PEI",
+      "cityCode": "PEI",
+      "terminal": "Matecaña Airport",
+      "id": "CO-PEI-PEI"
+    }
+  ],
+  "Petrolina, Brazil": [
+    {
+      "iata": "PNZ",
+      "cityCode": "PNZ",
+      "terminal": "Senador Nilo Coelho",
+      "id": "BR-PNZ-PNZ"
+    }
+  ],
+  "Philadelphia, United States of America": [
+    {
+      "iata": "PHL",
+      "cityCode": "PHL",
+      "terminal": "Philadelphia Airport",
+      "id": "US-PHL-PHL"
+    }
+  ],
+  "Phoenix, United States of America": [
+    {
+      "iata": "PHX",
+      "cityCode": "PHX",
+      "terminal": "Deer Valley Airport",
+      "id": "US-PHX-PHX"
+    }
+  ],
+  "Pittsburgh, United States of America": [
+    {
+      "iata": "PIT",
+      "cityCode": "PIT",
+      "terminal": "Pittsburgh Airport",
+      "id": "US-PIT-PIT"
+    }
+  ],
+  "Piura, Peru": [
+    {
+      "iata": "PIU",
+      "cityCode": "PIU",
+      "terminal": "Captain FAP Guillermo Concha Iberico International Airport",
+      "id": "PE-PIU-PIU"
+    }
+  ],
+  "Plymouth, United Kingdom": [
+    {
+      "iata": "PLH",
+      "cityCode": "PLH",
+      "terminal": "Plymouth Coach Station Bretonside",
+      "id": "UK-PLH-PLH"
+    }
+  ],
+  "Popayan, Colombia": [
+    {
+      "iata": "PPN",
+      "cityCode": "PPN",
+      "terminal": "Guillermo Leon Valencia Airport",
+      "id": "CO-PPN-PPN"
+    }
+  ],
+  "Porland / Maine, United States of America": [
+    {
+      "iata": "PWM",
+      "cityCode": "PWM",
+      "terminal": "Portland Jetport",
+      "id": "US-PWM-PWM"
+    }
+  ],
+  "Port of Spain, Trinidad and Tobago": [
+    {
+      "iata": "POS",
+      "cityCode": "POS",
+      "terminal": "Piarco International Airport",
+      "id": "TT-POS-POS"
+    }
+  ],
+  "Port-au-Prince, Haiti": [
+    {
+      "iata": "PAP",
+      "cityCode": "PAP",
+      "terminal": "Toussaint Louverture",
+      "id": "HT-PAP-PAP"
+    }
+  ],
+  "Portland, United States of America": [
+    {
+      "iata": "PDX",
+      "cityCode": "PDX",
+      "terminal": "Portland Airport",
+      "id": "US-PDX-PDX"
+    }
+  ],
+  "Porto Alegre, Brazil": [
+    {
+      "iata": "POA",
+      "cityCode": "POA",
+      "terminal": "Salgado Filho Airport",
+      "id": "BR-POA-POA"
+    }
+  ],
+  "Porto Seguro, Brazil": [
+    {
+      "iata": "BPS",
+      "cityCode": "BPS",
+      "terminal": "Porto Seguro Airport",
+      "id": "BR-BPS-BPS"
+    }
+  ],
+  "Porto, Portugal": [
+    {
+      "iata": "OPO",
+      "cityCode": "OPO",
+      "terminal": "Francisco Sa Carneiro Aiport",
+      "id": "PT-OPO-OPO"
+    }
+  ],
+  "Poza Rica, Mexico": [
+    {
+      "iata": "PAZ",
+      "cityCode": "PAZ",
+      "terminal": "El Tajín National Airport",
+      "id": "MX-PAZ-PAZ"
+    }
+  ],
+  "Prague, Czech Republic": [
+    {
+      "iata": "PRG",
+      "cityCode": "PRG",
+      "terminal": "Ruzyne Airport",
+      "id": "CZ-PRG-PRG"
+    }
+  ],
+  "Providence, United States of America": [
+    {
+      "iata": "PVD",
+      "cityCode": "PVD",
+      "terminal": "T.F. Green Airport",
+      "id": "US-PVD-PVD"
+    }
+  ],
+  "Puerto Asis, Colombia": [
+    {
+      "iata": "PUU",
+      "cityCode": "PUU",
+      "terminal": "Tres de Mayo Airport",
+      "id": "CO-PUU-PUU"
+    }
+  ],
+  "Puerto Maldonado, Peru": [
+    {
+      "iata": "PEM",
+      "cityCode": "PEM",
+      "terminal": "Puerto Maldonado int Airport",
+      "id": "PE-PEM-PEM"
+    }
+  ],
+  "Puerto Vallarta, Mexico": [
+    {
+      "iata": "PVR",
+      "cityCode": "PVR",
+      "terminal": "Licenciado Gustavo Diaz Ordaz Airport",
+      "id": "MX-PVR-PVR"
+    }
+  ],
+  "Punta Cana, Dominican Republic": [
+    {
+      "iata": "PUJ",
+      "cityCode": "PUJ",
+      "terminal": "Punta Cana Airport",
+      "id": "DO-PUJ-PUJ"
+    }
+  ],
+  "Quebec, Canada": [
+    {
+      "iata": "YQB",
+      "cityCode": "YQB",
+      "terminal": "Québec City Jean Lesage International Airport",
+      "id": "CA-YQB-YQB"
+    }
+  ],
+  "Queretaro, Mexico": [
+    {
+      "iata": "QRO",
+      "cityCode": "QRO",
+      "terminal": "Querétaro International Airport",
+      "id": "MX-QRO-QRO"
+    }
+  ],
+  "Quibdo, Colombia": [
+    {
+      "iata": "UIB",
+      "cityCode": "UIB",
+      "terminal": "El Caraño Airport",
+      "id": "CO-UIB-UIB"
+    }
+  ],
+  "Quito, Ecuador": [
+    {
+      "iata": "UIO",
+      "cityCode": "UIO",
+      "terminal": "Mariscal Sucre Airport",
+      "id": "EC-UIO-UIO"
+    }
+  ],
+  "Raleigh Durham, United States of America": [
+    {
+      "iata": "RDU",
+      "cityCode": "RDU",
+      "terminal": "Raleigh-Durham Airport",
+      "id": "US-RDU-RDU"
+    }
+  ],
+  "Recife, Brazil": [
+    {
+      "iata": "REC",
+      "cityCode": "REC",
+      "terminal": "Gilberto Freyre Airport",
+      "id": "BR-REC-REC"
+    }
+  ],
+  "Regina, Canada": [
+    {
+      "iata": "YQR",
+      "cityCode": "YQR",
+      "terminal": "Regina International Airport",
+      "id": "CA-YQR-YQR"
+    }
+  ],
+  "Reno, United States of America": [
+    {
+      "iata": "RNO",
+      "cityCode": "RNO",
+      "terminal": "Reno-Tahoe International Airport",
+      "id": "US-RNO-RNO"
+    }
+  ],
+  "Reynosa, Mexico": [
+    {
+      "iata": "REX",
+      "cityCode": "REX",
+      "terminal": " General Lucio Blanco Airport",
+      "id": "MX-REX-REX"
+    }
+  ],
+  "Richmond, United States of America": [
+    {
+      "iata": "RIC",
+      "cityCode": "RIC",
+      "terminal": "Richmond Airport",
+      "id": "US-RIC-RIC"
+    }
+  ],
+  "Rio de Janeiro, Brazil": [
+    {
+      "iata": "GIG",
+      "cityCode": "GIG",
+      "terminal": "Galeao Airport",
+      "id": "BR-GIG-GIG"
+    },
+    {
+      "iata": "SDU",
+      "cityCode": "GIG",
+      "terminal": "Santos Dumont Airport",
+      "id": "BR-GIG-SDU"
+    }
+  ],
+  "Riohacha, Colombia": [
+    {
+      "iata": "RCH",
+      "cityCode": "RCH",
+      "terminal": "Almirante Padilla Airport",
+      "id": "CO-RCH-RCH"
+    }
+  ],
+  "Roanoke, United States of America": [
+    {
+      "iata": "ROA",
+      "cityCode": "ROA",
+      "terminal": "Roanoke Regional Airport (Woodrum Field)",
+      "id": "US-ROA-ROA"
+    }
+  ],
+  "Roatan, Honduras": [
+    {
+      "iata": "RTB",
+      "cityCode": "RTB",
+      "terminal": "Juan Manuel Galvez Airport",
+      "id": "HN-RTB-RTB"
+    }
+  ],
+  "Rochester, United States of America": [
+    {
+      "iata": "ROC",
+      "cityCode": "ROC",
+      "terminal": "Greater Rochester Airport",
+      "id": "US-ROC-ROC"
+    }
+  ],
+  "Rome, Italy": [
+    {
+      "iata": "FCO",
+      "cityCode": "ROM",
+      "terminal": "Leonardo Da Vinci Airport",
+      "id": "IT-ROM-FCO"
+    }
+  ],
+  "Rosario, Argentina": [
+    {
+      "iata": "ROS",
+      "cityCode": "ROS",
+      "terminal": "Islas Malvinas International Airport",
+      "id": "AR-ROS-ROS"
+    }
+  ],
+  "Sacramento, United States of America": [
+    {
+      "iata": "SMF",
+      "cityCode": "SAC",
+      "terminal": "Sacramento International Airport",
+      "id": "US-SAC-SMF"
+    }
+  ],
+  "Saint Johns, Canada": [
+    {
+      "iata": "YYT",
+      "cityCode": "YYT",
+      "terminal": "San Juan de Terranova International Airport",
+      "id": "CA-YYT-YYT"
+    }
+  ],
+  "Salamanca, Spain": [
+    {
+      "iata": "SEJ",
+      "cityCode": "SLM",
+      "terminal": "Salamanca Train Station",
+      "id": "ES-SLM-SEJ"
+    }
+  ],
+  "Salt Lake City, United States of America": [
+    {
+      "iata": "SLC",
+      "cityCode": "SLC",
+      "terminal": "Salt Lake City International Airport",
+      "id": "US-SLC-SLC"
+    }
+  ],
+  "Salta, Argentina": [
+    {
+      "iata": "SLA",
+      "cityCode": "SLA",
+      "terminal": "Salta Martín Miguel de Güemes International Airport",
+      "id": "AR-SLA-SLA"
+    }
+  ],
+  "Salvador Bahia, Brazil": [
+    {
+      "iata": "SSA",
+      "cityCode": "SSA",
+      "terminal": "Luis Eduardo Magalhaes Aiport",
+      "id": "BR-SSA-SSA"
+    }
+  ],
+  "San Andres, Colombia": [
+    {
+      "iata": "ADZ",
+      "cityCode": "ADZ",
+      "terminal": "Gustavo Rojas Pinilla Airport",
+      "id": "CO-ADZ-ADZ"
+    }
+  ],
+  "San Antonio, United States of America": [
+    {
+      "iata": "SAT",
+      "cityCode": "SAT",
+      "terminal": "San Antonio Intl Airport",
+      "id": "US-SAT-SAT"
+    }
+  ],
+  "San Cristobal, Galapagos  Islands, Ecuador": [
+    {
+      "iata": "SCY",
+      "cityCode": "SCY",
+      "terminal": "San Cristóbal Airport",
+      "id": "EC-SCY-SCY"
+    }
+  ],
+  "San Diego, United States of America": [
+    {
+      "iata": "SAN",
+      "cityCode": "SAN",
+      "terminal": "San Diego International Airport",
+      "id": "US-SAN-SAN"
+    }
+  ],
+  "San Francisco, United States of America": [
+    {
+      "iata": "SFO",
+      "cityCode": "SFO",
+      "terminal": "San Francisco Airport",
+      "id": "US-SFO-SFO"
+    }
+  ],
+  "San Jose del Guaviare, Colombia": [
+    {
+      "iata": "SJE",
+      "cityCode": "SJE",
+      "terminal": "Jorge Enrique González Airport",
+      "id": "CO-SJE-SJE"
+    }
+  ],
+  "San Jose, Costa Rica, Costa Rica": [
+    {
+      "iata": "SJO",
+      "cityCode": "SJO",
+      "terminal": "Juan Santamaria Airport",
+      "id": "CR-SJO-SJO"
+    }
+  ],
+  "San Jose, United States of America": [
+    {
+      "iata": "SJC",
+      "cityCode": "SJC",
+      "terminal": "San José Norman Y. Mineta International Airport",
+      "id": "US-SJC-SJC"
+    }
+  ],
+  "San Juan de Puerto Rico, Puerto Rico": [
+    {
+      "iata": "SJU",
+      "cityCode": "SJU",
+      "terminal": "Luis Muñoz Marin Airport",
+      "id": "PR-SJU-SJU"
+    }
+  ],
+  "San Luis Obispo, United States of America": [
+    {
+      "iata": "SBP",
+      "cityCode": "SBP",
+      "terminal": "San Luis County Rgnl",
+      "id": "US-SBP-SBP"
+    }
+  ],
+  "San Luis Potosi, Mexico": [
+    {
+      "iata": "SLP",
+      "cityCode": "SLP",
+      "terminal": "Ponciano Arriaga Airport",
+      "id": "MX-SLP-SLP"
+    }
+  ],
+  "San Pedro Sula, Honduras": [
+    {
+      "iata": "SAP",
+      "cityCode": "SAP",
+      "terminal": "Ramon Villeda Morales Airport",
+      "id": "HN-SAP-SAP"
+    }
+  ],
+  "San Salvador, El Salvador": [
+    {
+      "iata": "SAL",
+      "cityCode": "SAL",
+      "terminal": "El Salvador Airport",
+      "id": "SV-SAL-SAL"
+    }
+  ],
+  "San Sebastian, Spain": [
+    {
+      "iata": "EAS",
+      "cityCode": "EAS",
+      "terminal": "San Sebastian Airport",
+      "id": "ES-EAS-EAS"
+    }
+  ],
+  "Santa Barbara, United States of America": [
+    {
+      "iata": "SBA",
+      "cityCode": "SBA",
+      "terminal": "Santa Barbara Municipal Airport",
+      "id": "US-SBA-SBA"
+    }
+  ],
+  "Santa Cruz de la Sierra, Bolivia": [
+    {
+      "iata": "VVI",
+      "cityCode": "VVI",
+      "terminal": "Viru Viru Airport",
+      "id": "BO-VVI-VVI"
+    }
+  ],
+  "Santa Marta, Colombia": [
+    {
+      "iata": "SMR",
+      "cityCode": "SMR",
+      "terminal": "Simon Bolivar Airport",
+      "id": "CO-SMR-SMR"
+    }
+  ],
+  "Santander, Spain": [
+    {
+      "iata": "SDR",
+      "cityCode": "SDR",
+      "terminal": "Santander Airport",
+      "id": "ES-SDR-SDR"
+    }
+  ],
+  "Santiago de Chile, Chile": [
+    {
+      "iata": "SCL",
+      "cityCode": "SCL",
+      "terminal": "Arturo Merino Benítez Airport",
+      "id": "CL-SCL-SCL"
+    }
+  ],
+  "Santiago de Compostela, Spain": [
+    {
+      "iata": "SCQ",
+      "cityCode": "SCQ",
+      "terminal": "Santiago de Compostela Airport",
+      "id": "ES-SCQ-SCQ"
+    }
+  ],
+  "Santiago de los Caballeros, Dominican Republic": [
+    {
+      "iata": "STI",
+      "cityCode": "STI",
+      "terminal": "Cibao International Airport",
+      "id": "DO-STI-STI"
+    }
+  ],
+  "Santo Domingo, Dominican Republic": [
+    {
+      "iata": "SDQ",
+      "cityCode": "SDQ",
+      "terminal": "Aeropuerto de las Americas",
+      "id": "DO-SDQ-SDQ"
+    }
+  ],
+  "Sao Paulo, Brazil": [
+    {
+      "iata": "GRU",
+      "cityCode": "GRU",
+      "terminal": "Sao Pablo- Guarulhos Airport",
+      "id": "BR-GRU-GRU"
+    },
+    {
+      "iata": "VCP",
+      "cityCode": "GRU",
+      "terminal": "Viracopos International Airport",
+      "id": "BR-GRU-VCP"
+    }
+  ],
+  "Saragossa, Spain": [
+    {
+      "iata": "XZZ",
+      "cityCode": "ZAZ",
+      "terminal": "Zaragoza Delicias Train Station",
+      "id": "ES-ZAZ-XZZ"
+    }
+  ],
+  "Saskatoon, Canada": [
+    {
+      "iata": "YXE",
+      "cityCode": "YXE",
+      "terminal": "Saskatoon John G. Diefenbaker International Airport",
+      "id": "CA-YXE-YXE"
+    }
+  ],
+  "Seattle, United States of America": [
+    {
+      "iata": "SEA",
+      "cityCode": "SEA",
+      "terminal": "Boeing Fld Airport",
+      "id": "US-SEA-SEA"
+    }
+  ],
+  "Seoul, South Korea": [
+    {
+      "iata": "ICN",
+      "cityCode": "SEL",
+      "terminal": "Incheon International Airport",
+      "id": "KR-SEL-ICN"
+    }
+  ],
+  "Seville, Spain": [
+    {
+      "iata": "SVQ",
+      "cityCode": "SVQ",
+      "terminal": "Seville Airport",
+      "id": "ES-SVQ-SVQ"
+    },
+    {
+      "iata": "XQA",
+      "cityCode": "SVQ",
+      "terminal": "Santa Justa Railway Station",
+      "id": "ES-SVQ-XQA"
+    }
+  ],
+  "Shangai, China": [
+    {
+      "iata": "PVG",
+      "cityCode": "SHA",
+      "terminal": "Shanghái Pudong International Airport",
+      "id": "CN-SHA-PVG"
+    }
+  ],
+  "Singapore, Singapore": [
+    {
+      "iata": "SIN",
+      "cityCode": "SIN",
+      "terminal": "Changi ",
+      "id": "SG-SIN-SIN"
+    }
+  ],
+  "Southampton, United Kingdom": [
+    {
+      "iata": "SOU",
+      "cityCode": "SOU",
+      "terminal": "Southampton Coach Station",
+      "id": "UK-SOU-SOU"
+    }
+  ],
+  "St. Louis, United States of America": [
+    {
+      "iata": "STL",
+      "cityCode": "STL",
+      "terminal": "Lambert St. Louis International Airport",
+      "id": "US-STL-STL"
+    }
+  ],
+  "St. Petersburg, Russia": [
+    {
+      "iata": "LED",
+      "cityCode": "LED",
+      "terminal": "Pulkovo ",
+      "id": "RU-LED-LED"
+    }
+  ],
+  "Stockholm, Sweden": [
+    {
+      "iata": "ARN",
+      "cityCode": "STO",
+      "terminal": "Stockholm Arlanda Airport",
+      "id": "SE-STO-ARN"
+    }
+  ],
+  "Stuttgart, Germany": [
+    {
+      "iata": "STR",
+      "cityCode": "STR",
+      "terminal": "Echterdingen Airport",
+      "id": "DE-STR-STR"
+    }
+  ],
+  "Sucre, Bolivia": [
+    {
+      "iata": "SRE",
+      "cityCode": "SRE",
+      "terminal": "Alcantarí Airport",
+      "id": "BO-SRE-SRE"
+    }
+  ],
+  "Swansea, United Kingdom": [
+    {
+      "iata": "SWS",
+      "cityCode": "SWS",
+      "terminal": "Swansea Coach Station",
+      "id": "UK-SWS-SWS"
+    }
+  ],
+  "Sydney, Australia": [
+    {
+      "iata": "SYD",
+      "cityCode": "SYD",
+      "terminal": "Kingsford Smith Airport",
+      "id": "AU-SYD-SYD"
+    }
+  ],
+  "Syracuse, United States of America": [
+    {
+      "iata": "SYR",
+      "cityCode": "SYR",
+      "terminal": "Syracuse Hancock Airport",
+      "id": "US-SYR-SYR"
+    }
+  ],
+  "Taipei, Taiwan": [
+    {
+      "iata": "TPE",
+      "cityCode": "TPE",
+      "terminal": "Taiwan Taoyuan International Airport",
+      "id": "TW-TPE-TPE"
+    }
+  ],
+  "Tallahassee, United States of America": [
+    {
+      "iata": "TLH",
+      "cityCode": "TLH",
+      "terminal": "Tallahassee International Airport",
+      "id": "US-TLH-TLH"
+    }
+  ],
+  "Tampa, United States of America": [
+    {
+      "iata": "TPA",
+      "cityCode": "TPA",
+      "terminal": "Topp Of Tampa Airport",
+      "id": "US-TPA-TPA"
+    }
+  ],
+  "Tampico, Mexico": [
+    {
+      "iata": "TAM",
+      "cityCode": "TAM",
+      "terminal": "General Francisco Javier Mina Airport",
+      "id": "MX-TAM-TAM"
+    }
+  ],
+  "Tapachula, Mexico": [
+    {
+      "iata": "TAP",
+      "cityCode": "TAP",
+      "terminal": "Tapachula International Airport",
+      "id": "MX-TAP-TAP"
+    }
+  ],
+  "Tarija, Bolivia": [
+    {
+      "iata": "TJA",
+      "cityCode": "TJA",
+      "terminal": "Capitán Oriel Lea Plaza Airport",
+      "id": "BO-TJA-TJA"
+    }
+  ],
+  "Tegucigalpa, Honduras": [
+    {
+      "iata": "XPL",
+      "cityCode": "XPL",
+      "terminal": "Palmerola International Airport",
+      "id": "HN-XPL-XPL"
+    },
+    {
+      "iata": "TGU",
+      "cityCode": "XPL",
+      "terminal": "Toncontín Intl Airport",
+      "id": "HN-XPL-TGU"
+    }
+  ],
+  "Tel-Aviv, Israel": [
+    {
+      "iata": "TLV",
+      "cityCode": "TLV",
+      "terminal": "Ben Gurion Airport",
+      "id": "IL-TLV-TLV"
+    }
+  ],
+  "Tenerife, Spain": [
+    {
+      "iata": "TFS",
+      "cityCode": "TCI",
+      "terminal": "Tenerife South Airport",
+      "id": "ES-TCI-TFS"
+    }
+  ],
+  "Thunder Bay, Canada": [
+    {
+      "iata": "YQT",
+      "cityCode": "YQT",
+      "terminal": "Thunder Bay International Airport",
+      "id": "CA-YQT-YQT"
+    }
+  ],
+  "Tijuana, Mexico": [
+    {
+      "iata": "TIJ",
+      "cityCode": "TIJ",
+      "terminal": "General Abelardo L. Rodriguez Airport",
+      "id": "MX-TIJ-TIJ"
+    }
+  ],
+  "Tokyo, Japan": [
+    {
+      "iata": "HND",
+      "cityCode": "TYO",
+      "terminal": "Haneda International Airport",
+      "id": "JP-TYO-HND"
+    }
+  ],
+  "Toronto, Canada": [
+    {
+      "iata": "YYZ",
+      "cityCode": "YTO",
+      "terminal": "Toronto Pearson Airport",
+      "id": "CA-YTO-YYZ"
+    }
+  ],
+  "Torreon, Mexico": [
+    {
+      "iata": "TRC",
+      "cityCode": "TRC",
+      "terminal": "Francisco Sarabia International Airport",
+      "id": "MX-TRC-TRC"
+    }
+  ],
+  "Toulouse, France": [
+    {
+      "iata": "TLS",
+      "cityCode": "TLS",
+      "terminal": "Blagnac Aiport",
+      "id": "FR-TLS-TLS"
+    }
+  ],
+  "Trinidad, Bolivia": [
+    {
+      "iata": "TDD",
+      "cityCode": "TDD",
+      "terminal": "Teniente Jorge Henrich Arauz Airport",
+      "id": "BO-TDD-TDD"
+    }
+  ],
+  "Trujillo, Peru": [
+    {
+      "iata": "TRU",
+      "cityCode": "TRU",
+      "terminal": "Capitán FAP Carlos Martínez de Pinillos intl Airport",
+      "id": "PE-TRU-TRU"
+    }
+  ],
+  "Tucuman, Argentina": [
+    {
+      "iata": "TUC",
+      "cityCode": "TUC",
+      "terminal": "Teniente General Benjamín Matienzo International Airport",
+      "id": "AR-TUC-TUC"
+    }
+  ],
+  "Tulsa, United States of America": [
+    {
+      "iata": "TUL",
+      "cityCode": "TUL",
+      "terminal": "Tulsa International Airport",
+      "id": "US-TUL-TUL"
+    }
+  ],
+  "Tumaco, Colombia": [
+    {
+      "iata": "TCO",
+      "cityCode": "TCO",
+      "terminal": "La Florida Airport",
+      "id": "CO-TCO-TCO"
+    }
+  ],
+  "Turin, Italy": [
+    {
+      "iata": "TRN",
+      "cityCode": "TRN",
+      "terminal": "Turin-Caselle Airport",
+      "id": "IT-TRN-TRN"
+    }
+  ],
+  "Tuxtla, Mexico": [
+    {
+      "iata": "TGZ",
+      "cityCode": "TGZ",
+      "terminal": "Angel Albino Corzo International Airport",
+      "id": "MX-TGZ-TGZ"
+    }
+  ],
+  "Uyuni, Bolivia": [
+    {
+      "iata": "UYU",
+      "cityCode": "UYU",
+      "terminal": "Uyuni Airport",
+      "id": "BO-UYU-UYU"
+    }
+  ],
+  "Valencia, Spain, Spain": [
+    {
+      "iata": "VLC",
+      "cityCode": "VLC",
+      "terminal": "Valencia Airport",
+      "id": "ES-VLC-VLC"
+    },
+    {
+      "iata": "YJV",
+      "cityCode": "VLC",
+      "terminal": "Valencia Railway Station",
+      "id": "ES-VLC-YJV"
+    }
+  ],
+  "Valledupar, Colombia": [
+    {
+      "iata": "VUP",
+      "cityCode": "VUP",
+      "terminal": "Alfonso Lopez Pumarejo Airport",
+      "id": "CO-VUP-VUP"
+    }
+  ],
+  "Vancouver, Canada": [
+    {
+      "iata": "YVR",
+      "cityCode": "YVR",
+      "terminal": "Vancouver Airport",
+      "id": "CA-YVR-YVR"
+    }
+  ],
+  "Venice, Italy": [
+    {
+      "iata": "VCE",
+      "cityCode": "VCE",
+      "terminal": "Marco Polo Aiport",
+      "id": "IT-VCE-VCE"
+    }
+  ],
+  "Veracruz, Mexico": [
+    {
+      "iata": "VER",
+      "cityCode": "VER",
+      "terminal": "General Heriberto Jara Airport",
+      "id": "MX-VER-VER"
+    }
+  ],
+  "Victoria, Canada": [
+    {
+      "iata": "YYJ",
+      "cityCode": "YYJ",
+      "terminal": "Victoria International Airport",
+      "id": "CA-YYJ-YYJ"
+    }
+  ],
+  "Vienna, Austria": [
+    {
+      "iata": "VIE",
+      "cityCode": "VIE",
+      "terminal": "Schwechat Aiport",
+      "id": "AT-VIE-VIE"
+    }
+  ],
+  "Vigo, Spain": [
+    {
+      "iata": "VGO",
+      "cityCode": "VGO",
+      "terminal": "Vigo Airport",
+      "id": "ES-VGO-VGO"
+    }
+  ],
+  "Villahermosa, Mexico": [
+    {
+      "iata": "VSA",
+      "cityCode": "VSA",
+      "terminal": "Capitan Carlos Perez Airport",
+      "id": "MX-VSA-VSA"
+    }
+  ],
+  "Villavicencio, Colombia": [
+    {
+      "iata": "VVC",
+      "cityCode": "VVC",
+      "terminal": "La Vanguardia Airport",
+      "id": "CO-VVC-VVC"
+    }
+  ],
+  "Vitoria, Spain": [
+    {
+      "iata": "VDC",
+      "cityCode": "VIT",
+      "terminal": "Glauber Rocha Airport",
+      "id": "ES-VIT-VDC"
+    }
+  ],
+  "Vittoria, Brazil": [
+    {
+      "iata": "VIX",
+      "cityCode": "VIX",
+      "terminal": "Euricio Sales Airport",
+      "id": "BR-VIX-VIX"
+    }
+  ],
+  "Warsaw, Poland": [
+    {
+      "iata": "WAW",
+      "cityCode": "WAW",
+      "terminal": "Frederic Chopin Airport",
+      "id": "PL-WAW-WAW"
+    }
+  ],
+  "Washington, United States of America": [
+    {
+      "iata": "IAD",
+      "cityCode": "IAD",
+      "terminal": "Washington Dulles Airport",
+      "id": "US-IAD-IAD"
+    }
+  ],
+  "Wichita, United States of America": [
+    {
+      "iata": "ICT",
+      "cityCode": "ICT",
+      "terminal": "Dwight D. Eisenhower National Airport",
+      "id": "US-ICT-ICT"
+    }
+  ],
+  "Winnipeg, Canada": [
+    {
+      "iata": "YWG",
+      "cityCode": "YWG",
+      "terminal": "James Armstrong Richardson International Airport",
+      "id": "CA-YWG-YWG"
+    }
+  ],
+  "Worcester, United States of America": [
+    {
+      "iata": "ORH",
+      "cityCode": "ORH",
+      "terminal": " Worcester Airport",
+      "id": "US-ORH-ORH"
+    }
+  ],
+  "Yopal, Colombia": [
+    {
+      "iata": "EYP",
+      "cityCode": "EYP",
+      "terminal": "El Alcaravan Airport",
+      "id": "CO-EYP-EYP"
+    }
+  ],
+  "Zacatecas, Mexico": [
+    {
+      "iata": "ZCL",
+      "cityCode": "ZCL",
+      "terminal": "General Leobardo C. Ruiz International Airport",
+      "id": "MX-ZCL-ZCL"
+    }
+  ],
+  "Zagreb, Croatia": [
+    {
+      "iata": "ZAG",
+      "cityCode": "ZAG",
+      "terminal": " Pleso  ",
+      "id": "HR-ZAG-ZAG"
+    }
+  ],
+  "Zanderij, Surinam": [
+    {
+      "iata": "PBM",
+      "cityCode": "PBM",
+      "terminal": "Johan Adolf Pengel intl Airport",
+      "id": "SR-PBM-PBM"
+    }
+  ],
+  "Zurich, Switzerland": [
+    {
+      "iata": "ZRH",
+      "cityCode": "ZRH",
+      "terminal": "Zurich Airport",
+      "id": "CH-ZRH-ZRH"
+    }
+  ]
+}
