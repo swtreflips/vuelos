@@ -50,6 +50,7 @@ def load_airline(name):
 
 av = load_airline("avianca")
 la = load_airline("latam")
+ib = load_airline("iberia")
 
 PROFILE_DIR = ROOT / "orchestrator_profile"
 MAX_RUNTIME = timedelta(hours=23, minutes=45)
@@ -103,8 +104,9 @@ def main():
 
     av_planned = av.load_planned()
     la_planned = la.load_planned()
-    print(f"📋 avianca: {len(av_planned)} calls   latam: {len(la_planned)} calls")
-    if not av_planned and not la_planned:
+    ib_planned = ib.load_planned()
+    print(f"📋 avianca: {len(av_planned)} calls   latam: {len(la_planned)} calls   iberia: {len(ib_planned)} calls")
+    if not av_planned and not la_planned and not ib_planned:
         print("Nothing to do.")
         return
 
@@ -117,6 +119,7 @@ def main():
         )
         av_page = context.new_page()
         la_page = context.new_page()
+        ib_page = context.new_page()
 
         print("\n🌐 warming up avianca tab ...")
         if not av.init_page(av_page):
@@ -124,6 +127,9 @@ def main():
         print("🌐 attaching latam tab (first do_one will warm_and_capture) ...")
         la_client = la.LatamClient()
         la_client.attach(la_page, context)
+        print("🌐 warming up iberia tab ...")
+        if not ib.init_page(ib_page):
+            print("   ⚠ iberia: no Bearer token captured (calls may fail).")
 
         start_time = datetime.now()
         sweep_num = 0
@@ -138,9 +144,10 @@ def main():
                 ensure_connected()  # single connectivity gate for the process
 
                 if sweep_num > 1:
-                    print(f"\n♻ re-warming both sessions before sweep {sweep_num}...")
+                    print(f"\n♻ re-warming all sessions before sweep {sweep_num}...")
                     av.rewarm_session(av_page)
                     la_client.replays_since_warm = la.REPLAYS_BETWEEN_WARMS
+                    ib.rewarm_session(ib_page)
 
                 print(f"\n🔁 sweep {sweep_num} starting at {now.strftime('%Y-%m-%d %H:%M:%S')}")
                 runners = [
@@ -150,12 +157,16 @@ def main():
                     Runner("LA", la_planned,
                            lambda row, i, n: la_client.do_one(row, sweep_num, i, n),
                            lambda: random.uniform(la.MIN_SLEEP, la.MAX_SLEEP)),
+                    Runner("IB", ib_planned,
+                           lambda row, i, n: ib.do_one_call(ib_page, context, row, sweep_num, i, n),
+                           lambda: random.uniform(ib.MIN_SLEEP, ib.MAX_SLEEP)),
                 ]
                 parallel_sweep(runners)
 
                 print("\n📐 canonicalizing new raws ...")
                 av.canonicalize_new()
                 la.canonicalize_new()
+                ib.canonicalize_new()
 
                 now = datetime.now()
                 if now - start_time >= MAX_RUNTIME:

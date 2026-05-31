@@ -1,0 +1,7368 @@
+{
+  "A Coruna, Spain": [
+    {
+      "code": "LCG",
+      "description": "A Coruña",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Aberdeen, United Kingdom": [
+    {
+      "code": "ABZ",
+      "description": "Aberdeen",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "Abha, Arabie saoudite": [
+    {
+      "code": "AHB",
+      "description": "Abha",
+      "timezone": "Asia/Riyadh",
+      "countryCode": "SA",
+      "country": "Arabie saoudite"
+    }
+  ],
+  "Abidjan, Ivory Coast": [
+    {
+      "code": "ABJ",
+      "description": "Abidjan",
+      "timezone": "Africa/Abidjan",
+      "countryCode": "CI",
+      "country": "Ivory Coast"
+    }
+  ],
+  "Abilene, USA": [
+    {
+      "code": "ABI",
+      "description": "Abilene",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Abu Dhabi, Emirados Arabes Unidos": [
+    {
+      "code": "AUH",
+      "description": "Abu Dhabi",
+      "timezone": "Asia/Dubai",
+      "countryCode": "AE",
+      "country": "Emirados Árabes Unidos"
+    }
+  ],
+  "Abuja, Nigeria": [
+    {
+      "code": "ABV",
+      "description": "Abuja",
+      "timezone": "Africa/Lagos",
+      "countryCode": "NG",
+      "country": "Nigeria"
+    }
+  ],
+  "Acapulco, Mexico": [
+    {
+      "code": "ACA",
+      "description": "Acapulco",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Accra, Ghana": [
+    {
+      "code": "ACC",
+      "description": "Accra",
+      "timezone": "Africa/Accra",
+      "countryCode": "GH",
+      "country": "Ghana"
+    }
+  ],
+  "Addis Ababa, Ethiopia": [
+    {
+      "code": "ADD",
+      "description": "Addis Ababa",
+      "timezone": "Africa/Nairobi",
+      "countryCode": "ET",
+      "country": "Ethiopia"
+    }
+  ],
+  "Adelaide, Australia": [
+    {
+      "code": "ADL",
+      "description": "Adelaide",
+      "timezone": "Australia/Adelaide",
+      "countryCode": "AU",
+      "country": "Australia"
+    }
+  ],
+  "Agadir, Maroc": [
+    {
+      "code": "AGA",
+      "description": "Agadir",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Aguascalientes, Mexico": [
+    {
+      "code": "AGU",
+      "description": "Aguascalientes",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Ahmedabad, India": [
+    {
+      "code": "AMD",
+      "description": "Ahmedabad",
+      "timezone": "Asia/Calcutta",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Akita, Japan": [
+    {
+      "code": "AXT",
+      "description": "Akita",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Akron Canton, USA": [
+    {
+      "code": "CAK",
+      "description": "Akron Canton",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Albacete, Spain": [
+    {
+      "code": "ABC",
+      "description": "Albacete",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Albany, USA": [
+    {
+      "code": "ALB",
+      "description": "Albany",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Albuquerque, USA": [
+    {
+      "code": "ABQ",
+      "description": "Albuquerque",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Alesund-Vigra, Norway": [
+    {
+      "code": "AES",
+      "description": "Ålesund-Vigra",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Alexandria, USA": [
+    {
+      "code": "AEX",
+      "description": "Alexandria",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Algiers, Algeria": [
+    {
+      "code": "ALG",
+      "description": "Algiers",
+      "timezone": "Africa/Algiers",
+      "countryCode": "DZ",
+      "country": "Algeria"
+    }
+  ],
+  "Alicante, Spain": [
+    {
+      "code": "ALC",
+      "description": "Alicante",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Allentown, USA": [
+    {
+      "code": "ABE",
+      "description": "Allentown",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Almaty, Kazakhstan": [
+    {
+      "code": "ALA",
+      "description": "Almaty",
+      "timezone": "Asia/Almaty",
+      "countryCode": "KZ",
+      "country": "Kazakhstan"
+    }
+  ],
+  "Almeria, Spain": [
+    {
+      "code": "LEI",
+      "description": "Almería",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Amman, Jordan": [
+    {
+      "code": "AMM",
+      "description": "Amman",
+      "timezone": "Asia/Amman",
+      "countryCode": "JO",
+      "country": "Jordan"
+    }
+  ],
+  "Amritsar, India": [
+    {
+      "code": "ATQ",
+      "description": "Amritsar",
+      "timezone": "Asia/Calcutta",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Amsterdam, Netherlands": [
+    {
+      "code": "AMS",
+      "description": "Amsterdam",
+      "timezone": "Europe/Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands"
+    }
+  ],
+  "Anchorage, USA": [
+    {
+      "code": "ANC",
+      "description": "Anchorage",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Andorra La Seu d'Urgell, Spain": [
+    {
+      "code": "LEU",
+      "description": "Andorra La Seu d'Urgell",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Angeles Mabalacat, Philippines": [
+    {
+      "code": "CRK",
+      "description": "Angeles Mabalacat",
+      "timezone": "Asia/Manila",
+      "countryCode": "PH",
+      "country": "Philippines"
+    }
+  ],
+  "Ankara, Turkey": [
+    {
+      "code": "ANK",
+      "description": "Ankara",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    },
+    {
+      "code": "ESB",
+      "description": "Ankara",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    }
+  ],
+  "Antalya, Turkey": [
+    {
+      "code": "AYT",
+      "description": "Antalya",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    }
+  ],
+  "Antigua, Antigua und Barbuda": [
+    {
+      "code": "ANU",
+      "description": "Antigua",
+      "timezone": "America/Antigua",
+      "countryCode": "AG",
+      "country": "Antigua und Barbuda"
+    }
+  ],
+  "Antofagasta, Chile": [
+    {
+      "code": "ANF",
+      "description": "Antofagasta",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Aomori, Japan": [
+    {
+      "code": "AOJ",
+      "description": "Aomori",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Appleton, USA": [
+    {
+      "code": "ATW",
+      "description": "Appleton",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Arcata/Eureka, USA": [
+    {
+      "code": "ACV",
+      "description": "Arcata/Eureka",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Arequipa, Peru": [
+    {
+      "code": "AQP",
+      "description": "Arequipa",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Arica, Chile": [
+    {
+      "code": "ARI",
+      "description": "Arica",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Armenia, Colombia": [
+    {
+      "code": "AXM",
+      "description": "Armenia",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Aruba, Aruba": [
+    {
+      "code": "AUA",
+      "description": "Aruba",
+      "timezone": "America/Puerto_Rico",
+      "countryCode": "AW",
+      "country": "Aruba"
+    }
+  ],
+  "Asahikawa, Japan": [
+    {
+      "code": "AKJ",
+      "description": "Asahikawa",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Asheville Regional Airport, USA": [
+    {
+      "code": "AVL",
+      "description": "Asheville Regional Airport",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Aspen, USA": [
+    {
+      "code": "ASE",
+      "description": "Aspen",
+      "timezone": "America/Denver",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Asturias-Gijon, Spain": [
+    {
+      "code": "QIJ",
+      "description": "Asturias-Gijón",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Asturias-Oviedo, Spain": [
+    {
+      "code": "OVD",
+      "description": "Asturias-Oviedo",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Asuncion, Paraguay": [
+    {
+      "code": "ASU",
+      "description": "Asunción",
+      "timezone": "America/Asuncion",
+      "countryCode": "PY",
+      "country": "Paraguay"
+    }
+  ],
+  "Athens, Greece": [
+    {
+      "code": "ATH",
+      "description": "Athens",
+      "timezone": "Europe/Athens",
+      "countryCode": "GR",
+      "country": "Greece"
+    }
+  ],
+  "Atlanta, USA": [
+    {
+      "code": "ATL",
+      "description": "Atlanta",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Auckland, New Zealand": [
+    {
+      "code": "AKL",
+      "description": "Auckland",
+      "timezone": "Pacific/Auckland",
+      "countryCode": "NZ",
+      "country": "New Zealand"
+    }
+  ],
+  "Augusta, USA": [
+    {
+      "code": "AGS",
+      "description": "Augusta",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Austin, USA": [
+    {
+      "code": "AUS",
+      "description": "Austin",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Ayacucho, Peru": [
+    {
+      "code": "AYP",
+      "description": "Ayacucho",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Azores Ponta Delgada, Portugal": [
+    {
+      "code": "PDL",
+      "description": "Azores Ponta Delgada",
+      "timezone": "Europe/Lisbon",
+      "countryCode": "PT",
+      "country": "Portugal"
+    }
+  ],
+  "Badajoz, Spain": [
+    {
+      "code": "BJZ",
+      "description": "Badajoz",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Baghdad, Iraq": [
+    {
+      "code": "BGW",
+      "description": "Baghdad",
+      "timezone": "Asia/Baghdad",
+      "countryCode": "IQ",
+      "country": "Iraq"
+    }
+  ],
+  "Bahia Blanca, Argentina": [
+    {
+      "code": "BHI",
+      "description": "Bahía Blanca",
+      "timezone": "America/Argentina/Buenos_Aires",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Bahrain, Bahrein": [
+    {
+      "code": "BAH",
+      "description": "Bahrain",
+      "timezone": "Asia/Bahrain",
+      "countryCode": "BH",
+      "country": "Bahreïn"
+    }
+  ],
+  "Bakersfield, USA": [
+    {
+      "code": "BFL",
+      "description": "Bakersfield",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Baku, Azerbaijan": [
+    {
+      "code": "BAK",
+      "description": "Baku",
+      "timezone": "Europe/Moscow",
+      "countryCode": "AZ",
+      "country": "Azerbaijan"
+    },
+    {
+      "code": "GYD",
+      "description": "Baku",
+      "timezone": "Asia/Baku",
+      "countryCode": "AZ",
+      "country": "Azerbaijan"
+    }
+  ],
+  "Bali, Indonesia": [
+    {
+      "code": "DPS",
+      "description": "Bali",
+      "timezone": "Asia/Makassar",
+      "countryCode": "ID",
+      "country": "Indonesia"
+    }
+  ],
+  "Balmaceda, Chile": [
+    {
+      "code": "BBA",
+      "description": "Balmaceda",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Baltimore, USA": [
+    {
+      "code": "BWI",
+      "description": "Baltimore",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Baltra Galapagos Islands, Ecuador": [
+    {
+      "code": "GPS",
+      "description": "Baltra Galapagos Islands",
+      "timezone": "America/Guayaquil",
+      "countryCode": "EC",
+      "country": "Ecuador"
+    }
+  ],
+  "Bangalore, India": [
+    {
+      "code": "BLR",
+      "description": "Bangalore",
+      "timezone": "Asia/Kolkata",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Bangkok, Thailand": [
+    {
+      "code": "BKK",
+      "description": "Bangkok",
+      "timezone": "Asia/Bangkok",
+      "countryCode": "TH",
+      "country": "Thailand"
+    }
+  ],
+  "Bangor, USA": [
+    {
+      "code": "BGR",
+      "description": "Bangor",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Banjul, Gambia": [
+    {
+      "code": "BJL",
+      "description": "Banjul",
+      "timezone": "Africa/Banjul",
+      "countryCode": "GM",
+      "country": "Gambia"
+    }
+  ],
+  "Barcelona, Spain": [
+    {
+      "code": "BCN",
+      "description": "Barcelona",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Bari, Italy": [
+    {
+      "code": "BRI",
+      "description": "Bari",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Barranquilla, Colombia": [
+    {
+      "code": "BAQ",
+      "description": "Barranquilla",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Basel Euroairport, Switzerland": [
+    {
+      "code": "BSL",
+      "description": "Basel Euroairport",
+      "timezone": "Europe/Zurich",
+      "countryCode": "CH",
+      "country": "Switzerland"
+    }
+  ],
+  "Basrah, Iraq": [
+    {
+      "code": "BSR",
+      "description": "Basrah",
+      "timezone": "Asia/Baghdad",
+      "countryCode": "IQ",
+      "country": "Iraq"
+    }
+  ],
+  "Baton Rouge, USA": [
+    {
+      "code": "BTR",
+      "description": "Baton Rouge",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Bauru, Brazil": [
+    {
+      "code": "JTC",
+      "description": "Bauru",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Beaumont Port Arthur, USA": [
+    {
+      "code": "BPT",
+      "description": "Beaumont Port Arthur",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Beijing, China": [
+    {
+      "code": "BJS",
+      "description": "Beijing",
+      "timezone": "Asia/Shanghai",
+      "countryCode": "CN",
+      "country": "China"
+    }
+  ],
+  "Beirut, Lebanon": [
+    {
+      "code": "BEY",
+      "description": "Beirut",
+      "timezone": "Asia/Beirut",
+      "countryCode": "LB",
+      "country": "Lebanon"
+    }
+  ],
+  "Belem, Brazil": [
+    {
+      "code": "BEL",
+      "description": "Belém",
+      "timezone": "America/Belem",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Belfast, United Kingdom": [
+    {
+      "code": "BFS",
+      "description": "Belfast",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "Belize, Belize": [
+    {
+      "code": "BZE",
+      "description": "Belize",
+      "timezone": "America/Belice",
+      "countryCode": "BZ",
+      "country": "Belize"
+    }
+  ],
+  "Belo Horizonte, Brazil": [
+    {
+      "code": "BHZ",
+      "description": "Belo Horizonte",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Benidorm, Spain": [
+    {
+      "code": "BBF",
+      "description": "Benidorm",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Bergen, Norway": [
+    {
+      "code": "BGO",
+      "description": "Bergen",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Berlin, Germany": [
+    {
+      "code": "BER",
+      "description": "Berlin",
+      "timezone": "Europe/Berlin",
+      "countryCode": "DE",
+      "country": "Germany"
+    }
+  ],
+  "Bermuda, Bermuda": [
+    {
+      "code": "BDA",
+      "description": "Bermuda",
+      "timezone": "Atlantic/Bermuda",
+      "countryCode": "BM",
+      "country": "Bermuda"
+    }
+  ],
+  "Bilbao, Spain": [
+    {
+      "code": "BIO",
+      "description": "Bilbao",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Birmingham, USA": [
+    {
+      "code": "BHM",
+      "description": "Birmingham",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Birmingham, United Kingdom": [
+    {
+      "code": "BHX",
+      "description": "Birmingham",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "Bismarck, USA": [
+    {
+      "code": "BIS",
+      "description": "Bismarck",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Bloomington, USA": [
+    {
+      "code": "BMI",
+      "description": "Bloomington",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Bodrum, Turkey": [
+    {
+      "code": "BJU",
+      "description": "Bodrum",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    }
+  ],
+  "Bodø, Norway": [
+    {
+      "code": "BOO",
+      "description": "Bodø",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Bogota, Colombia": [
+    {
+      "code": "BOG",
+      "description": "Bogotá",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Boise, USA": [
+    {
+      "code": "BOI",
+      "description": "Boise",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Bologna, Italy": [
+    {
+      "code": "BLQ",
+      "description": "Bologna",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Bordeaux, France": [
+    {
+      "code": "BOD",
+      "description": "Bordeaux",
+      "timezone": "Europe/Paris",
+      "countryCode": "FR",
+      "country": "France"
+    }
+  ],
+  "Boston, USA": [
+    {
+      "code": "BOS",
+      "description": "Boston",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Bozeman, USA": [
+    {
+      "code": "BZN",
+      "description": "Bozeman",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Brasilia, Brazil": [
+    {
+      "code": "BSB",
+      "description": "Brasilia",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Bridgetown, Barbade": [
+    {
+      "code": "BGI",
+      "description": "Bridgetown",
+      "timezone": "America/Barbados",
+      "countryCode": "BB",
+      "country": "Barbade"
+    }
+  ],
+  "Brisbane, Australia": [
+    {
+      "code": "BNE",
+      "description": "Brisbane",
+      "timezone": "Australia/Brisbane",
+      "countryCode": "AU",
+      "country": "Australia"
+    }
+  ],
+  "Brownsville, USA": [
+    {
+      "code": "BRO",
+      "description": "Brownsville",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Brussels, Belgium": [
+    {
+      "code": "BRU",
+      "description": "Brussels",
+      "timezone": "Europe/Brussels",
+      "countryCode": "BE",
+      "country": "Belgium"
+    }
+  ],
+  "Bucaramanga, Colombia": [
+    {
+      "code": "BGA",
+      "description": "Bucaramanga",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Bucharest, Romania": [
+    {
+      "code": "BUH",
+      "description": "Bucharest",
+      "timezone": "Europe/Bucharest",
+      "countryCode": "RO",
+      "country": "Romania"
+    },
+    {
+      "code": "OTP",
+      "description": "Bucharest",
+      "timezone": "Europe/Bucharest",
+      "countryCode": "RO",
+      "country": "Romania"
+    }
+  ],
+  "Budapest, Hungary": [
+    {
+      "code": "BUD",
+      "description": "Budapest",
+      "timezone": "Europe/Budapest",
+      "countryCode": "HU",
+      "country": "Hungary"
+    }
+  ],
+  "Buenos Aires, Argentina": [
+    {
+      "code": "BUE",
+      "description": "Buenos Aires",
+      "timezone": "America/Buenos_Aires",
+      "countryCode": "AR",
+      "country": "Argentina"
+    },
+    {
+      "code": "EZE",
+      "description": "Buenos Aires",
+      "timezone": "America/Buenos_Aires",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Buffalo, USA": [
+    {
+      "code": "BUF",
+      "description": "Buffalo",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Burbank, USA": [
+    {
+      "code": "BUR",
+      "description": "Burbank",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Burgos, Spain": [
+    {
+      "code": "RGS",
+      "description": "Burgos",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Burlington, USA": [
+    {
+      "code": "BTV",
+      "description": "Burlington",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Cabo Frio, Brazil": [
+    {
+      "code": "CFB",
+      "description": "Cabo Frio",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Cagliari, Italy": [
+    {
+      "code": "CAG",
+      "description": "Cagliari",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Cairo, Egypt": [
+    {
+      "code": "CAI",
+      "description": "Cairo",
+      "timezone": "Africa/Cairo",
+      "countryCode": "EG",
+      "country": "Egypt"
+    }
+  ],
+  "Cajamarca, Peru": [
+    {
+      "code": "CJA",
+      "description": "Cajamarca",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Calama, Chile": [
+    {
+      "code": "CJC",
+      "description": "Calama",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Caldas Novas, Brazil": [
+    {
+      "code": "CLV",
+      "description": "Caldas Novas",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Calgary, Canada": [
+    {
+      "code": "YYC",
+      "description": "Calgary",
+      "timezone": "Canada/Mountain",
+      "countryCode": "CA",
+      "country": "Canada"
+    }
+  ],
+  "Cali, Colombia": [
+    {
+      "code": "CLO",
+      "description": "Cali",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Campeche, Mexico": [
+    {
+      "code": "CPE",
+      "description": "Campeche",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Campo Grande, Brazil": [
+    {
+      "code": "CGR",
+      "description": "Campo Grande",
+      "timezone": "America/Campo_Grande",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Cancun, Mexico": [
+    {
+      "code": "CUN",
+      "description": "Cancun",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Cape Town, South Africa": [
+    {
+      "code": "CPT",
+      "description": "Cape Town",
+      "timezone": "Africa/Johannesburg",
+      "countryCode": "ZA",
+      "country": "South Africa"
+    }
+  ],
+  "Caracas, Venezuela": [
+    {
+      "code": "CCS",
+      "description": "Caracas",
+      "timezone": "America/Caracas",
+      "countryCode": "VE",
+      "country": "Vénézuéla"
+    }
+  ],
+  "Cardiff, United Kingdom": [
+    {
+      "code": "CWL",
+      "description": "Cardiff",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "Cartagena de Indias, Colombia": [
+    {
+      "code": "CTG",
+      "description": "Cartagena de Indias",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Cartagena, Spain": [
+    {
+      "code": "XUF",
+      "description": "Cartagena",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Casablanca, Maroc": [
+    {
+      "code": "CMN",
+      "description": "Casablanca",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Cascavel, Brazil": [
+    {
+      "code": "CAC",
+      "description": "Cascavel",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Castellon, Spain": [
+    {
+      "code": "CDT",
+      "description": "Castellón",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Catania, Italy": [
+    {
+      "code": "CTA",
+      "description": "Catania",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Caxias do Sul, Brazil": [
+    {
+      "code": "CXJ",
+      "description": "Caxias do Sul",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Cebu, Philippines": [
+    {
+      "code": "CEB",
+      "description": "Cebu",
+      "timezone": "Asia/Manila",
+      "countryCode": "PH",
+      "country": "Philippines"
+    }
+  ],
+  "Cedar Rapids, USA": [
+    {
+      "code": "CID",
+      "description": "Cedar Rapids",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Champaign, USA": [
+    {
+      "code": "CMI",
+      "description": "Champaign",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Chapeco, Brazil": [
+    {
+      "code": "XAP",
+      "description": "Chapecó",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Charleston, USA": [
+    {
+      "code": "CHS",
+      "description": "Charleston",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    },
+    {
+      "code": "CRW",
+      "description": "Charleston",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Charlotte Amalie, Puerto Rico": [
+    {
+      "code": "SPB",
+      "description": "Charlotte Amalie",
+      "timezone": "America/Puerto_Rico",
+      "countryCode": "PR",
+      "country": "Puerto Rico"
+    },
+    {
+      "code": "STT",
+      "description": "Charlotte Amalie",
+      "timezone": "America/Puerto_Rico",
+      "countryCode": "PR",
+      "country": "Puerto Rico"
+    }
+  ],
+  "Charlotte, USA": [
+    {
+      "code": "CLT",
+      "description": "Charlotte",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Charlottesville, USA": [
+    {
+      "code": "CHO",
+      "description": "Charlottesville",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Chattanooga, USA": [
+    {
+      "code": "CHA",
+      "description": "Chattanooga",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Chengdu, China": [
+    {
+      "code": "TFU",
+      "description": "Chengdu",
+      "timezone": "Asia/Shanghai",
+      "countryCode": "CN",
+      "country": "China"
+    }
+  ],
+  "Chennai, India": [
+    {
+      "code": "MAA",
+      "description": "Chennai",
+      "timezone": "Asia/Kolkata",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Chetumal, Mexico": [
+    {
+      "code": "CTM",
+      "description": "Chetumal",
+      "timezone": "Mexico/General",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Chicago, USA": [
+    {
+      "code": "CHI",
+      "description": "Chicago",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Chiclayo, Peru": [
+    {
+      "code": "CIX",
+      "description": "Chiclayo",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Chihuahua, Mexico": [
+    {
+      "code": "CUU",
+      "description": "Chihuahua",
+      "timezone": "America/Chihuahua",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Chittagong, Bangladesh": [
+    {
+      "code": "CGP",
+      "description": "Chittagong",
+      "timezone": "Asia/Dhaka",
+      "countryCode": "BD",
+      "country": "Bangladesh"
+    }
+  ],
+  "Chongqing, China": [
+    {
+      "code": "CKG",
+      "description": "Chongqing",
+      "timezone": "Asia/Shanghai",
+      "countryCode": "CN",
+      "country": "China"
+    }
+  ],
+  "Christiansted, Puerto Rico": [
+    {
+      "code": "SSB",
+      "description": "Christiansted",
+      "timezone": "America/Puerto_Rico",
+      "countryCode": "PR",
+      "country": "Puerto Rico"
+    },
+    {
+      "code": "STX",
+      "description": "Christiansted",
+      "timezone": "America/Puerto_Rico",
+      "countryCode": "PR",
+      "country": "Puerto Rico"
+    }
+  ],
+  "Cincinnati, USA": [
+    {
+      "code": "CVG",
+      "description": "Cincinnati",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Ciudad Juarez, Mexico": [
+    {
+      "code": "CJS",
+      "description": "Ciudad Juárez",
+      "timezone": "America/Ojinaga",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Ciudad Victoria, Mexico": [
+    {
+      "code": "CVM",
+      "description": "Ciudad Victoria",
+      "timezone": "America/Monterrey",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Ciudad del Este, Paraguay": [
+    {
+      "code": "AGT",
+      "description": "Ciudad del Este",
+      "timezone": "America/Asuncion",
+      "countryCode": "PY",
+      "country": "Paraguay"
+    }
+  ],
+  "Cleveland, USA": [
+    {
+      "code": "CLE",
+      "description": "Cleveland",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Cochabamba, Bolivia": [
+    {
+      "code": "CBB",
+      "description": "Cochabamba",
+      "timezone": "America/Bogota",
+      "countryCode": "BO",
+      "country": "Bolivia"
+    }
+  ],
+  "Colima, Mexico": [
+    {
+      "code": "CLQ",
+      "description": "Colima",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "College Station, USA": [
+    {
+      "code": "CLL",
+      "description": "College Station",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Colombo, Sri Lanka": [
+    {
+      "code": "CMB",
+      "description": "Colombo",
+      "timezone": "Asia/Colombo",
+      "countryCode": "LK",
+      "country": "Sri Lanka"
+    }
+  ],
+  "Colorado Springs, USA": [
+    {
+      "code": "COS",
+      "description": "Colorado Springs",
+      "timezone": "America/Denver",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Columbia Metropolitan Airport, USA": [
+    {
+      "code": "CAE",
+      "description": "Columbia Metropolitan Airport ",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Columbia, USA": [
+    {
+      "code": "COU",
+      "description": "Columbia",
+      "timezone": "America/Chicago",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Columbus, USA": [
+    {
+      "code": "CMH",
+      "description": "Columbus",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Comodoro Rivadavia, Argentina": [
+    {
+      "code": "CRD",
+      "description": "Comodoro Rivadavia",
+      "timezone": "America/Argentina/Catamarca",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Concepcion, Chile": [
+    {
+      "code": "CCP",
+      "description": "Concepción",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Copenhagen, Denmark": [
+    {
+      "code": "CPH",
+      "description": "Copenhagen",
+      "timezone": "Europe/Copenhagen",
+      "countryCode": "DK",
+      "country": "Denmark"
+    }
+  ],
+  "Copiapo, Chile": [
+    {
+      "code": "CPO",
+      "description": "Copiapo",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Cordoba, Argentina": [
+    {
+      "code": "COR",
+      "description": "Córdoba",
+      "timezone": "America/Cordoba",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Cordoba, Spain": [
+    {
+      "code": "ODB",
+      "description": "Córdoba",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Corfu, Greece": [
+    {
+      "code": "CFU",
+      "description": "Corfu",
+      "timezone": "Europe/Athens",
+      "countryCode": "GR",
+      "country": "Greece"
+    }
+  ],
+  "Corpus Christi, USA": [
+    {
+      "code": "CRP",
+      "description": "Corpus Christi",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Corrientes, Argentina": [
+    {
+      "code": "CNQ",
+      "description": "Corrientes",
+      "timezone": "America/Argentina/Cordoba",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Cozumel, Mexico": [
+    {
+      "code": "CZM",
+      "description": "Cozumel",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Cruz, Brazil": [
+    {
+      "code": "JJD",
+      "description": "Cruz",
+      "timezone": "\tAmerica/Fortaleza",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Cucuta, Colombia": [
+    {
+      "code": "CUC",
+      "description": "Cucuta",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Cuenca, Ecuador": [
+    {
+      "code": "CUE",
+      "description": "Cuenca",
+      "timezone": "America/Guayaquil",
+      "countryCode": "EC",
+      "country": "Ecuador"
+    }
+  ],
+  "Cuiaba, Brazil": [
+    {
+      "code": "CGB",
+      "description": "Cuiabá",
+      "timezone": "America/Cuiaba",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Cukurova, Turkey": [
+    {
+      "code": "COV",
+      "description": "Cukurova",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    },
+    {
+      "code": "QIN",
+      "description": "Cukurova",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    }
+  ],
+  "Culiacan, Mexico": [
+    {
+      "code": "CUL",
+      "description": "Culiacán",
+      "timezone": "Mexico/General",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Curacao, Antilles neerlandaises": [
+    {
+      "code": "CUR",
+      "description": "Curaçao",
+      "timezone": "America/Curacao",
+      "countryCode": "AN",
+      "country": "Antilles néerlandaises"
+    }
+  ],
+  "Curitiba, Brazil": [
+    {
+      "code": "CWB",
+      "description": "Curitiba",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Cuzco, Peru": [
+    {
+      "code": "CUZ",
+      "description": "Cuzco",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Da Nang, Vietnam": [
+    {
+      "code": "DAD",
+      "description": "Da Nang",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "countryCode": "VN",
+      "country": "Vietnam"
+    }
+  ],
+  "Dakar Blaise Diagne Intl, Senegal": [
+    {
+      "code": "DSS",
+      "description": "Dakar Blaise Diagne Intl",
+      "timezone": "Africa/Dakar",
+      "countryCode": "SN",
+      "country": "Senegal"
+    }
+  ],
+  "Dakar, Senegal": [
+    {
+      "code": "DKR",
+      "description": "Dakar",
+      "timezone": "Africa/Dakar",
+      "countryCode": "SN",
+      "country": "Senegal"
+    }
+  ],
+  "Dakhla, Maroc": [
+    {
+      "code": "VIL",
+      "description": "Dakhla",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Dalaman, Turkey": [
+    {
+      "code": "DLM",
+      "description": "Dalaman",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    }
+  ],
+  "Dallas, USA": [
+    {
+      "code": "DFW",
+      "description": "Dallas",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Dammam, Arabie saoudite": [
+    {
+      "code": "DMM",
+      "description": "Dammam",
+      "timezone": "Asia/Riyadh",
+      "countryCode": "SA",
+      "country": "Arabie saoudite"
+    }
+  ],
+  "Dar Es Salaam, Tanzania": [
+    {
+      "code": "DAR",
+      "description": "Dar Es Salaam",
+      "timezone": "Africa/Nairobi",
+      "countryCode": "TZ",
+      "country": "Tanzania"
+    }
+  ],
+  "Davao, Philippines": [
+    {
+      "code": "DVO",
+      "description": "Davao",
+      "timezone": "Asia/Manila",
+      "countryCode": "PH",
+      "country": "Philippines"
+    }
+  ],
+  "Dayton, USA": [
+    {
+      "code": "DAY",
+      "description": "Dayton",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Daytona beach, USA": [
+    {
+      "code": "DAB",
+      "description": "Daytona beach",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Del Rio, USA": [
+    {
+      "code": "DRT",
+      "description": "Del Rio",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Delhi, India": [
+    {
+      "code": "DEL",
+      "description": "Delhi",
+      "timezone": "Asia/Calcutta",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Denver, USA": [
+    {
+      "code": "DEN",
+      "description": "Denver",
+      "timezone": "America/Denver",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Des Moines, USA": [
+    {
+      "code": "DSM",
+      "description": "Des Moines",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Detroit, USA": [
+    {
+      "code": "DTT",
+      "description": "Detroit",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Dhaka, Bangladesh": [
+    {
+      "code": "DAC",
+      "description": "Dhaka",
+      "timezone": "Asia/Dhaka",
+      "countryCode": "BD",
+      "country": "Bangladesh"
+    }
+  ],
+  "Djibouti, Djibouti": [
+    {
+      "code": "JIB",
+      "description": "Djibouti",
+      "timezone": "Africa/Nairobi",
+      "countryCode": "DJ",
+      "country": "Djibouti"
+    }
+  ],
+  "Doha, Qatar": [
+    {
+      "code": "DOH",
+      "description": "Doha",
+      "timezone": "Asia/Qatar",
+      "countryCode": "QA",
+      "country": "Qatar"
+    }
+  ],
+  "Dubai, Emirados Arabes Unidos": [
+    {
+      "code": "DXB",
+      "description": "Dubai",
+      "timezone": "Asia/Dubai",
+      "countryCode": "AE",
+      "country": "Emirados Árabes Unidos"
+    }
+  ],
+  "Dublin, Ireland": [
+    {
+      "code": "DUB",
+      "description": "Dublin",
+      "timezone": "Europe/London",
+      "countryCode": "IE",
+      "country": "Ireland"
+    }
+  ],
+  "Dubrovnik, Croatia": [
+    {
+      "code": "DBV",
+      "description": "Dubrovnik",
+      "timezone": "Europe/Ljubljana",
+      "countryCode": "HR",
+      "country": "Croatia"
+    }
+  ],
+  "Dubuque, USA": [
+    {
+      "code": "DBQ",
+      "description": "Dubuque",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Durango, Mexico": [
+    {
+      "code": "DGO",
+      "description": "Durango",
+      "timezone": "America/Monterrey",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Durango, USA": [
+    {
+      "code": "DRO",
+      "description": "Durango",
+      "timezone": "America/Denver",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Durban, South Africa": [
+    {
+      "code": "DUR",
+      "description": "Durban",
+      "timezone": "Africa/Johannesburg",
+      "countryCode": "ZA",
+      "country": "South Africa"
+    }
+  ],
+  "Dusseldorf, Germany": [
+    {
+      "code": "DUS",
+      "description": "Düsseldorf",
+      "timezone": "Europe/Berlin",
+      "countryCode": "DE",
+      "country": "Germany"
+    }
+  ],
+  "Easter Island, Chile": [
+    {
+      "code": "IPC",
+      "description": "Easter Island",
+      "timezone": "Chile/EasterIsland",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Edinburgh, United Kingdom": [
+    {
+      "code": "EDI",
+      "description": "Edinburgh",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "El Calafate, Argentina": [
+    {
+      "code": "FTE",
+      "description": "El Calafate",
+      "timezone": "America/Argentina/Rio_Gallegos",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "El Coca, Ecuador": [
+    {
+      "code": "OCC",
+      "description": "El Coca",
+      "timezone": "America/Guayaquil",
+      "countryCode": "EC",
+      "country": "Ecuador"
+    }
+  ],
+  "El Paso, USA": [
+    {
+      "code": "ELP",
+      "description": "El Paso",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Entebbe, Uganda": [
+    {
+      "code": "EBB",
+      "description": "Entebbe",
+      "timezone": "Africa/Luanda",
+      "countryCode": "UG",
+      "country": "Uganda"
+    }
+  ],
+  "Erbil, Iraq": [
+    {
+      "code": "EBL",
+      "description": "Erbil",
+      "timezone": "Asia/Iraq",
+      "countryCode": "IQ",
+      "country": "Iraq"
+    }
+  ],
+  "Erie, USA": [
+    {
+      "code": "ERI",
+      "description": "Erie",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Errachidia, Maroc": [
+    {
+      "code": "ERH",
+      "description": "Errachidia",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Esquel, Argentina": [
+    {
+      "code": "EQS",
+      "description": "Esquel",
+      "timezone": "America/Argentina/Catamarca",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Eugene, USA": [
+    {
+      "code": "EUG",
+      "description": "Eugene",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Evansville, USA": [
+    {
+      "code": "EVV",
+      "description": "Evansville",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Fairbanks, USA": [
+    {
+      "code": "FAI",
+      "description": "Fairbanks",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Faisalabad, Pakistan": [
+    {
+      "code": "LYP",
+      "description": "Faisalabad",
+      "timezone": "Asia/Karachi",
+      "countryCode": "PK",
+      "country": "Pakistan"
+    }
+  ],
+  "Fargo, USA": [
+    {
+      "code": "FAR",
+      "description": "Fargo",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Faro, Portugal": [
+    {
+      "code": "FAO",
+      "description": "Faro",
+      "timezone": "Europe/Lisbon",
+      "countryCode": "PT",
+      "country": "Portugal"
+    }
+  ],
+  "Fayetteville, USA": [
+    {
+      "code": "FAY",
+      "description": "Fayetteville",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    },
+    {
+      "code": "FYV",
+      "description": "Fayetteville",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Fernando de Noronha, Brazil": [
+    {
+      "code": "FEN",
+      "description": "Fernando de Noronha",
+      "timezone": "\tAmerica/Noronha",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Fez, Maroc": [
+    {
+      "code": "FEZ",
+      "description": "Fez",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Flagstaff Grand Canyon, USA": [
+    {
+      "code": "GCN",
+      "description": "Flagstaff Grand Canyon",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Flint, USA": [
+    {
+      "code": "FNT",
+      "description": "Flint ",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Florence, Italy": [
+    {
+      "code": "FLR",
+      "description": "Florence",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Flores, Guatemala": [
+    {
+      "code": "FRS",
+      "description": "Flores",
+      "timezone": "America/Guatemala",
+      "countryCode": "GT",
+      "country": "Guatemala"
+    }
+  ],
+  "Florianopolis, Brazil": [
+    {
+      "code": "FLN",
+      "description": "Florianópolis",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Fort Lauderdale, USA": [
+    {
+      "code": "FLL",
+      "description": "Fort Lauderdale",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Fort Myers, USA": [
+    {
+      "code": "FMY",
+      "description": "Fort Myers",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Fort Smith, USA": [
+    {
+      "code": "FSM",
+      "description": "Fort Smith",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Fort Walton Beach, USA": [
+    {
+      "code": "VPS",
+      "description": "Fort Walton Beach",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Fort Wayne, USA": [
+    {
+      "code": "FWA",
+      "description": "Fort Wayne",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Fort-de-France, Martinica": [
+    {
+      "code": "FDF",
+      "description": "Fort-de-France",
+      "timezone": "America/Puerto_Rico",
+      "countryCode": "MQ",
+      "country": "Martinica"
+    }
+  ],
+  "Fortaleza, Brazil": [
+    {
+      "code": "FOR",
+      "description": "Fortaleza",
+      "timezone": "America/Fortaleza",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Foz do Iguacu, Brazil": [
+    {
+      "code": "IGU",
+      "description": "Foz do Iguaçu",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Frankfurt, Germany": [
+    {
+      "code": "FRA",
+      "description": "Frankfurt",
+      "timezone": "Europe/Berlin",
+      "countryCode": "DE",
+      "country": "Germany"
+    }
+  ],
+  "Freeport, Bahamas": [
+    {
+      "code": "FPO",
+      "description": "Freeport",
+      "timezone": "America/Nassau",
+      "countryCode": "BS",
+      "country": "Bahamas"
+    }
+  ],
+  "Fresno, USA": [
+    {
+      "code": "FAT",
+      "description": "Fresno",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Fuerteventura, Spain": [
+    {
+      "code": "FUE",
+      "description": "Fuerteventura",
+      "timezone": "Atlantic/Canary",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Fukuoka, Japan": [
+    {
+      "code": "FUK",
+      "description": "Fukuoka",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Funchal, Portugal": [
+    {
+      "code": "FNC",
+      "description": "Funchal",
+      "timezone": "Europe/Lisbon",
+      "countryCode": "PT",
+      "country": "Portugal"
+    }
+  ],
+  "Førde, Norway": [
+    {
+      "code": "FDE",
+      "description": "Førde",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Gainesville, USA": [
+    {
+      "code": "GNV",
+      "description": "Gainesville",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Garden City, USA": [
+    {
+      "code": "GCK",
+      "description": "Garden City",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Gassim, Arabie saoudite": [
+    {
+      "code": "ELQ",
+      "description": "Gassim",
+      "timezone": "Asia/Riyadh",
+      "countryCode": "SA",
+      "country": "Arabie saoudite"
+    }
+  ],
+  "Geneva, Switzerland": [
+    {
+      "code": "GVA",
+      "description": "Geneva",
+      "timezone": "Europe/Zurich",
+      "countryCode": "CH",
+      "country": "Switzerland"
+    }
+  ],
+  "Genoa, Italy": [
+    {
+      "code": "GOA",
+      "description": "Genoa",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Girona, Spain": [
+    {
+      "code": "GRO",
+      "description": "Girona",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Glasgow, United Kingdom": [
+    {
+      "code": "GLA",
+      "description": "Glasgow",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "Goa, India": [
+    {
+      "code": "GOI",
+      "description": "Goa",
+      "timezone": "Asia/Calcutta",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Goiania, Brazil": [
+    {
+      "code": "GYN",
+      "description": "Goiania",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Gothenburg, Sweden": [
+    {
+      "code": "GOT",
+      "description": "Gothenburg",
+      "timezone": "Europe/Stockholm",
+      "countryCode": "SE",
+      "country": "Sweden"
+    }
+  ],
+  "Gran Canaria, Spain": [
+    {
+      "code": "LPA",
+      "description": "Gran Canaria",
+      "timezone": "Atlantic/Canary",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Granada-Jaen, Spain": [
+    {
+      "code": "GRX",
+      "description": "Granada-Jaén",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Grand Cayman, Kaaimaneilanden": [
+    {
+      "code": "GCM",
+      "description": "Grand Cayman",
+      "timezone": "America/Cayman",
+      "countryCode": "KY",
+      "country": "Kaaimaneilanden"
+    }
+  ],
+  "Grand Island, USA": [
+    {
+      "code": "GRI",
+      "description": "Grand Island",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Grand Junction, USA": [
+    {
+      "code": "GJT",
+      "description": "Grand Junction",
+      "timezone": "America/Denver",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Grand Rapids, USA": [
+    {
+      "code": "GRR",
+      "description": "Grand Rapids",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Green Bay, USA": [
+    {
+      "code": "GRB",
+      "description": "Green Bay",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Greensboro, USA": [
+    {
+      "code": "GSO",
+      "description": "Greensboro",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Greenville, USA": [
+    {
+      "code": "GSP",
+      "description": "Greenville",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    },
+    {
+      "code": "PGV",
+      "description": "Greenville",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Grenada, Grenada": [
+    {
+      "code": "GND",
+      "description": "Grenada",
+      "timezone": "America/Grenada",
+      "countryCode": "GD",
+      "country": "Grenada"
+    }
+  ],
+  "Guadalajara, Mexico": [
+    {
+      "code": "GDL",
+      "description": "Guadalajara",
+      "timezone": "Mexico/General",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Guangzhou, China": [
+    {
+      "code": "CAN",
+      "description": "Guangzhou",
+      "timezone": "Asia/Shanghai",
+      "countryCode": "CN",
+      "country": "China"
+    }
+  ],
+  "Guatemala, Guatemala": [
+    {
+      "code": "GUA",
+      "description": "Guatemala",
+      "timezone": "America/Guatemala",
+      "countryCode": "GT",
+      "country": "Guatemala"
+    }
+  ],
+  "Guayaquil, Ecuador": [
+    {
+      "code": "GYE",
+      "description": "Guayaquil",
+      "timezone": "America/Guayaquil",
+      "countryCode": "EC",
+      "country": "Ecuador"
+    }
+  ],
+  "Gulfport-Biloxi, USA": [
+    {
+      "code": "GPT",
+      "description": "Gulfport-Biloxi",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Gunnison, USA": [
+    {
+      "code": "GUC",
+      "description": "Gunnison",
+      "timezone": "America/Denver",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Hailey/Sun Valley, USA": [
+    {
+      "code": "SUN",
+      "description": "Hailey/Sun Valley",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Hakodate, Japan": [
+    {
+      "code": "HKD",
+      "description": "Hakodate",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Halifax, USA": [
+    {
+      "code": "YHZ",
+      "description": "Halifax",
+      "timezone": "America/Halifax",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Hamburg, Germany": [
+    {
+      "code": "HAM",
+      "description": "Hamburg",
+      "timezone": "Europe/Madrid",
+      "countryCode": "DE",
+      "country": "Germany"
+    }
+  ],
+  "Hanak, Arabie saoudite": [
+    {
+      "code": "RSI",
+      "description": "Hanak",
+      "timezone": "Asia/Riyadh",
+      "countryCode": "SA",
+      "country": "Arabie saoudite"
+    }
+  ],
+  "Hangzhou, China": [
+    {
+      "code": "HGH",
+      "description": "Hangzhou",
+      "timezone": "Asia/Shanghai",
+      "countryCode": "CN",
+      "country": "China"
+    }
+  ],
+  "Hanoi, Vietnam": [
+    {
+      "code": "HAN",
+      "description": "Hanoi",
+      "timezone": "Asia/Bangkok",
+      "countryCode": "VN",
+      "country": "Vietnam"
+    }
+  ],
+  "Hanover, Germany": [
+    {
+      "code": "HAJ",
+      "description": "Hanover",
+      "timezone": "Europe/Berlin",
+      "countryCode": "DE",
+      "country": "Germany"
+    }
+  ],
+  "Harare, Zimbabwe": [
+    {
+      "code": "HRE",
+      "description": "Harare",
+      "timezone": "Africa/Harare",
+      "countryCode": "ZW",
+      "country": "Zimbabwe"
+    }
+  ],
+  "Harlingen, USA": [
+    {
+      "code": "HRL",
+      "description": "Harlingen",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Harrisburg, USA": [
+    {
+      "code": "HAR",
+      "description": "Harrisburg",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    },
+    {
+      "code": "MDT",
+      "description": "Harrisburg",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Hartford, USA": [
+    {
+      "code": "HFD",
+      "description": "Hartford",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Haugesund-Karmøy, Norway": [
+    {
+      "code": "HAU",
+      "description": "Haugesund-Karmøy",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Havana, Cuba": [
+    {
+      "code": "HAV",
+      "description": "Havana",
+      "timezone": "America/Havana",
+      "countryCode": "CU",
+      "country": "Cuba"
+    }
+  ],
+  "Hayden, USA": [
+    {
+      "code": "HDN",
+      "description": "Hayden",
+      "timezone": "America/Denver",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Helsinki, Finland": [
+    {
+      "code": "HEL",
+      "description": "Helsinki",
+      "timezone": "Europe/Helsinki",
+      "countryCode": "FI",
+      "country": "Finland"
+    }
+  ],
+  "Heraklion, Greece": [
+    {
+      "code": "HER",
+      "description": "Heraklion",
+      "timezone": "Europe/Athens",
+      "countryCode": "GR",
+      "country": "Greece"
+    }
+  ],
+  "Hermosillo, Mexico": [
+    {
+      "code": "HMO",
+      "description": "Hermosillo",
+      "timezone": "America/Hermosillo",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Hilton Head Island, USA": [
+    {
+      "code": "HHH",
+      "description": "Hilton Head Island",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Hiroshima, Japan": [
+    {
+      "code": "HIJ",
+      "description": "Hiroshima",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Ho Chi Minh City, Vietnam": [
+    {
+      "code": "SGN",
+      "description": "Ho Chi Minh City",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "countryCode": "VN",
+      "country": "Vietnam"
+    }
+  ],
+  "Hong Kong, China": [
+    {
+      "code": "HKG",
+      "description": "Hong Kong",
+      "timezone": "Asia/Hong_Kong",
+      "countryCode": "CN",
+      "country": "China"
+    }
+  ],
+  "Honolulu, USA": [
+    {
+      "code": "HNL",
+      "description": "Honolulu",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Houston, USA": [
+    {
+      "code": "HOU",
+      "description": "Houston",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Huatulco, Mexico": [
+    {
+      "code": "HUX",
+      "description": "Huatulco",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Huejotzingo, Mexico": [
+    {
+      "code": "PBC",
+      "description": "Huejotzingo",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Huntington, USA": [
+    {
+      "code": "HTS",
+      "description": "Huntington",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Huntsville, USA": [
+    {
+      "code": "HSV",
+      "description": "Huntsville",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Hyannis, USA": [
+    {
+      "code": "HAY",
+      "description": "Hyannis",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Hyderabad, India": [
+    {
+      "code": "HYD",
+      "description": "Hyderabad",
+      "timezone": "Asia/Kolkata",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Ibiza, Spain": [
+    {
+      "code": "IBZ",
+      "description": "Ibiza",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Idaho Falls, USA": [
+    {
+      "code": "IDA",
+      "description": "Idaho Falls",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Ilheus, Brazil": [
+    {
+      "code": "IOS",
+      "description": "Ilheus",
+      "timezone": "\tAmerica/Bahia",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Ilo, Peru": [
+    {
+      "code": "ILQ",
+      "description": "Ilo",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Indianapolis, USA": [
+    {
+      "code": "IND",
+      "description": "Indianapolis",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Innsbruck, Austria": [
+    {
+      "code": "INN",
+      "description": "Innsbruck",
+      "timezone": "Europe/Vienna",
+      "countryCode": "AT",
+      "country": "Austria"
+    }
+  ],
+  "Inverness, United Kingdom": [
+    {
+      "code": "INV",
+      "description": "Inverness",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "Iquique, Chile": [
+    {
+      "code": "IQQ",
+      "description": "Iquique",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Iquitos, Peru": [
+    {
+      "code": "IQT",
+      "description": "Iquitos",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Isfahan, Iran": [
+    {
+      "code": "IFN",
+      "description": "Isfahan",
+      "timezone": "Asia/Iran",
+      "countryCode": "IR",
+      "country": "Iran"
+    }
+  ],
+  "Islamabad, Pakistan": [
+    {
+      "code": "ISB",
+      "description": "Islamabad",
+      "timezone": "Asia/Karachi",
+      "countryCode": "PK",
+      "country": "Pakistan"
+    }
+  ],
+  "Islip Long Island MacArthur, USA": [
+    {
+      "code": "ISP",
+      "description": "Islip Long Island MacArthur",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Istanbul Sabiha Gokcen, Turkey": [
+    {
+      "code": "SAW",
+      "description": "Istanbul Sabiha Gokcen",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    }
+  ],
+  "Istanbul, Turkey": [
+    {
+      "code": "IST",
+      "description": "Istanbul",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    }
+  ],
+  "Ivalo, Finland": [
+    {
+      "code": "IVL",
+      "description": "Ivalo",
+      "timezone": "Europe/Berlin",
+      "countryCode": "FI",
+      "country": "Finland"
+    }
+  ],
+  "Ixtepec, Mexico": [
+    {
+      "code": "IZT",
+      "description": "Ixtepec",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Izmir, Turkey": [
+    {
+      "code": "ADB",
+      "description": "Izmir",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    },
+    {
+      "code": "IZM",
+      "description": "Izmir",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    }
+  ],
+  "Izumo, Japan": [
+    {
+      "code": "IZO",
+      "description": "Izumo",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Jackson, USA": [
+    {
+      "code": "JAC",
+      "description": "Jackson",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    },
+    {
+      "code": "JAN",
+      "description": "Jackson",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Jacksonville, USA": [
+    {
+      "code": "JAX",
+      "description": "Jacksonville",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    },
+    {
+      "code": "OAJ",
+      "description": "Jacksonville",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Jaen, Peru": [
+    {
+      "code": "JAE",
+      "description": "Jaén",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Jakarta, Indonesia": [
+    {
+      "code": "JKT",
+      "description": "Jakarta",
+      "timezone": "Asia/Jakarta",
+      "countryCode": "ID",
+      "country": "Indonesia"
+    }
+  ],
+  "Jauja, Peru": [
+    {
+      "code": "JAU",
+      "description": "Jauja",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Jeddah, Arabie saoudite": [
+    {
+      "code": "JED",
+      "description": "Jeddah",
+      "timezone": "Asia/Riyadh",
+      "countryCode": "SA",
+      "country": "Arabie saoudite"
+    }
+  ],
+  "Jerez de la Frontera, Spain": [
+    {
+      "code": "XRY",
+      "description": "Jerez de la Frontera",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Jersey, United Kingdom": [
+    {
+      "code": "JER",
+      "description": "Jersey",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "Johannesburg, South Africa": [
+    {
+      "code": "JNB",
+      "description": "Johannesburg",
+      "timezone": "Africa/Johannesburg",
+      "countryCode": "ZA",
+      "country": "South Africa"
+    }
+  ],
+  "Joinville, Brazil": [
+    {
+      "code": "JOI",
+      "description": "Joinville",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Juliaca, Peru": [
+    {
+      "code": "JUL",
+      "description": "Juliaca",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Kagoshima, Japan": [
+    {
+      "code": "KOJ",
+      "description": "Kagoshima",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Kahului, USA": [
+    {
+      "code": "OGG",
+      "description": "Kahului",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Kalamazoo, USA": [
+    {
+      "code": "AZO",
+      "description": "Kalamazoo",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Kalispell, USA": [
+    {
+      "code": "FCA",
+      "description": "Kalispell",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Kansas City, USA": [
+    {
+      "code": "MCI",
+      "description": "Kansas City",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Karachi, Pakistan": [
+    {
+      "code": "KHI",
+      "description": "Karachi",
+      "timezone": "Asia/Karachi",
+      "countryCode": "PK",
+      "country": "Pakistan"
+    }
+  ],
+  "Kathmandu, Nepal": [
+    {
+      "code": "KTM",
+      "description": "Kathmandu",
+      "timezone": "Asia/Kathmandu",
+      "countryCode": "NP",
+      "country": "Nepal"
+    }
+  ],
+  "Kayseri, Turkey": [
+    {
+      "code": "ASR",
+      "description": "Kayseri",
+      "timezone": "Europe/Istanbul",
+      "countryCode": "TR",
+      "country": "Turkey"
+    }
+  ],
+  "Kefalonia, Greece": [
+    {
+      "code": "EFL",
+      "description": "Kefalonia",
+      "timezone": "Europe/Athens",
+      "countryCode": "GR",
+      "country": "Greece"
+    }
+  ],
+  "Key West, USA": [
+    {
+      "code": "EYW",
+      "description": "Key West",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Khartoum, Sudan": [
+    {
+      "code": "KRT",
+      "description": "Khartoum",
+      "timezone": "Africa/Sudan",
+      "countryCode": "SD",
+      "country": "Sudan"
+    }
+  ],
+  "Kigali, Rwanda": [
+    {
+      "code": "KGL",
+      "description": "Kigali",
+      "timezone": "Africa/Ruanda",
+      "countryCode": "RW",
+      "country": "Rwanda"
+    }
+  ],
+  "Kilimanjaro, Tanzania": [
+    {
+      "code": "JRO",
+      "description": "Kilimanjaro",
+      "timezone": "Africa/Nairobi",
+      "countryCode": "TZ",
+      "country": "Tanzania"
+    }
+  ],
+  "Killeen fort Hood, USA": [
+    {
+      "code": "ILE",
+      "description": "Killeen fort Hood",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Kingston, Jamaica": [
+    {
+      "code": "KIN",
+      "description": "Kingston",
+      "timezone": "America/Jamaica",
+      "countryCode": "JM",
+      "country": "Jamaica"
+    }
+  ],
+  "Kinshasa, Congo (DRC)": [
+    {
+      "code": "FIH",
+      "description": "Kinshasa",
+      "timezone": "Africa/Kinshasa",
+      "countryCode": "CD",
+      "country": "Congo (DRC)"
+    }
+  ],
+  "Kitakyushu, Japan": [
+    {
+      "code": "KKJ",
+      "description": "Kitakyushu",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Kittila, Finland": [
+    {
+      "code": "KTT",
+      "description": "Kittilä",
+      "timezone": "Europe/Berlin",
+      "countryCode": "FI",
+      "country": "Finland"
+    }
+  ],
+  "Knoxville, USA": [
+    {
+      "code": "TYS",
+      "description": "Knoxville",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Kochi, India": [
+    {
+      "code": "COK",
+      "description": "Kochi",
+      "timezone": "Asia/Calcutta",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Kochi, Japan": [
+    {
+      "code": "KCZ",
+      "description": "Kochi",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Kolkata, India": [
+    {
+      "code": "CCU",
+      "description": "Kolkata",
+      "timezone": "Asia/Calcutta",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Komatsu, Japan": [
+    {
+      "code": "KMQ",
+      "description": "Komatsu",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Kona, USA": [
+    {
+      "code": "KOA",
+      "description": "Kona",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Kos, Greece": [
+    {
+      "code": "KGS",
+      "description": "Kos",
+      "timezone": "Europe/Athens",
+      "countryCode": "GR",
+      "country": "Greece"
+    }
+  ],
+  "Kozhikode, India": [
+    {
+      "code": "CCJ",
+      "description": "Kozhikode",
+      "timezone": "Asia/Calcutta",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Krabi, Thailand": [
+    {
+      "code": "KBV",
+      "description": "Krabi",
+      "timezone": "Asia/Bangkok",
+      "countryCode": "TH",
+      "country": "Thailand"
+    }
+  ],
+  "Krakow, Poland": [
+    {
+      "code": "KRK",
+      "description": "Krakow",
+      "timezone": "Europe/Warsaw",
+      "countryCode": "PL",
+      "country": "Poland"
+    }
+  ],
+  "Kristiansand-Kjevik, Norway": [
+    {
+      "code": "KRS",
+      "description": "Kristiansand-Kjevik",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Kristiansund-Kvernberget, Norway": [
+    {
+      "code": "KSU",
+      "description": "Kristiansund-Kvernberget",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Kuala Lumpur, Malaysia": [
+    {
+      "code": "KUL",
+      "description": "Kuala Lumpur",
+      "timezone": "Asia/Kuala_Lumpur",
+      "countryCode": "MY",
+      "country": "Malaysia"
+    }
+  ],
+  "Kumamoto, Japan": [
+    {
+      "code": "KMJ",
+      "description": "Kumamoto",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Kuopio, Finland": [
+    {
+      "code": "KUO",
+      "description": "Kuopio",
+      "timezone": "Europe/Berlin",
+      "countryCode": "FI",
+      "country": "Finland"
+    }
+  ],
+  "Kushiro, Japan": [
+    {
+      "code": "KUH",
+      "description": "Kushiro",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Kuwait, Kuwait": [
+    {
+      "code": "KWI",
+      "description": "Kuwait",
+      "timezone": "Asia/Kuwait",
+      "countryCode": "KW",
+      "country": "Kuwait"
+    }
+  ],
+  "La Crosse Wi, USA": [
+    {
+      "code": "LSE",
+      "description": "La Crosse Wi",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "La Paz, Bolivia": [
+    {
+      "code": "LPB",
+      "description": "La Paz",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BO",
+      "country": "Bolivia"
+    }
+  ],
+  "La Paz, Mexico": [
+    {
+      "code": "LAP",
+      "description": "La Paz",
+      "timezone": "America/Mazatlan",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "La Serena, Chile": [
+    {
+      "code": "LSC",
+      "description": "La Serena",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Laayoune, Maroc": [
+    {
+      "code": "EUN",
+      "description": "Laayoune",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Lafayette, USA": [
+    {
+      "code": "LFT",
+      "description": "Lafayette",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Lagos, Nigeria": [
+    {
+      "code": "LOS",
+      "description": "Lagos",
+      "timezone": "Africa/Lagos",
+      "countryCode": "NG",
+      "country": "Nigeria"
+    }
+  ],
+  "Lahore, Pakistan": [
+    {
+      "code": "LHE",
+      "description": "Lahore",
+      "timezone": "Asia/Karachi",
+      "countryCode": "PK",
+      "country": "Pakistan"
+    }
+  ],
+  "Lake Charles, USA": [
+    {
+      "code": "LCH",
+      "description": "Lake Charles",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Lansing, USA": [
+    {
+      "code": "LAN",
+      "description": "Lansing",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Lanzarote, Spain": [
+    {
+      "code": "ACE",
+      "description": "Lanzarote",
+      "timezone": "Atlantic/Canary",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Laredo, USA": [
+    {
+      "code": "LRD",
+      "description": "Laredo",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Las Vegas, USA": [
+    {
+      "code": "LAS",
+      "description": "Las Vegas",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Lawton Fort Sill, USA": [
+    {
+      "code": "LAW",
+      "description": "Lawton Fort Sill",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Leon, Guanajuato, Mexico": [
+    {
+      "code": "BJX",
+      "description": "León, Guanajuato",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Leon, Spain": [
+    {
+      "code": "LEN",
+      "description": "León",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Leticia, Colombia": [
+    {
+      "code": "LET",
+      "description": "Leticia",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Lexington, USA": [
+    {
+      "code": "LEX",
+      "description": "Lexington",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Liberia, Costa Rica": [
+    {
+      "code": "LIR",
+      "description": "Liberia",
+      "timezone": "America/Costa_Rica",
+      "countryCode": "CR",
+      "country": "Costa Rica"
+    }
+  ],
+  "Lihue, USA": [
+    {
+      "code": "LIH",
+      "description": "Lihue",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Lima, Peru": [
+    {
+      "code": "LIM",
+      "description": "Lima",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Lincoln, USA": [
+    {
+      "code": "LNK",
+      "description": "Lincoln",
+      "timezone": "America/Chicago",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Lisbon, Portugal": [
+    {
+      "code": "LIS",
+      "description": "Lisbon",
+      "timezone": "Europe/Lisbon",
+      "countryCode": "PT",
+      "country": "Portugal"
+    }
+  ],
+  "Little Rock, USA": [
+    {
+      "code": "LIT",
+      "description": "Little Rock",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Ljubljana, Slovenia": [
+    {
+      "code": "LJU",
+      "description": "Ljubljana",
+      "timezone": "Europe/Ljubljana",
+      "countryCode": "SI",
+      "country": "Slovenia"
+    }
+  ],
+  "Lleida, Spain": [
+    {
+      "code": "ILD",
+      "description": "Lleida",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Logrono, Spain": [
+    {
+      "code": "RJL",
+      "description": "Logroño",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Lome, Togo": [
+    {
+      "code": "LFW",
+      "description": "Lomé",
+      "timezone": "Africa/Lome",
+      "countryCode": "TG",
+      "country": "Togo"
+    }
+  ],
+  "London, United Kingdom": [
+    {
+      "code": "LHR",
+      "description": "London Heathrow",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "LGW",
+      "description": "London Gatwick",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "LCY",
+      "description": "London City Airport",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "Londrina, Brazil": [
+    {
+      "code": "LDB",
+      "description": "Londrina",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Long Beach, USA": [
+    {
+      "code": "LGB",
+      "description": "Long Beach",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Longview, USA": [
+    {
+      "code": "GGG",
+      "description": "Longview",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Lorca, Spain": [
+    {
+      "code": "XJR",
+      "description": "Lorca",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Loreto, Mexico": [
+    {
+      "code": "LTO",
+      "description": "Loreto",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Los Angeles, USA": [
+    {
+      "code": "LAX",
+      "description": "Los Angeles",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Los Mochis, Mexico": [
+    {
+      "code": "LMM",
+      "description": "Los Mochis",
+      "timezone": "America/Mazatlan",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Louisville, USA": [
+    {
+      "code": "SDF",
+      "description": "Louisville",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Luanda, Angola": [
+    {
+      "code": "LAD",
+      "description": "Luanda",
+      "timezone": "Africa/Luanda",
+      "countryCode": "AO",
+      "country": "Angola"
+    },
+    {
+      "code": "NBJ",
+      "description": "Luanda",
+      "timezone": "Africa/Luanda ",
+      "countryCode": "AO",
+      "country": "Angola"
+    }
+  ],
+  "Lubbock, USA": [
+    {
+      "code": "LBB",
+      "description": "Lubbock",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Lugo, Spain": [
+    {
+      "code": "LUY",
+      "description": "Lugo",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Lusaka, Zambia": [
+    {
+      "code": "LUN",
+      "description": "Lusaka",
+      "timezone": "Africa/Harare",
+      "countryCode": "ZM",
+      "country": "Zambia"
+    }
+  ],
+  "Luxembourg, Luxemburg": [
+    {
+      "code": "LUX",
+      "description": "Luxembourg",
+      "timezone": "Europe/Luxembourg",
+      "countryCode": "LU",
+      "country": "Luxemburg"
+    }
+  ],
+  "Lynchburg, USA": [
+    {
+      "code": "LYH",
+      "description": "Lynchburg",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Lyon, France": [
+    {
+      "code": "LYS",
+      "description": "Lyon",
+      "timezone": "Europe/Paris",
+      "countryCode": "FR",
+      "country": "France"
+    }
+  ],
+  "Madinah, Arabie saoudite": [
+    {
+      "code": "MED",
+      "description": "Madinah",
+      "timezone": "Asia/Riyadh",
+      "countryCode": "SA",
+      "country": "Arabie saoudite"
+    }
+  ],
+  "Madison, USA": [
+    {
+      "code": "MSN",
+      "description": "Madison",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Madrid, Spain": [
+    {
+      "code": "MAD",
+      "description": "Madrid",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Mahe Island, Seychelles": [
+    {
+      "code": "SEZ",
+      "description": "Mahé Island",
+      "timezone": "Africa/Luanda",
+      "countryCode": "SC",
+      "country": "Seychelles"
+    }
+  ],
+  "Malaga, Spain": [
+    {
+      "code": "AGP",
+      "description": "Málaga",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Male, Falklandeilanden": [
+    {
+      "code": "MLE",
+      "description": "Male",
+      "timezone": "Indian/Maldives",
+      "countryCode": "MV",
+      "country": "Falklandeilanden"
+    }
+  ],
+  "Malta, Malta": [
+    {
+      "code": "MLA",
+      "description": "Malta",
+      "timezone": "Europe/Malta",
+      "countryCode": "MT",
+      "country": "Malta"
+    }
+  ],
+  "Managua, Nicaragua": [
+    {
+      "code": "MGA",
+      "description": "Managua",
+      "timezone": "America/Managua",
+      "countryCode": "NI",
+      "country": "Nicaragua"
+    }
+  ],
+  "Manaus, Brazil": [
+    {
+      "code": "MAO",
+      "description": "Manaus",
+      "timezone": "America/Manaus",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Manchester, United Kingdom": [
+    {
+      "code": "MAN",
+      "description": "Manchester",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "Manhattan Kansas, USA": [
+    {
+      "code": "MHK",
+      "description": "Manhattan Kansas",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Manila, Philippines": [
+    {
+      "code": "MNL",
+      "description": "Manila",
+      "timezone": "Asia/Manila",
+      "countryCode": "PH",
+      "country": "Philippines"
+    }
+  ],
+  "Manta, Ecuador": [
+    {
+      "code": "MEC",
+      "description": "Manta",
+      "timezone": "America/Guayaquil",
+      "countryCode": "EC",
+      "country": "Ecuador"
+    }
+  ],
+  "Manzanillo, Mexico": [
+    {
+      "code": "ZLO",
+      "description": "Manzanillo",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Maputo, Mozambique": [
+    {
+      "code": "MPM",
+      "description": "Maputo",
+      "timezone": "Africa/Harare",
+      "countryCode": "MZ",
+      "country": "Mozambique"
+    }
+  ],
+  "Mar del Plata, Argentina": [
+    {
+      "code": "MDQ",
+      "description": "Mar del Plata",
+      "timezone": "America/Argentina/Buenos_Aires",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Marquette, USA": [
+    {
+      "code": "MQT",
+      "description": "Marquette",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Marrakesh, Maroc": [
+    {
+      "code": "RAK",
+      "description": "Marrakesh",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Marseille, France": [
+    {
+      "code": "MRS",
+      "description": "Marseille",
+      "timezone": "Europe/Paris",
+      "countryCode": "FR",
+      "country": "France"
+    }
+  ],
+  "Martha's Vineyard, USA": [
+    {
+      "code": "MVY",
+      "description": "Martha's Vineyard",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Mashhad, Iran": [
+    {
+      "code": "MHD",
+      "description": "Mashhad",
+      "timezone": "Asia/Iran",
+      "countryCode": "IR",
+      "country": "Iran"
+    }
+  ],
+  "Matsuyama, Japan": [
+    {
+      "code": "MYJ",
+      "description": "Matsuyama",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Mauritius, Maurice": [
+    {
+      "code": "MRU",
+      "description": "Mauritius",
+      "timezone": "Africa/Johannesburg",
+      "countryCode": "MU",
+      "country": "Maurice"
+    }
+  ],
+  "Mazatlan, Mexico": [
+    {
+      "code": "MZT",
+      "description": "Mazatlán",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "McAllen Mission, USA": [
+    {
+      "code": "MFE",
+      "description": "McAllen Mission",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Medellin, Colombia": [
+    {
+      "code": "MDE",
+      "description": "Medellín",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Medford, USA": [
+    {
+      "code": "MFR",
+      "description": "Medford",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Melbourne, Australia": [
+    {
+      "code": "MEL",
+      "description": "Melbourne",
+      "timezone": "Australia/Melbourne",
+      "countryCode": "AU",
+      "country": "Australia"
+    }
+  ],
+  "Melilla, Spain": [
+    {
+      "code": "MLN",
+      "description": "Melilla",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Memanbetsu, Japan": [
+    {
+      "code": "MMB",
+      "description": "Memanbetsu",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Memphis, USA": [
+    {
+      "code": "MEM",
+      "description": "Memphis",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Mendoza, Argentina": [
+    {
+      "code": "MDZ",
+      "description": "Mendoza",
+      "timezone": "America/Mendoza",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Menorca, Spain": [
+    {
+      "code": "MAH",
+      "description": "Menorca",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Merida, Mexico": [
+    {
+      "code": "MID",
+      "description": "Mérida",
+      "timezone": "America/Merida",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Mexicali, Mexico": [
+    {
+      "code": "MXL",
+      "description": "Mexicali",
+      "timezone": "America/Tijuana",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Mexico City, Mexico": [
+    {
+      "code": "MEX",
+      "description": "Mexico City",
+      "timezone": "Mexico/General",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Miami, USA": [
+    {
+      "code": "MIA",
+      "description": "Miami",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Midland, USA": [
+    {
+      "code": "MAF",
+      "description": "Midland",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Milan Linate, Italy": [
+    {
+      "code": "LIN",
+      "description": "Milan Linate",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Milan Malpensa, Italy": [
+    {
+      "code": "MXP",
+      "description": "Milan Malpensa",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Milan, Italy": [
+    {
+      "code": "MIL",
+      "description": "Milan",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Milwaukee, USA": [
+    {
+      "code": "MKE",
+      "description": "Milwaukee",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Minneapolis, USA": [
+    {
+      "code": "MSP",
+      "description": "Minneapolis",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Misawa, Japan": [
+    {
+      "code": "MSJ",
+      "description": "Misawa",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Missoula, USA": [
+    {
+      "code": "MSO",
+      "description": "Missoula",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Miyazaki, Japan": [
+    {
+      "code": "KMI",
+      "description": "Miyazaki",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Mobile, USA": [
+    {
+      "code": "MOB",
+      "description": "Mobile",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Mogadishu, Somalia": [
+    {
+      "code": "MGQ",
+      "description": "Mogadishu",
+      "timezone": "Africa/Nairobi",
+      "countryCode": "SO",
+      "country": "Somalia"
+    }
+  ],
+  "Mold-Arø, Norway": [
+    {
+      "code": "MOL",
+      "description": "Mold-Årø",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Moline, USA": [
+    {
+      "code": "MLI",
+      "description": "Moline",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Mombasa, Kenya": [
+    {
+      "code": "MBA",
+      "description": "Mombasa",
+      "timezone": "Africa/Nairobi",
+      "countryCode": "KE",
+      "country": "Kenya"
+    }
+  ],
+  "Monroe, USA": [
+    {
+      "code": "MLU",
+      "description": "Monroe",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Montego Bay, Jamaica": [
+    {
+      "code": "MBJ",
+      "description": "Montego Bay",
+      "timezone": "America/Jamaica",
+      "countryCode": "JM",
+      "country": "Jamaica"
+    }
+  ],
+  "Monterey Carmel, USA": [
+    {
+      "code": "MRY",
+      "description": "Monterey Carmel",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Monteria, Colombia": [
+    {
+      "code": "MTR",
+      "description": "Montería",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Monterrey, Mexico": [
+    {
+      "code": "MTY",
+      "description": "Monterrey",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Montes Claros, Brazil": [
+    {
+      "code": "MOC",
+      "description": "Montes Claros",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Montevideo, Uruguay": [
+    {
+      "code": "MVD",
+      "description": "Montevideo",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "UY",
+      "country": "Uruguay"
+    }
+  ],
+  "Montgomery, USA": [
+    {
+      "code": "MGM",
+      "description": "Montgomery",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Montreal, Canada": [
+    {
+      "code": "YMQ",
+      "description": "Montreal",
+      "timezone": "America/Montreal",
+      "countryCode": "CA",
+      "country": "Canada"
+    }
+  ],
+  "Montrose, USA": [
+    {
+      "code": "MTJ",
+      "description": "Montrose",
+      "timezone": "America/Denver",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Morelia, Mexico": [
+    {
+      "code": "MLM",
+      "description": "Morelia",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Multan, Pakistan": [
+    {
+      "code": "MUX",
+      "description": "Multan",
+      "timezone": "Asia/Karachi",
+      "countryCode": "PK",
+      "country": "Pakistan"
+    }
+  ],
+  "Mumbai, India": [
+    {
+      "code": "BOM",
+      "description": "Mumbai",
+      "timezone": "Asia/Kolkata",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Munich, Germany": [
+    {
+      "code": "MUC",
+      "description": "Munich",
+      "timezone": "Europe/Berlin",
+      "countryCode": "DE",
+      "country": "Germany"
+    }
+  ],
+  "Murcia, Spain": [
+    {
+      "code": "MJV",
+      "description": "Murcia",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Muscat, Oma": [
+    {
+      "code": "MCT",
+      "description": "Muscat",
+      "timezone": "Asia/Muscat",
+      "countryCode": "OM",
+      "country": "Omã"
+    }
+  ],
+  "Mykonos, Greece": [
+    {
+      "code": "JMK",
+      "description": "Mykonos",
+      "timezone": "Europe/Athens",
+      "countryCode": "GR",
+      "country": "Greece"
+    }
+  ],
+  "Myrtle Beach, USA": [
+    {
+      "code": "MYR",
+      "description": "Myrtle Beach ",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Nadi, Fidji": [
+    {
+      "code": "NAN",
+      "description": "Nadi",
+      "timezone": "Pacific/Fiji",
+      "countryCode": "FJ",
+      "country": "Fidji"
+    }
+  ],
+  "Nador, Maroc": [
+    {
+      "code": "NDR",
+      "description": "Nador",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Nagasaki (Japan), Japan": [
+    {
+      "code": "NGS",
+      "description": "Nagasaki (Japan)",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Nagoya, Japan": [
+    {
+      "code": "NGO",
+      "description": "Nagoya",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Nagpur, India": [
+    {
+      "code": "NAG",
+      "description": "Nagpur",
+      "timezone": "Asia/Calcutta",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Nairobi, Kenya": [
+    {
+      "code": "NBO",
+      "description": "Nairobi",
+      "timezone": "Africa/Nairobi",
+      "countryCode": "KE",
+      "country": "Kenya"
+    }
+  ],
+  "Najaf, Iraq": [
+    {
+      "code": "NJF",
+      "description": "Najaf",
+      "timezone": "Asia/Iraq",
+      "countryCode": "IQ",
+      "country": "Iraq"
+    }
+  ],
+  "Nantes, France": [
+    {
+      "code": "NTE",
+      "description": "Nantes",
+      "timezone": "Europe/Paris",
+      "countryCode": "FR",
+      "country": "France"
+    }
+  ],
+  "Nantucket, USA": [
+    {
+      "code": "ACK",
+      "description": "Nantucket",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Naples, Italy": [
+    {
+      "code": "NAP",
+      "description": "Naples",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Nashville, USA": [
+    {
+      "code": "BNA",
+      "description": "Nashville",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Nassau, Bahamas": [
+    {
+      "code": "NAS",
+      "description": "Nassau",
+      "timezone": "America/Nassau",
+      "countryCode": "BS",
+      "country": "Bahamas"
+    }
+  ],
+  "Natal, Brazil": [
+    {
+      "code": "NAT",
+      "description": "Natal",
+      "timezone": "America/Fortaleza",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Navegantes, Brazil": [
+    {
+      "code": "NVT",
+      "description": "Navegantes",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Neiva, Colombia": [
+    {
+      "code": "NVA",
+      "description": "Neiva",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Neuquen, Argentina": [
+    {
+      "code": "NQN",
+      "description": "Neuquén",
+      "timezone": "America/Argentina/Salta",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "New Bern, USA": [
+    {
+      "code": "EWN",
+      "description": "New Bern",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "New Orleans, USA": [
+    {
+      "code": "MSY",
+      "description": "New Orleans",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "New York John F Kennedy, USA": [
+    {
+      "code": "JFK",
+      "description": "New York John F Kennedy",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "New York Newark Liberty International, USA": [
+    {
+      "code": "EWR",
+      "description": "New York Newark Liberty International",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "New York, USA": [
+    {
+      "code": "NYC",
+      "description": "New York",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Newcastle, United Kingdom": [
+    {
+      "code": "NCL",
+      "description": "Newcastle",
+      "timezone": "Europe/London",
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    }
+  ],
+  "Newport News Williamsburg, USA": [
+    {
+      "code": "PHF",
+      "description": "Newport News Williamsburg",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Nice, France": [
+    {
+      "code": "NCE",
+      "description": "Nice",
+      "timezone": "Europe/Paris",
+      "countryCode": "FR",
+      "country": "France"
+    }
+  ],
+  "Norfolk, USA": [
+    {
+      "code": "ORF",
+      "description": "Norfolk",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Nouakchott, Mauritania": [
+    {
+      "code": "NKC",
+      "description": "Nouakchott",
+      "timezone": "Africa/Nouakchott",
+      "countryCode": "MR",
+      "country": "Mauritânia"
+    }
+  ],
+  "Noumea, New Caledonia": [
+    {
+      "code": "NOU",
+      "description": "Nouméa",
+      "timezone": "Pacific/Noumea",
+      "countryCode": "NC",
+      "country": "New Caledonia"
+    }
+  ],
+  "Nuevo Laredo, Mexico": [
+    {
+      "code": "NLD",
+      "description": "Nuevo Laredo",
+      "timezone": "America/Matamoros",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Nuremberg, Germany": [
+    {
+      "code": "NUE",
+      "description": "Nuremberg",
+      "timezone": "Europe/Berlin",
+      "countryCode": "DE",
+      "country": "Germany"
+    }
+  ],
+  "Oakland San Francisco Bay, USA": [
+    {
+      "code": "OAK",
+      "description": "Oakland San Francisco Bay",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Oaxaca, Mexico": [
+    {
+      "code": "OAX",
+      "description": "Oaxaca",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Obregon, Mexico": [
+    {
+      "code": "CEN",
+      "description": "Obregón",
+      "timezone": "America/Mazatlan",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Oita, Japan": [
+    {
+      "code": "OIT",
+      "description": "Oita",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Okayama, Japan": [
+    {
+      "code": "OKJ",
+      "description": "Okayama",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Okinawa, Japan": [
+    {
+      "code": "OKA",
+      "description": "Okinawa",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Oklahoma, USA": [
+    {
+      "code": "OKC",
+      "description": "Oklahoma",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Olbia, Italy": [
+    {
+      "code": "OLB",
+      "description": "Olbia",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Omaha, USA": [
+    {
+      "code": "OMA",
+      "description": "Omaha",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Oran, Algeria": [
+    {
+      "code": "ORN",
+      "description": "Oran",
+      "timezone": "Africa/Algiers",
+      "countryCode": "DZ",
+      "country": "Algeria"
+    }
+  ],
+  "Orange County, USA": [
+    {
+      "code": "SNA",
+      "description": "Orange County",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Orlando, USA": [
+    {
+      "code": "MCO",
+      "description": "Orlando",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Osaka, Japan": [
+    {
+      "code": "OSA",
+      "description": "Osaka",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Oslo, Norway": [
+    {
+      "code": "OSL",
+      "description": "Oslo",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Ouarzazate, Maroc": [
+    {
+      "code": "OZZ",
+      "description": "Ouarzazate",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Oujda, Maroc": [
+    {
+      "code": "OUD",
+      "description": "Oujda",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Oulu, Finland": [
+    {
+      "code": "OUL",
+      "description": "Oulu",
+      "timezone": "Europe/Berlin",
+      "countryCode": "FI",
+      "country": "Finland"
+    }
+  ],
+  "Ourense, Spain": [
+    {
+      "code": "OUQ",
+      "description": "Ourense",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Palencia, Spain": [
+    {
+      "code": "PCI",
+      "description": "Palencia",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Palermo, Italy": [
+    {
+      "code": "PMO",
+      "description": "Palermo",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Palm Springs Ca, USA": [
+    {
+      "code": "PSP",
+      "description": "Palm Springs Ca",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Palma de Mallorca, Spain": [
+    {
+      "code": "PMI",
+      "description": "Palma de Mallorca",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Palmas, Brazil": [
+    {
+      "code": "PMW",
+      "description": "Palmas",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Pamplona, Spain": [
+    {
+      "code": "PNA",
+      "description": "Pamplona",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Panama, Panama": [
+    {
+      "code": "PTY",
+      "description": "Panama",
+      "timezone": "America/Panama",
+      "countryCode": "PA",
+      "country": "Panama"
+    }
+  ],
+  "Parana, Argentina": [
+    {
+      "code": "PRA",
+      "description": "Paraná",
+      "timezone": "America/Argentina/Cordoba",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Paris, France": [
+    {
+      "code": "CDG",
+      "description": "Paris Charles de Gaulle",
+      "timezone": "Europe/Paris",
+      "countryCode": "FR",
+      "country": "France"
+    },
+    {
+      "code": "ORY",
+      "description": "Paris Orly",
+      "timezone": "Europe/Paris",
+      "countryCode": "FR",
+      "country": "France"
+    }
+  ],
+  "Passo Fundo, Brazil": [
+    {
+      "code": "PFB",
+      "description": "Passo Fundo",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Penang, Malaysia": [
+    {
+      "code": "PEN",
+      "description": "Penang",
+      "timezone": "Asia/Kuala_Lumpur",
+      "countryCode": "MY",
+      "country": "Malaysia"
+    }
+  ],
+  "Pensacola, USA": [
+    {
+      "code": "PNS",
+      "description": "Pensacola",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Peoria, USA": [
+    {
+      "code": "PIA",
+      "description": "Peoria",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Pereira, Colombia": [
+    {
+      "code": "PEI",
+      "description": "Pereira",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Perth, Australia": [
+    {
+      "code": "PER",
+      "description": "Perth",
+      "timezone": "Australia/Perth",
+      "countryCode": "AU",
+      "country": "Australia"
+    }
+  ],
+  "Peshawar, Pakistan": [
+    {
+      "code": "PEW",
+      "description": "Peshawar",
+      "timezone": "Asia/Karachi",
+      "countryCode": "PK",
+      "country": "Pakistan"
+    }
+  ],
+  "Petrolina, Brazil": [
+    {
+      "code": "PNZ",
+      "description": "Petrolina",
+      "timezone": "America/Recife",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Philadelphia, USA": [
+    {
+      "code": "PHL",
+      "description": "Philadelphia",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Phnom Penh, Kambodscha": [
+    {
+      "code": "KTI",
+      "description": "Phnom Penh",
+      "timezone": "Asia/Phnom_Penh",
+      "countryCode": "KH",
+      "country": "Kambodscha"
+    }
+  ],
+  "Phoenix, USA": [
+    {
+      "code": "PHX",
+      "description": "Phoenix",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Phuket, Thailand": [
+    {
+      "code": "HKT",
+      "description": "Phuket",
+      "timezone": "Asia/Bangkok",
+      "countryCode": "TH",
+      "country": "Thailand"
+    }
+  ],
+  "Piedras Negras, Mexico": [
+    {
+      "code": "PDS",
+      "description": "Piedras Negras",
+      "timezone": "America/Matamoros",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Pittsburgh, USA": [
+    {
+      "code": "PIT",
+      "description": "Pittsburgh",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Piura, Peru": [
+    {
+      "code": "PIU",
+      "description": "Piura",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Pointe-a-Pitre, Guadeloupe": [
+    {
+      "code": "PTP",
+      "description": "Pointe-à-Pitre",
+      "timezone": "America/Puerto_Rico",
+      "countryCode": "GP",
+      "country": "Guadeloupe"
+    }
+  ],
+  "Ponferrada, Spain": [
+    {
+      "code": "PFE",
+      "description": "Ponferrada",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Port of Spain, Trinidad und Tobago": [
+    {
+      "code": "POS",
+      "description": "Port of Spain",
+      "timezone": "America/Port_of_Spain",
+      "countryCode": "TT",
+      "country": "Trinidad und Tobago"
+    }
+  ],
+  "Port-Au-Prince, Haiti": [
+    {
+      "code": "PAP",
+      "description": "Port-Au-Prince",
+      "timezone": "America/Puerto Príncipe",
+      "countryCode": "HT",
+      "country": "Haiti"
+    }
+  ],
+  "Portland Maine, USA": [
+    {
+      "code": "PWM",
+      "description": "Portland Maine",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Portland, USA": [
+    {
+      "code": "PDX",
+      "description": "Portland",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Porto Alegre, Brazil": [
+    {
+      "code": "POA",
+      "description": "Porto Alegre",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Porto Seguro, Brazil": [
+    {
+      "code": "BPS",
+      "description": "Porto Seguro",
+      "timezone": "\tAmerica/Bahia",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Porto, Portugal": [
+    {
+      "code": "OPO",
+      "description": "Porto",
+      "timezone": "Europe/Lisbon",
+      "countryCode": "PT",
+      "country": "Portugal"
+    }
+  ],
+  "Posadas, Argentina": [
+    {
+      "code": "PSS",
+      "description": "Posadas",
+      "timezone": "America/Argentina/Cordoba",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Prague, Czech Republic": [
+    {
+      "code": "PRG",
+      "description": "Prague",
+      "timezone": "Europe/Prague",
+      "countryCode": "CZ",
+      "country": "Czech Republic"
+    }
+  ],
+  "Presidente Prudente, Brazil": [
+    {
+      "code": "PPB",
+      "description": "Presidente Prudente",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Providence, USA": [
+    {
+      "code": "PVD",
+      "description": "Providence",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Pucallpa, Peru": [
+    {
+      "code": "PCL",
+      "description": "Pucallpa",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Puerto Barrios, Guatemala": [
+    {
+      "code": "PBR",
+      "description": "Puerto Barrios",
+      "timezone": "America/Guatemala",
+      "countryCode": "GT",
+      "country": "Guatemala"
+    }
+  ],
+  "Puerto Escondido, Mexico": [
+    {
+      "code": "PXM",
+      "description": "Puerto Escondido",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Puerto Iguazu, Argentina": [
+    {
+      "code": "IGR",
+      "description": "Puerto Iguazú",
+      "timezone": "America/Argentina/Cordoba",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Puerto Maldonado, Peru": [
+    {
+      "code": "PEM",
+      "description": "Puerto Maldonado",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Puerto Montt, Chile": [
+    {
+      "code": "PMC",
+      "description": "Puerto Montt",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Puerto Natales, Chile": [
+    {
+      "code": "PNT",
+      "description": "Puerto Natales",
+      "timezone": "America/Santiago",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Puerto Vallarta, Mexico": [
+    {
+      "code": "PVR",
+      "description": "Puerto Vallarta",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Punta Arenas, Chile": [
+    {
+      "code": "PUQ",
+      "description": "Punta Arenas",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Punta Cana, Dominican Republic": [
+    {
+      "code": "PUJ",
+      "description": "Punta Cana",
+      "timezone": "America/Santo_Domingo",
+      "countryCode": "DO",
+      "country": "Dominican Republic"
+    }
+  ],
+  "Queretaro, Mexico": [
+    {
+      "code": "QRO",
+      "description": "Queretaro",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Quetzaltenango, Guatemala": [
+    {
+      "code": "AAZ",
+      "description": "Quetzaltenango",
+      "timezone": "America/Guatemala",
+      "countryCode": "GT",
+      "country": "Guatemala"
+    }
+  ],
+  "Quito, Ecuador": [
+    {
+      "code": "UIO",
+      "description": "Quito",
+      "timezone": "America/Guayaquil",
+      "countryCode": "EC",
+      "country": "Ecuador"
+    }
+  ],
+  "Rabat, Maroc": [
+    {
+      "code": "RBA",
+      "description": "Rabat",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Raleigh, USA": [
+    {
+      "code": "RDU",
+      "description": "Raleigh",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Rapid City, USA": [
+    {
+      "code": "RAP",
+      "description": "Rapid City",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Ras Al Khaimah, Emirados Arabes Unidos": [
+    {
+      "code": "RKT",
+      "description": "Ras Al Khaimah",
+      "timezone": "Asia/Dubai",
+      "countryCode": "AE",
+      "country": "Emirados Árabes Unidos"
+    }
+  ],
+  "Recife, Brazil": [
+    {
+      "code": "REC",
+      "description": "Recife",
+      "timezone": "America/Recife",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Redmond, USA": [
+    {
+      "code": "RDM",
+      "description": "Redmond",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Rennes, France": [
+    {
+      "code": "RNS",
+      "description": "Rennes",
+      "timezone": "Europe/Paris",
+      "countryCode": "FR",
+      "country": "France"
+    }
+  ],
+  "Reno, USA": [
+    {
+      "code": "RNO",
+      "description": "Reno",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Resistencia, Argentina": [
+    {
+      "code": "RES",
+      "description": "Resistencia",
+      "timezone": "America/Argentina/Cordoba",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Retalhuleu, Guatemala": [
+    {
+      "code": "RER",
+      "description": "Retalhuleu",
+      "timezone": "America/Guatemala",
+      "countryCode": "GT",
+      "country": "Guatemala"
+    }
+  ],
+  "Reus, Spain": [
+    {
+      "code": "REU",
+      "description": "Reus",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Reykjavik, Iceland": [
+    {
+      "code": "REK",
+      "description": "Reykjavík",
+      "timezone": "Atlantic/Reykjavik",
+      "countryCode": "IS",
+      "country": "Iceland"
+    }
+  ],
+  "Reynosa, Mexico": [
+    {
+      "code": "REX",
+      "description": "Reynosa",
+      "timezone": "America/Matamoros",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Richmond, USA": [
+    {
+      "code": "RIC",
+      "description": "Richmond",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Riga, Lettonie": [
+    {
+      "code": "RIX",
+      "description": "Riga",
+      "timezone": "Europe/Riga",
+      "countryCode": "LV",
+      "country": "Lettonie"
+    }
+  ],
+  "Rio Cuarto, Argentina": [
+    {
+      "code": "RCU",
+      "description": "Río Cuarto",
+      "timezone": "America/Argentina/Cordoba",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Rio De Janeiro Galeao A.C Jobim Intl, Brazil": [
+    {
+      "code": "GIG",
+      "description": "Rio De Janeiro Galeao A.C Jobim Intl",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Rio Grande, Argentina": [
+    {
+      "code": "RGA",
+      "description": "Río Grande",
+      "timezone": "America/Argentina/Ushuaia",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Rio de Janeiro, Brazil": [
+    {
+      "code": "RIO",
+      "description": "Rio de Janeiro",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Riyadh, Arabie saoudite": [
+    {
+      "code": "RUH",
+      "description": "Riyadh",
+      "timezone": "Asia/Riyadh",
+      "countryCode": "SA",
+      "country": "Arabie saoudite"
+    }
+  ],
+  "Roanoke, USA": [
+    {
+      "code": "ROA",
+      "description": "Roanoke",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Roatan, Honduras": [
+    {
+      "code": "RTB",
+      "description": "Roatán",
+      "timezone": "America/Tegucigalpa",
+      "countryCode": "HN",
+      "country": "Honduras"
+    }
+  ],
+  "Rochester NY, USA": [
+    {
+      "code": "ROC",
+      "description": "Rochester NY",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Rochester, USA": [
+    {
+      "code": "RST",
+      "description": "Rochester",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Rome Fiumicino, Italy": [
+    {
+      "code": "FCO",
+      "description": "Rome Fiumicino",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Rome, Italy": [
+    {
+      "code": "ROM",
+      "description": "Rome",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Rosario, Argentina": [
+    {
+      "code": "ROS",
+      "description": "Rosario",
+      "timezone": "America/Argentina/Cordoba",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Roswell, USA": [
+    {
+      "code": "ROW",
+      "description": "Roswell",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Rovaniemi, Finland": [
+    {
+      "code": "RVN",
+      "description": "Rovaniemi",
+      "timezone": "Europe/Helsinki",
+      "countryCode": "FI",
+      "country": "Finland"
+    }
+  ],
+  "Sacramento, USA": [
+    {
+      "code": "SMF",
+      "description": "Sacramento",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Saint George, USA": [
+    {
+      "code": "SGU",
+      "description": "Saint George",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Sal, Kaapverdie": [
+    {
+      "code": "SID",
+      "description": "Sal",
+      "timezone": "Atlantic/Cape_Verde",
+      "countryCode": "CV",
+      "country": "Kaapverdië"
+    }
+  ],
+  "Salalah, Oma": [
+    {
+      "code": "SLL",
+      "description": "Salalah",
+      "timezone": "Asia/Muscat",
+      "countryCode": "OM",
+      "country": "Omã"
+    }
+  ],
+  "Salamanca, Spain": [
+    {
+      "code": "SLM",
+      "description": "Salamanca",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Salerno, Italy": [
+    {
+      "code": "QSR",
+      "description": "Salerno",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Salisbury Ocean City, USA": [
+    {
+      "code": "SBY",
+      "description": "Salisbury Ocean City",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Salt Lake City, USA": [
+    {
+      "code": "SLC",
+      "description": "Salt Lake City",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Salta, Argentina": [
+    {
+      "code": "SLA",
+      "description": "Salta",
+      "timezone": "America/Argentina/Salta",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Salvador, Brazil": [
+    {
+      "code": "SSA",
+      "description": "Salvador",
+      "timezone": "America/Bahia",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "San Andres, Colombia": [
+    {
+      "code": "ADZ",
+      "description": "San Andrés",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "San Angelo, USA": [
+    {
+      "code": "SJT",
+      "description": "San Angelo",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "San Antonio, USA": [
+    {
+      "code": "SAT",
+      "description": "San Antonio",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "San Carlos de Bariloche, Argentina": [
+    {
+      "code": "BRC",
+      "description": "San Carlos de Bariloche",
+      "timezone": "America/Argentina/Salta",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "San Cristobal, Ecuador": [
+    {
+      "code": "SCY",
+      "description": "San Cristobal",
+      "timezone": "America/Guayaquil",
+      "countryCode": "EC",
+      "country": "Ecuador"
+    }
+  ],
+  "San Diego, USA": [
+    {
+      "code": "SAN",
+      "description": "San Diego",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "San Fernando del Valle de Catamarca, Argentina": [
+    {
+      "code": "CTC",
+      "description": "San Fernando del Valle de Catamarca",
+      "timezone": "America/Argentina/Catamarca",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "San Francisco, USA": [
+    {
+      "code": "SFO",
+      "description": "San Francisco",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "San Jose de Costa Rica, Costa Rica": [
+    {
+      "code": "SJO",
+      "description": "San José de Costa Rica",
+      "timezone": "America/Costa_Rica",
+      "countryCode": "CR",
+      "country": "Costa Rica"
+    }
+  ],
+  "San Jose del Cabo, Mexico": [
+    {
+      "code": "SJD",
+      "description": "San José del Cabo",
+      "timezone": "America/Tijuana",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "San Jose, USA": [
+    {
+      "code": "SJC",
+      "description": "San Jose",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "San Juan, Argentina": [
+    {
+      "code": "UAQ",
+      "description": "San Juan",
+      "timezone": "America/Argentina/San_Juan",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "San Juan, Puerto Rico, Puerto Rico": [
+    {
+      "code": "SJU",
+      "description": "San Juan, Puerto Rico",
+      "timezone": "America/Puerto_Rico",
+      "countryCode": "PR",
+      "country": "Puerto Rico"
+    }
+  ],
+  "San Luis Obispo, USA": [
+    {
+      "code": "SBP",
+      "description": "San Luis Obispo",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "San Luis Potosi, Mexico": [
+    {
+      "code": "SLP",
+      "description": "San Luis Potosi",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "San Luis, Argentina": [
+    {
+      "code": "LUQ",
+      "description": "San Luis",
+      "timezone": "America/Argentina/San_Luis",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "San Martin, Argentina": [
+    {
+      "code": "CPC",
+      "description": "San Martín",
+      "timezone": "America/Argentina/Salta",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "San Miguel de Tucuman, Argentina": [
+    {
+      "code": "TUC",
+      "description": "San Miguel de Tucumán",
+      "timezone": "America/Argentina/Tucuman",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "San Pedro Sula, Honduras": [
+    {
+      "code": "SAP",
+      "description": "San Pedro Sula",
+      "timezone": "America/Tegucigalpa",
+      "countryCode": "HN",
+      "country": "Honduras"
+    }
+  ],
+  "San Rafael, Argentina": [
+    {
+      "code": "AFA",
+      "description": "San Rafael",
+      "timezone": "America/Argentina/Mendoza",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "San Salvador de Jujuy, Argentina": [
+    {
+      "code": "JUJ",
+      "description": "San Salvador de Jujuy",
+      "timezone": "America/Argentina/Jujuy",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "San Salvador, El Salvador": [
+    {
+      "code": "SAL",
+      "description": "San Salvador",
+      "timezone": "America/El_Salvador",
+      "countryCode": "SV",
+      "country": "El Salvador"
+    }
+  ],
+  "San Sebastian de la Gomera, Spain": [
+    {
+      "code": "GMZ",
+      "description": "San Sebastián de la Gomera",
+      "timezone": "Atlantic/Canary",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "San Sebastian, Spain": [
+    {
+      "code": "EAS",
+      "description": "San Sebastián",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Sandane, Norway": [
+    {
+      "code": "SDN",
+      "description": "Sandane",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Sandefjord-Torp, Norway": [
+    {
+      "code": "TRF",
+      "description": "Sandefjord-Torp",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Santa Barbara, USA": [
+    {
+      "code": "SBA",
+      "description": "Santa Barbara",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Santa Cruz de la Palma, Spain": [
+    {
+      "code": "SPC",
+      "description": "Santa Cruz de la Palma",
+      "timezone": "Atlantic/Canary",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Santa Cruz, Bolivia": [
+    {
+      "code": "VVI",
+      "description": "Santa Cruz",
+      "timezone": "America/Bogota",
+      "countryCode": "BO",
+      "country": "Bolivia"
+    }
+  ],
+  "Santa Fe de la Vera Cruz, Argentina": [
+    {
+      "code": "SFE",
+      "description": "Santa Fe de la Vera Cruz",
+      "timezone": "America/Argentina/Cordoba",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Santa Fe, USA": [
+    {
+      "code": "SAF",
+      "description": "Santa Fe",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Santa Marta, Colombia": [
+    {
+      "code": "SMR",
+      "description": "Santa Marta",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Santa Rosa, USA": [
+    {
+      "code": "STS",
+      "description": "Santa Rosa",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Santander, Spain": [
+    {
+      "code": "SDR",
+      "description": "Santander",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Santiago de Chile, Chile": [
+    {
+      "code": "SCL",
+      "description": "Santiago de Chile",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Santiago de Compostela, Spain": [
+    {
+      "code": "SCJ",
+      "description": "Santiago de Compostela",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    },
+    {
+      "code": "SCQ",
+      "description": "Santiago de Compostela",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Santiago del Estero, Argentina": [
+    {
+      "code": "SDE",
+      "description": "Santiago del Estero",
+      "timezone": "America/Argentina/Cordoba",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Santo Domingo, Dominican Republic": [
+    {
+      "code": "SDQ",
+      "description": "Santo Domingo",
+      "timezone": "America/Santo_Domingo",
+      "countryCode": "DO",
+      "country": "Dominican Republic"
+    }
+  ],
+  "Santorini, Greece": [
+    {
+      "code": "JTR",
+      "description": "Santorini",
+      "timezone": "Europe/Athens",
+      "countryCode": "GR",
+      "country": "Greece"
+    }
+  ],
+  "Sao Jose do Rio Preto, Brazil": [
+    {
+      "code": "SJP",
+      "description": "São José do Rio Preto",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Sao Luis, Brazil": [
+    {
+      "code": "SLZ",
+      "description": "São Luís",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Sao Paulo Guarulhos Intl, Brazil": [
+    {
+      "code": "GRU",
+      "description": "São Paulo Guarulhos Intl",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Sao Paulo, Brazil": [
+    {
+      "code": "SAO",
+      "description": "São Paulo",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Sapporo, Japan": [
+    {
+      "code": "SPK",
+      "description": "Sapporo",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Sarasota, USA": [
+    {
+      "code": "SRQ",
+      "description": "Sarasota",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Savannah, USA": [
+    {
+      "code": "SAV",
+      "description": "Savannah",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Seattle, USA": [
+    {
+      "code": "SEA",
+      "description": "Seattle",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Seoul, Sudkorea": [
+    {
+      "code": "ICN",
+      "description": "Seoul",
+      "timezone": "Asia/Seoul",
+      "countryCode": "KR",
+      "country": "Südkorea"
+    },
+    {
+      "code": "SEL",
+      "description": "Seoul",
+      "timezone": "Asia/Seoul",
+      "countryCode": "KR",
+      "country": "Südkorea"
+    }
+  ],
+  "Seville, Spain": [
+    {
+      "code": "SVQ",
+      "description": "Seville",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Shanghai, China": [
+    {
+      "code": "PVG",
+      "description": "Shanghai",
+      "timezone": "Asia/Shanghai ",
+      "countryCode": "CN",
+      "country": "China"
+    },
+    {
+      "code": "SHA",
+      "description": "Shanghai",
+      "timezone": "Asia/Shanghai",
+      "countryCode": "CN",
+      "country": "China"
+    }
+  ],
+  "Shannon, Ireland": [
+    {
+      "code": "SNN",
+      "description": "Shannon",
+      "timezone": "Europe/Dublin",
+      "countryCode": "IE",
+      "country": "Ireland"
+    }
+  ],
+  "Sharjah, Emirados Arabes Unidos": [
+    {
+      "code": "SHJ",
+      "description": "Sharjah",
+      "timezone": "Asia/Dubai",
+      "countryCode": "AE",
+      "country": "Emirados Árabes Unidos"
+    }
+  ],
+  "Shirahama, Japan": [
+    {
+      "code": "SHM",
+      "description": "Shirahama",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Shiraz, Iran": [
+    {
+      "code": "SYZ",
+      "description": "Shiraz",
+      "timezone": "Asia/Iran",
+      "countryCode": "IR",
+      "country": "Iran"
+    }
+  ],
+  "Shreveport, USA": [
+    {
+      "code": "SHV",
+      "description": "Shreveport",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Sialkot, Pakistan": [
+    {
+      "code": "SKT",
+      "description": "Sialkot",
+      "timezone": "Asia/Calcutta",
+      "countryCode": "PK",
+      "country": "Pakistan"
+    }
+  ],
+  "Singapore, Singapore": [
+    {
+      "code": "SIN",
+      "description": "Singapore",
+      "timezone": "Asia/Singapore",
+      "countryCode": "SG",
+      "country": "Singapore"
+    }
+  ],
+  "Sioux Falls, USA": [
+    {
+      "code": "FSD",
+      "description": "Sioux Falls",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Sofia, Bulgaria": [
+    {
+      "code": "SOF",
+      "description": "Sofia",
+      "timezone": "Europe/Sofia",
+      "countryCode": "BG",
+      "country": "Bulgaria"
+    }
+  ],
+  "Sogndal, Norway": [
+    {
+      "code": "SOG",
+      "description": "Sogndal",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Sohar, Oma": [
+    {
+      "code": "OHS",
+      "description": "Sohar",
+      "timezone": "Asia/Muscat",
+      "countryCode": "OM",
+      "country": "Omã"
+    }
+  ],
+  "Soria, Spain": [
+    {
+      "code": "XJO",
+      "description": "Soria",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "South Bend, USA": [
+    {
+      "code": "SBN",
+      "description": "South Bend",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Split, Croatia": [
+    {
+      "code": "SPU",
+      "description": "Split",
+      "timezone": "Europe/Zagreb",
+      "countryCode": "HR",
+      "country": "Croatia"
+    }
+  ],
+  "Spokane, USA": [
+    {
+      "code": "GEG",
+      "description": "Spokane",
+      "timezone": "US/Pacific",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Springfield, USA": [
+    {
+      "code": "SGF",
+      "description": "Springfield",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "St Kitts, Saint Kitts en Nevis": [
+    {
+      "code": "SKB",
+      "description": "St Kitts",
+      "timezone": "America/St_Kitts",
+      "countryCode": "KN",
+      "country": "Saint Kitts en Nevis"
+    }
+  ],
+  "St Louis, USA": [
+    {
+      "code": "STL",
+      "description": "St Louis",
+      "timezone": "America/Kentucky/Louisville",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "St Lucia, Saint Lucia": [
+    {
+      "code": "SLU",
+      "description": "St Lucia",
+      "timezone": "America/St_Lucia",
+      "countryCode": "LC",
+      "country": "Saint Lucia"
+    }
+  ],
+  "State College, USA": [
+    {
+      "code": "SCE",
+      "description": "State College",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Staunton/Waynesboro, USA": [
+    {
+      "code": "SHD",
+      "description": "Staunton/Waynesboro",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Stavanger-Sola, Norway": [
+    {
+      "code": "SVG",
+      "description": " Stavanger-Sola",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Stillwater, USA": [
+    {
+      "code": "SWO",
+      "description": "Stillwater",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Stockholm, Sweden": [
+    {
+      "code": "STO",
+      "description": "Stockholm",
+      "timezone": "Europe/Stockholm",
+      "countryCode": "SE",
+      "country": "Sweden"
+    }
+  ],
+  "Strasbourg, France": [
+    {
+      "code": "SXB",
+      "description": "Strasbourg",
+      "timezone": "Europe/Paris",
+      "countryCode": "FR",
+      "country": "France"
+    }
+  ],
+  "Stuttgart, Germany": [
+    {
+      "code": "STR",
+      "description": "Stuttgart",
+      "timezone": "Europe/Berlin",
+      "countryCode": "DE",
+      "country": "Germany"
+    }
+  ],
+  "Sulaymaniyah, Iraq": [
+    {
+      "code": "ISU",
+      "description": "Sulaymaniyah",
+      "timezone": "Asia/Iraq",
+      "countryCode": "IQ",
+      "country": "Iraq"
+    }
+  ],
+  "Sydney, Australia": [
+    {
+      "code": "SYD",
+      "description": "Sydney",
+      "timezone": "Australia/Sydney",
+      "countryCode": "AU",
+      "country": "Australia"
+    }
+  ],
+  "Syracuse, USA": [
+    {
+      "code": "SYR",
+      "description": "Syracuse",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Tabuk, Arabie saoudite": [
+    {
+      "code": "TUU",
+      "description": "Tabuk",
+      "timezone": "Asia/Riyadh",
+      "countryCode": "SA",
+      "country": "Arabie saoudite"
+    }
+  ],
+  "Tacna, Peru": [
+    {
+      "code": "TCQ",
+      "description": "Tacna",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Taif, Arabie saoudite": [
+    {
+      "code": "TIF",
+      "description": "Taif",
+      "timezone": "Asia/Riyadh",
+      "countryCode": "SA",
+      "country": "Arabie saoudite"
+    }
+  ],
+  "Taipei, China": [
+    {
+      "code": "TPE",
+      "description": "Taipei",
+      "timezone": "Asia/Shanghai",
+      "countryCode": "CN",
+      "country": "China"
+    }
+  ],
+  "Takamatsu, Japan": [
+    {
+      "code": "TAK",
+      "description": "Takamatsu",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Talara, Peru": [
+    {
+      "code": "TYL",
+      "description": "Talara",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Tallahassee, USA": [
+    {
+      "code": "TLH",
+      "description": "Tallahassee",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Tallinn, Estonia": [
+    {
+      "code": "TLL",
+      "description": "Tallinn",
+      "timezone": "Europe/Budapest",
+      "countryCode": "EE",
+      "country": "Estonia"
+    }
+  ],
+  "Tampa, USA": [
+    {
+      "code": "TPA",
+      "description": "Tampa",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Tampico, Mexico": [
+    {
+      "code": "TAM",
+      "description": "Tampico",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Tangier, Maroc": [
+    {
+      "code": "TNG",
+      "description": "Tangier",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Tapachula, Mexico": [
+    {
+      "code": "TAP",
+      "description": "Tapachula",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Tarapoto, Peru": [
+    {
+      "code": "TPP",
+      "description": "Tarapoto",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Tashkent, Uzbekistan": [
+    {
+      "code": "TAS",
+      "description": "Tashkent",
+      "timezone": "Asia/Tashkent",
+      "countryCode": "UZ",
+      "country": "Uzbekistan"
+    }
+  ],
+  "Tbilisi, Georgia": [
+    {
+      "code": "TBS",
+      "description": "Tbilisi",
+      "timezone": "Europe/Moscow",
+      "countryCode": "GE",
+      "country": "Georgia"
+    }
+  ],
+  "Tegucigalpa, Honduras": [
+    {
+      "code": "TGU",
+      "description": "Tegucigalpa",
+      "timezone": "America/Tegucigalpa",
+      "countryCode": "HN",
+      "country": "Honduras"
+    }
+  ],
+  "Tegucigalpa-Comayagua, Honduras": [
+    {
+      "code": "XPL",
+      "description": "Tegucigalpa-Comayagua",
+      "timezone": "America/Tegucigalpa",
+      "countryCode": "HN",
+      "country": "Honduras"
+    }
+  ],
+  "Tehran, Iran": [
+    {
+      "code": "THR",
+      "description": "Tehran",
+      "timezone": "Asia/Iran",
+      "countryCode": "IR",
+      "country": "Iran"
+    }
+  ],
+  "Tel Aviv, Israel": [
+    {
+      "code": "TLV",
+      "description": "Tel Aviv",
+      "timezone": "Asia/Jerusalem",
+      "countryCode": "IL",
+      "country": "Israel"
+    }
+  ],
+  "Temuco, Chile": [
+    {
+      "code": "ZCO",
+      "description": "Temuco",
+      "timezone": "Chile/Continental",
+      "countryCode": "CL",
+      "country": "Chile"
+    }
+  ],
+  "Tenerife Norte, Spain": [
+    {
+      "code": "TFN",
+      "description": "Tenerife Norte",
+      "timezone": "Atlantic/Canary",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Tenerife Sur, Spain": [
+    {
+      "code": "TFS",
+      "description": "Tenerife Sur",
+      "timezone": "Atlantic/Canary",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Tenerife, Spain": [
+    {
+      "code": "TCI",
+      "description": "Tenerife",
+      "timezone": "Atlantic/Canary",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Tepic, Mexico": [
+    {
+      "code": "TPQ",
+      "description": "Tepic ",
+      "timezone": "America/Mazatlan",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Teresina, Brazil": [
+    {
+      "code": "THE",
+      "description": "Teresina",
+      "timezone": "America/Fortaleza",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Tetouan, Maroc": [
+    {
+      "code": "TTU",
+      "description": "Tetouan",
+      "timezone": "Africa/Casablanca",
+      "countryCode": "MA",
+      "country": "Maroc"
+    }
+  ],
+  "Texarkana, USA": [
+    {
+      "code": "TXK",
+      "description": "Texarkana",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Thiruvananthapuram, India": [
+    {
+      "code": "TRV",
+      "description": "Thiruvananthapuram",
+      "timezone": "Asia/Calcutta",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  ],
+  "Tijuana, Mexico": [
+    {
+      "code": "TIJ",
+      "description": "Tijuana",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Tirana, Albania": [
+    {
+      "code": "TIA",
+      "description": "Tirana",
+      "timezone": "Europe/Tirane",
+      "countryCode": "AL",
+      "country": "Albania"
+    }
+  ],
+  "Tivat, Montenegro": [
+    {
+      "code": "TIV",
+      "description": "Tivat",
+      "timezone": "Europe/Podgorica",
+      "countryCode": "ME",
+      "country": "Montenegro"
+    }
+  ],
+  "Tobago, Trinidad und Tobago": [
+    {
+      "code": "TAB",
+      "description": "Tobago",
+      "timezone": "America/Port_of_Spain",
+      "countryCode": "TT",
+      "country": "Trinidad und Tobago"
+    }
+  ],
+  "Tokushima, Japan": [
+    {
+      "code": "TKS",
+      "description": "Tokushima",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Tokyo, Japan": [
+    {
+      "code": "NRT",
+      "description": "Tokyo",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    },
+    {
+      "code": "TYO",
+      "description": "Tokyo",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Toledo, USA": [
+    {
+      "code": "TOL",
+      "description": "Toledo",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Toluca, Mexico": [
+    {
+      "code": "TLC",
+      "description": "Toluca",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Toronto, Canada": [
+    {
+      "code": "YTO",
+      "description": "Toronto",
+      "timezone": "America/Montreal",
+      "countryCode": "CA",
+      "country": "Canada"
+    },
+    {
+      "code": "YYZ",
+      "description": "Toronto",
+      "timezone": "America/Montreal",
+      "countryCode": "CA",
+      "country": "Canada"
+    }
+  ],
+  "Torrelavega, Spain": [
+    {
+      "code": "TVE",
+      "description": "Torrelavega",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Torreon, Mexico": [
+    {
+      "code": "TRC",
+      "description": "Torreón",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Toulouse, France": [
+    {
+      "code": "TLS",
+      "description": "Toulouse",
+      "timezone": "Europe/Paris",
+      "countryCode": "FR",
+      "country": "France"
+    }
+  ],
+  "Traverse City, USA": [
+    {
+      "code": "TVC",
+      "description": "Traverse City",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Trelew, Argentina": [
+    {
+      "code": "REL",
+      "description": "Trelew",
+      "timezone": "America/Argentina/Catamarca",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Tri-Cities, USA": [
+    {
+      "code": "TRI",
+      "description": "Tri-Cities",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Tromsø, Norway": [
+    {
+      "code": "TOS",
+      "description": "Tromsø",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Trondheim-Værnes, Norway": [
+    {
+      "code": "TRD",
+      "description": "Trondheim-Værnes",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ],
+  "Trujillo, Peru": [
+    {
+      "code": "TRU",
+      "description": "Trujillo",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Tucson, USA": [
+    {
+      "code": "TUS",
+      "description": "Tucson",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Tulsa, USA": [
+    {
+      "code": "TUL",
+      "description": "Tulsa",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Tulum, Mexico": [
+    {
+      "code": "TQO",
+      "description": "Tulum",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    },
+    {
+      "code": "TUY",
+      "description": "Tulum",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Tumbes, Peru": [
+    {
+      "code": "TBP",
+      "description": "Tumbes",
+      "timezone": "America/Lima",
+      "countryCode": "PE",
+      "country": "Peru"
+    }
+  ],
+  "Turin, Italy": [
+    {
+      "code": "TRN",
+      "description": "Turin",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Tuxtla Gutierrez, Mexico": [
+    {
+      "code": "TGZ",
+      "description": "Tuxtla Gutiérrez",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Tyler, USA": [
+    {
+      "code": "TYR",
+      "description": "Tyler",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "U-Tapao, Thailand": [
+    {
+      "code": "UTP",
+      "description": "U-Tapao",
+      "timezone": "Asia/Bangkok",
+      "countryCode": "TH",
+      "country": "Thailand"
+    }
+  ],
+  "Ube, Japan": [
+    {
+      "code": "UBJ",
+      "description": "Ube",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Uberlandia, Brazil": [
+    {
+      "code": "UDI",
+      "description": "Uberlândia",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Ushuaia, Argentina": [
+    {
+      "code": "USH",
+      "description": "Ushuaia",
+      "timezone": "America/Argentina/Ushuaia",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Valencia, Spain": [
+    {
+      "code": "VLC",
+      "description": "Valencia",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Valladolid, Spain": [
+    {
+      "code": "VLL",
+      "description": "Valladolid",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Valverde, Spain": [
+    {
+      "code": "VDE",
+      "description": "Valverde",
+      "timezone": "Atlantic/Canary",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Vancouver, Canada": [
+    {
+      "code": "YVR",
+      "description": "Vancouver",
+      "timezone": "America/Vancouver",
+      "countryCode": "CA",
+      "country": "Canada"
+    }
+  ],
+  "Venice, Italy": [
+    {
+      "code": "VCE",
+      "description": "Venice",
+      "timezone": "Europe/Rome",
+      "countryCode": "IT",
+      "country": "Italy"
+    }
+  ],
+  "Veracruz, Mexico": [
+    {
+      "code": "VER",
+      "description": "Veracruz",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Viedma, Argentina": [
+    {
+      "code": "VDM",
+      "description": "Viedma",
+      "timezone": "America/Argentina/Salta",
+      "countryCode": "AR",
+      "country": "Argentina"
+    }
+  ],
+  "Vienna, Austria": [
+    {
+      "code": "VIE",
+      "description": "Vienna",
+      "timezone": "Europe/Vienna",
+      "countryCode": "AT",
+      "country": "Austria"
+    }
+  ],
+  "Vigo, Spain": [
+    {
+      "code": "VGO",
+      "description": "Vigo",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Villahermosa, Mexico": [
+    {
+      "code": "VSA",
+      "description": "Villahermosa",
+      "timezone": "Mexico/General",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Vilnius, Lituania": [
+    {
+      "code": "VNO",
+      "description": "Vilnius",
+      "timezone": "Europe/Vilnius",
+      "countryCode": "LT",
+      "country": "Lituânia"
+    }
+  ],
+  "Vitoria, Spain": [
+    {
+      "code": "VIT",
+      "description": "Vitoria",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Vitoria-Goiabeiras, Brazil": [
+    {
+      "code": "VIX",
+      "description": "Vitoria-Goiabeiras",
+      "timezone": "America/Sao_Paulo",
+      "countryCode": "BR",
+      "country": "Brazil"
+    }
+  ],
+  "Waco, USA": [
+    {
+      "code": "ACT",
+      "description": "Waco",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Warsaw, Poland": [
+    {
+      "code": "WAW",
+      "description": "Warsaw",
+      "timezone": "Europe/Warsaw",
+      "countryCode": "PL",
+      "country": "Poland"
+    }
+  ],
+  "Washington DC, USA": [
+    {
+      "code": "IAD",
+      "description": "Washington DC",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    },
+    {
+      "code": "WAS",
+      "description": "Washington DC",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Waterloo, USA": [
+    {
+      "code": "ALO",
+      "description": "Waterloo",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Watertown, USA": [
+    {
+      "code": "ART",
+      "description": "Watertown",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Wausau, USA": [
+    {
+      "code": "AUW",
+      "description": "Wausau",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Wenzhou, China": [
+    {
+      "code": "WNZ",
+      "description": "Wenzhou",
+      "timezone": "Asia/Shanghai",
+      "countryCode": "CN",
+      "country": "China"
+    }
+  ],
+  "West Palm Beach, USA": [
+    {
+      "code": "PBI",
+      "description": "West Palm Beach",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "White Plains Westchester County, USA": [
+    {
+      "code": "HPN",
+      "description": "White Plains Westchester County",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Wichita Falls, USA": [
+    {
+      "code": "SPS",
+      "description": "Wichita Falls",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Wichita, USA": [
+    {
+      "code": "ICT",
+      "description": "Wichita",
+      "timezone": "US/Central",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Wilkes-Barre Scranton, USA": [
+    {
+      "code": "AVP",
+      "description": "Wilkes-Barre Scranton",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Wilmington, USA": [
+    {
+      "code": "ILM",
+      "description": "Wilmington",
+      "timezone": "US/Eastern",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Windhoek, Namibia": [
+    {
+      "code": "WDH",
+      "description": "Windhoek",
+      "timezone": "Africa/Johannesburg",
+      "countryCode": "NA",
+      "country": "Namibia"
+    }
+  ],
+  "Xiamen, China": [
+    {
+      "code": "XMN",
+      "description": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "countryCode": "CN",
+      "country": "China"
+    }
+  ],
+  "Yamagata, Japan": [
+    {
+      "code": "GAJ",
+      "description": "Yamagata",
+      "timezone": "Asia/Tokyo",
+      "countryCode": "JP",
+      "country": "Japan"
+    }
+  ],
+  "Yanbu, Arabie saoudite": [
+    {
+      "code": "YNB",
+      "description": "Yanbu",
+      "timezone": "Asia/Riyadh",
+      "countryCode": "SA",
+      "country": "Arabie saoudite"
+    }
+  ],
+  "Yerevan, Armenia": [
+    {
+      "code": "EVN",
+      "description": "Yerevan",
+      "timezone": "Europe/Moscow",
+      "countryCode": "AM",
+      "country": "Armenia"
+    }
+  ],
+  "Yopal, Colombia": [
+    {
+      "code": "EYP",
+      "description": "Yopal",
+      "timezone": "America/Bogota",
+      "countryCode": "CO",
+      "country": "Colombia"
+    }
+  ],
+  "Yuma, USA": [
+    {
+      "code": "YUM",
+      "description": "Yuma",
+      "timezone": "US/Mountain",
+      "countryCode": "US",
+      "country": "USA"
+    }
+  ],
+  "Zacatecas, Mexico": [
+    {
+      "code": "ZCL",
+      "description": "Zacatecas",
+      "timezone": "America/Monterrey ",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Zagreb, Croatia": [
+    {
+      "code": "ZAG",
+      "description": "Zagreb",
+      "timezone": "Europe/Zagreb",
+      "countryCode": "HR",
+      "country": "Croatia"
+    }
+  ],
+  "Zakynthos, Greece": [
+    {
+      "code": "ZTH",
+      "description": "Zakynthos",
+      "timezone": "Europe/Athens",
+      "countryCode": "GR",
+      "country": "Greece"
+    }
+  ],
+  "Zamora, Spain": [
+    {
+      "code": "ZOB",
+      "description": "Zamora",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Zanzibar, Tanzania": [
+    {
+      "code": "ZNZ",
+      "description": "Zanzibar",
+      "timezone": "Africa/Nairobi",
+      "countryCode": "TZ",
+      "country": "Tanzania"
+    }
+  ],
+  "Zaragoza, Spain": [
+    {
+      "code": "ZAZ",
+      "description": "Zaragoza",
+      "timezone": "Europe/Madrid",
+      "countryCode": "ES",
+      "country": "Spain"
+    }
+  ],
+  "Zihuatanejo, Mexico": [
+    {
+      "code": "ZIH",
+      "description": "Zihuatanejo",
+      "timezone": "America/Cancun",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Zumpango, Mexico": [
+    {
+      "code": "NLU",
+      "description": "Zumpango",
+      "timezone": "America/Mexico_City",
+      "countryCode": "MX",
+      "country": "Mexico"
+    }
+  ],
+  "Zurich, Switzerland": [
+    {
+      "code": "ZRH",
+      "description": "Zurich",
+      "timezone": "Europe/Zurich",
+      "countryCode": "CH",
+      "country": "Switzerland"
+    }
+  ],
+  "Ørsta, Norway": [
+    {
+      "code": "HOV",
+      "description": "Ørsta",
+      "timezone": "Europe/Oslo",
+      "countryCode": "NO",
+      "country": "Norway"
+    }
+  ]
+}
