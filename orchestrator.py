@@ -28,6 +28,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))  # so the airline modules find shared utils.py
 
+from utils import ensure_connected
+
 
 def load_airline(name):
     """Load <name>/scraper.py as a uniquely-named module. Each airline ships its
@@ -133,7 +135,7 @@ def main():
                     break
 
                 sweep_num += 1
-                av.ensure_connected()  # single connectivity gate for the process
+                ensure_connected()  # single connectivity gate for the process
 
                 if sweep_num > 1:
                     print(f"\n♻ re-warming both sessions before sweep {sweep_num}...")

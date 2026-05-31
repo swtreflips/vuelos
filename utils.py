@@ -28,3 +28,16 @@ def reset_wifi(adapter: str = WIFI_ADAPTER):
         ["netsh", "interface", "set", "interface", f"name={adapter}", "admin=enabled"],
         stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
     )
+
+
+def ensure_connected():
+    if check_internet():
+        return
+    print("   ⚠ No internet — resetting wifi...")
+    reset_wifi()
+    print("   ⏳ Waiting 20s for connection to re-establish...")
+    time.sleep(20)
+    if check_internet():
+        print("   ✅ Reconnected successfully.")
+    else:
+        print("   ⚠ Still no internet after reconnect attempt. Proceeding anyway.")

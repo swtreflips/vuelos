@@ -27,7 +27,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from utils import check_internet, reset_wifi
+from utils import check_internet, reset_wifi, ensure_connected
 from canonical import canonicalize
 
 # ----- paths -----
@@ -212,18 +212,6 @@ def canonicalize_new():
             failed.append(raw_path.name)
     print(f"   📐 canonicalized: {ok} new" + (f", {len(failed)} skipped (no data)" if failed else ""))
 
-
-def ensure_connected():
-    if check_internet():
-        return
-    print("   ⚠ No internet — resetting wifi...")
-    reset_wifi()
-    print("   ⏳ Waiting 20s for connection to re-establish...")
-    time.sleep(20)
-    if check_internet():
-        print("   ✅ Reconnected successfully.")
-    else:
-        print("   ⚠ Still no internet after reconnect attempt. Proceeding anyway.")
 
 
 def compute_next_sleep(now: datetime) -> float:
