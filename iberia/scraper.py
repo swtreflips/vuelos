@@ -47,6 +47,29 @@ for _d in (RAW_DIR, CANONICAL_DIR, LONGFORMAT_DIR):
 # ----- config -----
 AVAIL_URL      = "https://ibisservices.iberia.com/api/sse-avm/rs/v2/availability/itinerary"
 WARM_URL       = "https://www.iberia.com/co/?language=en"
+REWARM_URLS = [
+    # MAD → AMS
+    (
+        "https://www.iberia.com/flights/?market=CO&language=es&appliesOMB=false"
+        "&splitEndCity=false&initializedOMB=true&flexible=true&TRIP_TYPE=1"
+        "&BEGIN_CITY_01=MAD&END_CITY_01=AMS&nombreOrigen=Madrid&nombreDestino=Amsterdam"
+        "&BEGIN_DAY_01=26&BEGIN_MONTH_01=202606&BEGIN_YEAR_01=2026"
+        "&END_DAY_01=&END_MONTH_01=&END_YEAR_01=&FARE_TYPE=undefined&quadrigam=IBHMPA"
+        "&ADT=1&CHD=0&INF=0&BNN=0&YTH=0&YCD=0&residentCode=&familianumerosa="
+        "&BV_UseBVCookie=no&boton=Buscar&bookingMarket=CO#!/availability"
+    ),
+    # MAD → LHR  (different destination forces a genuine fresh search, avoids cache)
+    (
+        "https://www.iberia.com/flights/?market=CO&language=es&appliesOMB=false"
+        "&splitEndCity=false&initializedOMB=true&flexible=true&TRIP_TYPE=1"
+        "&BEGIN_CITY_01=MAD&END_CITY_01=LHR&nombreOrigen=Madrid&nombreDestino=London"
+        "&BEGIN_DAY_01=26&BEGIN_MONTH_01=202606&BEGIN_YEAR_01=2026"
+        "&END_DAY_01=&END_MONTH_01=&END_YEAR_01=&FARE_TYPE=undefined&quadrigam=IBHMPA"
+        "&ADT=1&CHD=0&INF=0&BNN=0&YTH=0&YCD=0&residentCode=&familianumerosa="
+        "&BV_UseBVCookie=no&boton=Buscar&bookingMarket=CO#!/availability"
+    ),
+]
+REWARM_URL = REWARM_URLS[0]   # kept for init_page reference
 DEPARTURE_DATE = "2026-06-26"
 MARKET         = "CO"
 CABIN          = "ECONOMY"
@@ -56,6 +79,8 @@ MAX_SLEEP   = 8
 NIGHT_SLEEP = 80 * 60
 DAY_SLEEP   = 3 * 60 * 60
 MAX_RUNTIME = timedelta(hours=23, minutes=45)
+
+REPLAYS_BETWEEN_WARMS = 5   # rewarm every 5 successful calls
 
 # Fallback x-request-* values; overridden by whatever is sniffed at warm-up.
 DEFAULT_XREQ = {
@@ -71,7 +96,9 @@ DEFAULT_ROUTES = [
 
 # Session state populated by remember_headers() at warm-up.
 # Stores "authorization" (Bearer) + "x-request-*" + "x-salesforce-token".
-session_headers: dict[str, str] = {}
+session_headers:     dict[str, str] = {}
+_rewarm_url_idx:     int = 0   # alternates between REWARM_URLS on each rewarm
+_replays_since_warm: int = 0
 
 
 def stamp() -> str:
@@ -204,44 +231,72 @@ def canonicalize_new():
 
 
 def init_page(page) -> bool:
-    """Attach request listener, navigate warm-up URL, wait for Bearer token.
-    If the page doesn't auto-fire an authed call within 45s, waits 180s more
-    so the user can run a manual search in the open browser window."""
+    """Attach request listener, navigate the search deep-link, wait for Bearer token."""
     page.on("request", remember_headers)
     try:
-        page.goto(WARM_URL, wait_until="domcontentloaded")
+        page.goto(REWARM_URL, wait_until="domcontentloaded")
     except Exception as e:
         print(f"   ⚠ iberia warm-up navigation: {e}")
     if wait_for_token(page, timeout_s=45):
         return True
-    print("   ⚠ no Bearer yet — run a flight search in the iberia tab; waiting up to 180s more...")
-    return wait_for_token(page, timeout_s=180)
+    print("   ⚠ re-warm timed out — no fresh Bearer captured.")
+    return False
 
 
 def rewarm_session(page) -> bool:
-    """Re-navigate to get a fresh Bearer token before the next sweep."""
+    """Navigate a fresh search URL (alternating between two destinations) so the
+    page fires its own availability call and we capture the Bearer token passively.
+    Tries a reload first (faster, uses cached resources); falls back to a fresh
+    search URL if the reload doesn't produce a Bearer within 20s."""
+    global _rewarm_url_idx
     session_headers.clear()
     try:
-        page.goto(WARM_URL, wait_until="domcontentloaded")
+        page.reload(wait_until="domcontentloaded")
     except Exception as e:
-        print(f"   ⚠ iberia re-warm navigation: {e}")
+        print(f"   ⚠ iberia reload failed: {e}")
+    if wait_for_token(page, timeout_s=20):
+        return True
+    # fallback: navigate to alternate search URL
+    url = REWARM_URLS[_rewarm_url_idx % len(REWARM_URLS)]
+    _rewarm_url_idx += 1
+    print(f"   ⚠ reload didn't yield Bearer — navigating {url[-30:]}")
+    try:
+        page.goto(url, wait_until="domcontentloaded")
+    except Exception as e:
+        print(f"   ⚠ iberia goto failed: {e}")
     if wait_for_token(page, timeout_s=45):
         return True
-    print("   ⚠ iberia re-warm: no Bearer yet — waiting 180s more...")
-    return wait_for_token(page, timeout_s=180)
+    print("   ⚠ rewarm timed out.")
+    return False
 
 
 def do_one_call(page, context, row, sweep_num=1, idx=1, total=1):
     """Fire + save a single planned route. Callable from standalone sweep()
     and from the orchestrator's interleaved scheduler."""
+    global _replays_since_warm
     from_city, to_city, from_apt, to_apt = row
     origin = from_apt["code"]
     dest   = to_apt["code"]
     print(f"[IB sweep {sweep_num}] [{idx}/{total}] {from_city} ({origin}) → {to_city} ({dest})")
 
+    if _replays_since_warm >= REPLAYS_BETWEEN_WARMS:
+        print("   ♻ rewarm (count reached)")
+        rewarm_session(page)
+        _replays_since_warm = 0
+
     payload = build_payload(origin, dest, DEPARTURE_DATE)
     result  = call_availability(page, payload)
+
+    if result.get("status") == 0 or not session_headers.get("authorization"):
+        print("   ♻ rewarm + retry (status 0 / no Bearer)")
+        rewarm_session(page)
+        _replays_since_warm = 0
+        result = call_availability(page, payload)
+
     print(f"   ok={result['ok']} status={result['status']}")
+
+    if result["ok"]:
+        _replays_since_warm += 1
 
     label = f"{stamp()}_{origin}-{dest}_{DEPARTURE_DATE}"
     path  = save_result(label, {

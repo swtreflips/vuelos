@@ -148,6 +148,7 @@ def main():
                     av.rewarm_session(av_page)
                     la_client.replays_since_warm = la.REPLAYS_BETWEEN_WARMS
                     ib.rewarm_session(ib_page)
+                    ib._replays_since_warm = 0
 
                 print(f"\n🔁 sweep {sweep_num} starting at {now.strftime('%Y-%m-%d %H:%M:%S')}")
                 runners = [
